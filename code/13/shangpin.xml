@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<goods>
+<!-- 我自己的商 品-->
+  <SkinCare>
+    <anti_wrinkle>
+      <SkinName>真奢华</SkinName>
+      <SkinPrice>450元</SkinPrice>
+      <SkinEffect>去干纹</SkinEffect>
+    </anti_wrinkle>
+    <hydrating>
+      <SkinName>dermare</SkinName>
+      <SkinPrice>250元</SkinPrice>
+      <SkinEffect>双因子补水维护精华</SkinEffect>
+    </hydrating>
+    <whitening >
+      <SkinName>美白</SkinName>
+      <SkinPrice>270元</SkinPrice>
+      <SkinEffect>美白维护精华</SkinEffect>
+    </whitening>
+  </SkinCare>
+  <shampoo>
+    <repair >
+      <shampooName>潘婷</shampooName>
+      <shampooPrice>50元</shampooPrice>
+      <shampooEffect>修复干枯洗发露</shampooEffect>
+    </repair>
+    <Prevent>
+	<![CDATA[
+      <shampooName>迪彩</shampooName>
+      <shampooPrice>30元</shampooPrice>
+      <shampooEffect>防干枯洗发露</shampooEffect>
+	  ]]>
+    </Prevent>
+  </shampoo>
+</goods>

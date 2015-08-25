@@ -1,0 +1,66 @@
+mport socket, sys, time
+
+host = sys.argv[1]
+textport = sys.argv[2]
+filename = sys.argv[3]
+
+#创建socket对象
+try:
+    s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+except socket.error, e:
+    print 'Strange error creating socket:%s' % e
+sys.exit(1)
+
+#创建端口号
+try:
+    port = int(textport)
+except  ValueError:
+    try:
+        port = socket.getservbyname(textport, 'tcp')
+    except socket.error, e:
+        print 'Couldn not find your port:%s' % e
+        sys.exit(1)
+
+#连接socket
+try:
+    s.connect((host, port))
+except socket.gaierror, e:
+    print 'Address-related error connecting to server :%s' % e
+    sys.exit(1)
+except socket.error, e:
+    print 'Connection error:%s' % e
+    sys.exit(1)
+
+fd = s.makefile('rw', 0) #使用文件类对象
+print 'sleeping...'
+time.sleep(10) #线程休息10S
+print 'Continuing...'
+
+
+try:
+    s.sendall("GET %s HTTP/1.0\r\n\r\n" % filename)
+except socket.error, e:
+    print 'Error sending data:%s' % e
+    sys.exit(1)
+
+try:
+    fd.flush()
+except socket.error, e:
+    print 'Error sending data: %s' % e
+    sys.exit(1)
+
+try:
+    s.shutdown(1)
+    s.close()
+except socket.error, e:
+    print 'Error sending data:%s' % e
+
+while True:
+    try:
+        buf = fd.read(2048)
+    except socket.error, e:
+        print 'Error receiving data:%s' % e
+        sys.exit(1)
+    if not len(buf):
+        break
+    sys.stdout.write(buf)

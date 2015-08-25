@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>通讯录</title>
+<style type="text/css">
+table{border:1px solid #003366;border-width:1px 0 0 1px;margin:2px 0 2px 0;text-align:center;border-collapse:collapse;}
+   td,th{border:1px solid #003366;border-width:0 1px 1px 0;margin:2px 0 2px 0;text-align:center;
+   background-color: #FFFFFF;}
+   th{text-align:center;font-weight:600;font-size:14px;background-color:#003366; color:#FFFFFF};
+   tr.t1 td {background-color:#fff;}/* 第一行的背景色 */
+   tr.t2 td {background-color:#eee;}/* 第二行的背景色 */
+   tr.t3 td {background-color:#ccc;}/* 鼠标经过时的背景色 */
+</style>
+</head>
+<body>
+<h2>通讯录</h2>
+<table width="100%" cellpadding="0" cellspacing="0" id="tab" >
+  <tr>
+   <th width="17%">姓名</th>
+   <th width="17%">性别</th>
+   <th width="22%">年龄</th>
+   <th width="44%">地址</th>
+  </tr>
+  {% for user in address %}
+  <tr>
+  <td>{{ user.name }}</td>
+  <td>{{ user.sex }}</td>
+  <td>{{ user.age }}</td>
+  <td>{{ user.address }}</td>
+  </tr>
+{% endfor %}
+</table>
+<script type="text/javascript">
+<!--
+     var Ptr=document.getElementById("tab").getElementsByTagName("tr");
+  function $() {
+      for (i=1;i<Ptr.length+1;i++) { 
+       Ptr[i-1].className = (i%2>0)?"t1":"t2"; 
+      }
+  }
+  window.onload=$;
+  for(var i=0;i<Ptr.length;i++) {
+       Ptr[i].onmouseover=function(){
+        this.tmpClass=this.className;
+       this.className = "t3";    
+     };
+       Ptr[i].onmouseout=function(){
+      this.className=this.tmpClass;
+     };
+}
+//-->
+</script>
+</body>
+</html>

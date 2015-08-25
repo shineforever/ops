@@ -1,0 +1,7 @@
+<DBConnections>
+    <DBConnection Key="Test" Server="192.168.0.9" Database="Test" User="Testsa" Password="testsa"/>
+    <DBConnection Key="Ds" Server="192.168.0.6" Database="Test" User="Dsdcy" Password="dsdcy"/>
+    <DBConnection Key="User" Server="(local)" Database="Master" User="Usersa" Password="usersa"/>
+    <DBConnection Key="Local" Server="192.168.0.5" Database="Test" User="Localsa" Password="localsa"/>
+ </DBConnections>
+
