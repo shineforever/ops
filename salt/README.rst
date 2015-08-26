@@ -34,7 +34,7 @@ The SaltStack YouTube channel is filled with Salt videos and presentations.
 Watch the latest Salt Air episodes for updates from Thomas on development,
 catch tutorials, and stay on the cutting edge of Salt.
 
-http://www.youtube.com/user/saltstack
+c
 
 Mailing List
 ============
