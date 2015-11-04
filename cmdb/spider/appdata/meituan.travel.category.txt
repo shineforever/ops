@@ -1,4 +1,0 @@
-景点门票,jingdianmenpiao
-本地/周边游,zhoubianyou
-国内游,guoneiyou
-境外游,jingwaiyou
