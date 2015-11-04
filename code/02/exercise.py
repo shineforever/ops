@@ -1,6 +1,7 @@
-var1=int(raw_input('ÇëÊäÈë²Ù×÷Êı1£º'))
-var2=int(raw_input('ÇëÊäÈë²Ù×÷Êı2£º'))
-var=raw_input('ÇëÊäÈëËãÊõÔËËã·û£º')
+#coding=utf-8
+var1=int(raw_input('ç¬¬ä¸€ä¸ªå‚æ•°'))
+var2=int(raw_input('ç¬¬äºŒä¸ªå‚æ•°'))
+var=raw_input('è¿ç®—ç¬¦')
 if(var=='+'):
 	var3=var1+var2
 	print var3

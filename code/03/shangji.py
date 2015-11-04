@@ -1,3 +1,4 @@
+#coding=utf-8
 chengji={'dcy':95,
 'admin':90,
 'happy':100,
@@ -10,4 +11,4 @@ chengji={'dcy':95,
 'zone':60,
 'hao':89}
 for key in chengji:
-	print key,'µÄ³É¼¨ÊÇ£º',chengji[key]
+	print key,'å­¦å‘˜åˆ†æ•°',chengji[key]

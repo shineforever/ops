@@ -1,21 +1,22 @@
-a = int(raw_input("ÇëÊäÈëÄúÏëÒªÊäÈëµÄÊý×Ö£º"))
+# coding=utf-8
+a = int(raw_input("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Òªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö£ï¿½"))
 if a > 0:
-    print "ÄúÊäÈëµÄÊýÊÇÒ»¸öÕýÊý"
+    print "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½"
 else:
-    print "ÄúÊäÈëµÄÊýÊÇÒ»¸ö¸ºÊý"
+    print "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½"
     
-b = input("ÎÒÃÇÀ´Ò»ÆðÅÐ¶ÏÕý¸º£¬ÇëÊäÈëÒ»¸öÊý×Ö£º")
+b = input("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½Ð¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½Ö£ï¿½")
 if b > 0:
-    print "ÄúÊäÈëµÄÊýÊÇÒ»¸öÕýÊý"
+    print "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½"
 elif b < 0:
-    print "ÄúÊäÈëµÄÊýÊÇÒ»¸ö¸ºÊý"
+    print "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½"
 else:
-    print "ÄúÊäÈëµÄÊýÊÇ0"
-s = raw_input("×ð¾´µÄÓÃ»§£¬ÇëÊäÈëÄúµÄÃû×Ö£º");
+    print "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½0"
+s = raw_input("ï¿½ð¾´µï¿½ï¿½Ã»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö£ï¿½");
 if s.endswith("wang"):
     if s.startswith("yabin"):
-        print "ÄãºÃ£¬wangyabin"
+        print "ï¿½ï¿½Ã£ï¿½wangyabin"
     elif s.startswith("jing"):
-        print "ÄúºÃ£¬wangjing"
+        print "ï¿½ï¿½Ã£ï¿½wangjing"
 else:
-    print "ÇëÄúÊäÈëÕýÈ·µÄÃû×Ö£¬Ð»Ð»"
+    print "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È·ï¿½ï¿½ï¿½ï¿½ï¿½Ö£ï¿½Ð»Ð»"

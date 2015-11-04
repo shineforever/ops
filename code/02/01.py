@@ -1,7 +1,8 @@
 time=12
 if(time==12):
-    print '12'          #代码缩进
+    print '12'
 else:
-    print '18'           #代码缩进
-time=time+6           #代码缩进
-print str(time)         #代码缩进
+    print '18'
+time=time+6
+#print str(time)
+print 'i dont know'

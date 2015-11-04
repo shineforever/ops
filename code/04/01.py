@@ -1,5 +1,5 @@
 ﻿# 函数的定义
-def login (username = "maxianglin" , password = "maxianglin"):
+def login (username = "maxianglin" , password = "maxianglin11"):
     if(username == 'admin') and (password == 'admin'):
         print "登录成功！"
     else:

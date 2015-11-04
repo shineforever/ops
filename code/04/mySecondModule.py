@@ -4,4 +4,6 @@ def myFun ():
     global num
     num = num + 1
     return num
-    
+
+
+print myFun()

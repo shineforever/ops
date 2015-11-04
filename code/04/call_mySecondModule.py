@@ -1,4 +1,5 @@
 ﻿import mySecondModule
+
 num=mySecondModule.myFun()
 print "调用模块函数，num="+str(num)
 

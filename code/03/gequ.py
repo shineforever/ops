@@ -1,15 +1,16 @@
-gequ=['°®£¬¾ÍÊÇ°®','È«ÃæÍ¨¼©','Àë¿ªÄÇÌì','Ã÷Ìì¹ýºó','¼û»òÕß²»¼û','ÄªÊ§ÄªÍü']
-countStr=raw_input('ÄãÏëÈÃÒôÀÖÑ­»·²¥·ÅµÄ±éÊý£º')
+#coding=utf-8
+gequ=['ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ç°ï¿½','È«ï¿½ï¿½Í¨ï¿½ï¿½','ï¿½ë¿ªï¿½ï¿½ï¿½ï¿½','ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½','ï¿½ï¿½ï¿½ï¿½ß²ï¿½ï¿½ï¿½','ÄªÊ§Äªï¿½ï¿½']
+countStr=raw_input('å¾ªçŽ¯æ¬¡æ•°')
 count=int(countStr)
-qizhong=raw_input('ÊäÈëÄúÄ¿Ç°²»ÏëÌýµÄ¸èÇú£º')
-tiaoguo=raw_input('ÊäÈëÄúÏëÌø¹ýµÄ¸èÇú£º')
+qizhong=raw_input('ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¿Ç°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¸ï¿½ï¿½ï¿½')
+tiaoguo=raw_input('ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¸ï¿½ï¿½ï¿½')
 i=1
-while i<=count:	
+while i<=count:
 	i+=1
-	print '---------------Ñ­»·¿ªÊ¼--------------'
+	print '---------------æ¬¡æ•°--------------'
 	for danqu in gequ:
 		if danqu==qizhong:
 			break
 		if danqu==tiaoguo:
 			continue
-		print 'µÚ',i-1,'´Î²¥·ÅµÄ¸èÇú',danqu
+		print 'åºå·',i-1,'å•æ¬¡',danqu

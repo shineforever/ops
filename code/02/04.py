@@ -1,3 +1,4 @@
+# coding=utf-8
 import random
 def equalseNum (num):
     if(num == 6):
@@ -9,10 +10,10 @@ num=random.randrange(1,9)
 print 'num = '+str(num)
 print equalseNum(num)
 
-# ÉùÃ÷²¢³õÊ¼»¯±äÁ¿num
-# ¸Ä±ä±äÁ¿numµÄÖµ£¬Ê¹ÖµÀ©´ó10±¶
+# ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½num
+# ï¿½Ä±ï¿½ï¿½ï¿½ï¿½numï¿½ï¿½Öµï¿½ï¿½Ê¹Öµï¿½ï¿½ï¿½ï¿½10ï¿½ï¿½
 #
-# Êä³ö±äÁ¿µÄÖµ
+# ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Öµ
 num = 12
 num *= 10
 print num

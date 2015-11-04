@@ -1,8 +1,9 @@
-def addUser (usernames = [] , realname='ÎÞÃû', addres = 'ºÓÄÏÊ¡Ö£ÖÝÊÐ'):
+#coding:utf-8
+def addUser (usernames = [] , realname='ï¿½ï¿½ï¿½ï¿½', addres = 'ï¿½ï¿½ï¿½ï¿½Ê¡Ö£ï¿½ï¿½ï¿½ï¿½'):
     username = usernames[0]
     if username == 'admin':
-        print "Ìí¼Ó³É¹¦£¡"
+        print "ï¿½ï¿½Ó³É¹ï¿½ï¿½ï¿½"
     else:
-        print "Ìí¼ÓÊ§°Ü£¡"
+        print "ï¿½ï¿½ï¿½Ê§ï¿½Ü£ï¿½"
 addUser(['admin','maxianglin','yangxiaona'])
-        
+
