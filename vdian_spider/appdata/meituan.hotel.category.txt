@@ -1,0 +1,8 @@
+经济型酒店,jingjijiudian
+豪华酒店,haohuajiudian
+公寓式酒店,gongyushijiudian
+主题酒店,zhutijiudian
+度假酒店,dujiajiudian
+温泉酒店,wenquanjiudian
+客栈,kezhan
+青年旅舍,qingnianlvshe

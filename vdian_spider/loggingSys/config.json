@@ -1,0 +1,204 @@
+[
+    {
+        "service": "test",
+        "logFile": "./log/test.log",
+        "rotateOptions":{
+            "count":3,
+            "size":"500m",
+            "buffer":"1k"
+        }
+    },
+    {
+        "service": "yicheershou",
+        "logFile": "./log/yicheershou.log"
+    },
+    {
+        "service": "athmdealer",
+        "logFile": "./log/athmdealer.log"
+    },
+    {
+        "service": "bitadealer",
+        "logFile": "./log/bitadealer.log"
+    },
+    {
+        "service": "xcardealer",
+        "logFile": "./log/xcardealer.log"
+    },
+    {
+        "service": "pcadealer",
+        "logFile": "./log/pcadealer.log"
+    },
+    {
+        "service": "cars.tmall",
+        "logFile": "./log/cars.tmall.log"
+    },
+    {
+        "service": "huimaiche_tg",
+        "logFile": "./log/huimaiche_tg.log"
+    },
+    {
+        "service": "huimaiche_dealer",
+        "logFile": "./log/huimaiche_dealer.log"
+    },
+    {
+        "service": "yichetemai",
+        "logFile": "./log/yichetemai.log"
+    },
+    {
+        "service": "yichemall",
+        "logFile": "./log/yichemall.log"
+    },
+    {
+        "service": "miaoche",
+        "logFile": "./log/miaoche.log"
+    },
+    {
+        "service": "athmec",
+        "logFile": "./log/athmec.log"
+    },
+    {
+        "service": "xgo_dealer",
+        "logFile": "./log/xgo_dealer.log"
+    },
+    {
+        "service": "jd_aiwu",
+        "logFile": "./log/jd_aiwu.log"
+    },
+    {
+        "service": "athmershou",
+        "logFile": "./log/athmershou.log"
+    },
+    {
+        "service": "jd_yiche_Hmc",
+        "logFile": "./log/jd_yiche_Hmc.log"
+    },
+    {
+        "service": "yichehui_activity",
+        "logFile": "./log/yichehui_activity.log"
+    },
+    {
+        "service": "bitachedai_applicant",
+        "logFile": "./log/bitachedai_applicant.log"
+    },
+    {
+        "service": "tmall_hoods",
+        "logFile": "./log/tmall_hoods.log"
+    },
+
+    {
+        "service": "sf.worker",
+        "logFile": "./log/sf.worker.log"
+    },
+    {
+        "service": "iwjw.worker",
+        "logFile": "./log/iwjw.worker.log"
+    },
+    {
+        "service": "lianjia",
+        "logFile": "./log/lianjia.log"
+    },
+    {
+        "service": "58.job",
+        "logFile": "./log/58.job.log"
+    },
+    {
+        "service": "58.service",
+        "logFile": "./log/58.service.log"
+    },
+    {
+        "service": "58.rent",
+        "logFile": "./log/58.rent.log"
+    },
+    {
+        "service": "58.ershoufang",
+        "logFile": "./log/58.ershoufang.log"
+    },
+    {
+        "service": "gj.job",
+        "logFile": "./log/gj.job.log"
+    },
+    {
+        "service": "gj.service",
+        "logFile": "./log/gj.service.log"
+    },
+    {
+        "service": "gj.rent",
+        "logFile": "./log/gj.rent.log"
+    },
+    {
+        "service": "gj.ershoufang",
+        "logFile": "./log/gj.ershoufang.log"
+    },
+    {
+        "service": "xdf",
+        "logFile": "./log/xdf.log"
+    },
+    {
+        "service": "peiyou",
+        "logFile": "./log/peiyou.log"
+    },
+    {
+        "service":"58daojia.banjia",
+        "logFile":"./log/58daojia/58daojia.banjia.log"
+    },
+    {
+        "service":"58daojia.ayi",
+        "logFile":"./log/58daojia/58daojia.ayi.log"
+    },
+    {
+        "service":"58daojia.massage",
+        "logFile":"./log/58daojia/58daojia.massage.log"
+    },
+    {
+        "service":"58daojia.meijie",
+        "logFile":"./log/58daojia/58daojia.meijie.log"
+    },
+    {
+        "service":"58daojia.nail",
+        "logFile":"./log/58daojia/58daojia.nail.log"
+    },
+    {
+        "service":"58daojia.xiufu",
+        "logFile":"./log/58daojia/58daojia.xiufu.log"
+    },
+    {
+        "service":"58daojia.yuesao",
+        "logFile":"./log/58daojia/58daojia.yuesao.log"
+    },
+    {
+        "service": "vip",
+        "logFile": "./log/vip.log"
+    },
+    {
+        "service": "didi",
+        "logFile": "./log/didi.log"
+    },
+    {
+        "service": "didizhuanche",
+        "logFile": "./log/didizhuanche.log"
+    },
+    {
+        "service": "vip1car",
+        "logFile": "./log/vip1car.log"
+    },
+    {
+        "service":"cheyipai.bidding",
+        "logFile":"./log/cheyipai.bidding.log"
+    },
+    {
+        "service":"youxin.newlypost",
+        "logFile":"./log/youxin.newlypost.log"
+    },
+    {
+        "service":"youxin.fuyiban",
+        "logFile":"./log/youxin.fuyiban.log"
+    },
+    {
+        "service":"youxin.ershou",
+        "logFile":"./log/youxin.ershou.log"
+    },
+    {
+        "service":"haoche.ganji",
+        "logFile":"./log/haoche.ganji.log"
+    }
+]

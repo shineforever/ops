@@ -1,0 +1,39 @@
+{
+    "development":{
+	"db":{
+	    "database":"InternetCompanies",
+	    "user":"mike",
+	    "password":"Mike442144",
+	    "host":"db-server",
+	    "connectionLimit":8
+	},
+	"gearman":{
+	    "servers":[{"host":"192.168.98.116"}]
+	},
+	"mongodb":"mongodb://192.168.98.116:27017/test",
+	"godotServer":{
+		"type":"udp",
+		"host":"192.168.98.144",
+		"port":1337
+	}
+    },
+    "production":{
+	"db":{
+	    "database":"internetcompanies",
+	    "user":"mike",
+	    "password":"Mike442144",
+	    "host":"rdsvnzckupeoh3tlybgja.mysql.rds.aliyuncs.com",
+	    "connectionLimit":8
+	},
+	"gearman":{
+	    "servers":[{"host":"10.144.30.246"},{"host":"10.252.25.62"},{"host":"10.163.100.116"}],
+	    "loadBalancing": "RoundRobin"
+	},
+	"mongodb":"mongodb://10.252.25.62:27017/gearman",
+	"godotServer":{
+		"type":"udp",
+		"host":"10.165.63.168",
+		"port":1337
+	}
+    }
+}
