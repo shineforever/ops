@@ -1,0 +1,14 @@
+家政服务,http://bj.58.com/shenghuo.shtml
+婚庆服务,http://bj.58.com/hunjiehunqing.shtml
+教育培训,http://bj.58.com/jiaoyu.shtml
+商务服务,http://bj.58.com/shangwu.shtml
+装修建材,http://bj.58.com/zhuangxiujc.shtml
+汽车服务,http://bj.58.com/qichefw.shtml
+旅游酒店,http://bj.58.com/lvyouxiuxian.shtml
+医疗健康,http://bj.58.com/yiliaobaojian.shtml
+餐饮美食,http://bj.58.com/canyin.shtml
+休闲娱乐,http://bj.58.com/xiuxianyl.shtml
+招商加盟,http://bj.58.com/zhaoshang.shtml
+批发采购,http://bj.58.com/shop.shtml
+农林牧副渔,http://bj.58.com/nonglinmy.shtml
+公共服务,http://bj.58.com/bianminfw.shtml

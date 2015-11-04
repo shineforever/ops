@@ -1,0 +1,444 @@
+生活 | 服务业,餐饮,服务员,cantfwy
+生活 | 服务业,餐饮,送餐员,songcanyuan
+生活 | 服务业,餐饮,厨师|厨师长,canguan
+生活 | 服务业,餐饮,后厨,houchuczg
+生活 | 服务业,餐饮,传菜员,chuancaiyuan
+生活 | 服务业,餐饮,配菜|打荷,chufangqiepei
+生活 | 服务业,餐饮,洗碗工,xiwangong
+生活 | 服务业,餐饮,面点师,miandianshi
+生活 | 服务业,餐饮,茶艺师,chayi
+生活 | 服务业,餐饮,迎宾|接待,qiantjd
+生活 | 服务业,餐饮,大堂经理|领班,datangjingli
+生活 | 服务业,餐饮,餐饮管理,jiudianjl
+生活 | 服务业,餐饮,学徒,zpxuetu
+生活 | 服务业,餐饮,杂工,zpzagong
+生活 | 服务业,餐饮,咖啡师,zpkafei
+生活 | 服务业,餐饮,预订员,zpyudingyuan
+生活 | 服务业,家政保洁|安保,保洁,baojieyuan
+生活 | 服务业,家政保洁|安保,保姆,baomuxin
+生活 | 服务业,家政保洁|安保,月嫂,yuesaoyuying
+生活 | 服务业,家政保洁|安保,育婴师|保育员,yuying
+生活 | 服务业,家政保洁|安保,洗衣工,xiyifang
+生活 | 服务业,家政保洁|安保,钟点工,zhdiang
+生活 | 服务业,家政保洁|安保,保安,baoanl
+生活 | 服务业,家政保洁|安保,护工,hugong
+生活 | 服务业,家政保洁|安保,送水工,songshuigong
+生活 | 服务业,美容|美发,发型师,faxingshi
+生活 | 服务业,美容|美发,美发助理|学徒,meifaxuetu
+生活 | 服务业,美容|美发,洗头工,xitougong
+生活 | 服务业,美容|美发,美容导师,zpmeirongdaoshi
+生活 | 服务业,美容|美发,美容师,meirongshi
+生活 | 服务业,美容|美发,美容助理|学徒,meirongzhuli
+生活 | 服务业,美容|美发,化妆师,huazhuangshizg
+生活 | 服务业,美容|美发,美甲师,meitishi
+生活 | 服务业,美容|美发,宠物美容,chongwumr
+生活 | 服务业,美容|美发,美容店长,meifadianz
+生活 | 服务业,美容|美发,美容|瘦身顾问,meirongguwen
+生活 | 服务业,美容|美发,彩妆培训师,caizhuangpeixun
+生活 | 服务业,美容|美发,美体师,zpmeitishi
+生活 | 服务业,酒店|旅游,酒店前台,zpjiudianqiantai
+生活 | 服务业,酒店|旅游,客房服务员,zpkefang
+生活 | 服务业,酒店|旅游,楼面经理,zpjingli
+生活 | 服务业,酒店|旅游,行李员,xingliyuan
+生活 | 服务业,酒店|旅游,救生员,jiushengyuan
+生活 | 服务业,酒店|旅游,酒店管理,zpjiudianguanli
+生活 | 服务业,酒店|旅游,订票员,zpdingpiao
+生活 | 服务业,酒店|旅游,导游,dyao
+生活 | 服务业,酒店|旅游,计调,zpjidiao
+生活 | 服务业,酒店|旅游,签证专员,qianzheng
+生活 | 服务业,酒店|旅游,旅游顾问,lvyouguwen
+生活 | 服务业,娱乐|休闲,酒吧服务员,jiubagzy
+生活 | 服务业,娱乐|休闲,娱乐厅服务员,yulefwy
+生活 | 服务业,娱乐|休闲,礼仪|迎宾,wtliyi
+生活 | 服务业,娱乐|休闲,主持人,wtzhuchiren
+生活 | 服务业,娱乐|休闲,调酒师,tiaojiushi
+生活 | 服务业,娱乐|休闲,音效师,wtluying
+生活 | 服务业,娱乐|休闲,灯光师,dengguangshi
+生活 | 服务业,娱乐|休闲,摄影师|摄像师,wtxieying
+生活 | 服务业,娱乐|休闲,影视|后期制作,yingshicehua
+生活 | 服务业,娱乐|休闲,配音员,peiyin
+生活 | 服务业,娱乐|休闲,放映员,fangyingyuan
+生活 | 服务业,保健按摩,按摩师,zhenjiuzg
+生活 | 服务业,保健按摩,足疗师,baojiananmozuliao
+生活 | 服务业,保健按摩,搓澡工,zpcuozao
+生活 | 服务业,保健按摩,针灸推拿,zptuina
+生活 | 服务业,运动健身,健身教练,jianshenguwen
+生活 | 服务业,运动健身,瑜伽教练,yujiawudaolaoshi
+生活 | 服务业,运动健身,舞蹈老师,zpwudao
+生活 | 服务业,运动健身,游泳教练,zpyouyong
+生活 | 服务业,运动健身,台球教练,zptaiqiu
+生活 | 服务业,运动健身,高尔夫球助理,zpgaoerfu
+人力 | 行政 | 管理,人事|行政|后勤,文员,wenziluru
+人力 | 行政 | 管理,人事|行政|后勤,前台|总机|接待,qiantai
+人力 | 行政 | 管理,人事|行政|后勤,人事专员|助理,zhaopinjingli
+人力 | 行政 | 管理,人事|行政|后勤,人事经理|主管,renshizhuguan
+人力 | 行政 | 管理,人事|行政|后勤,人事总监,renshizongjian
+人力 | 行政 | 管理,人事|行政|后勤,行政专员|助理,xingzhengzhuanyuan
+人力 | 行政 | 管理,人事|行政|后勤,行政经理|主管,xingzhengjingli
+人力 | 行政 | 管理,人事|行政|后勤,行政总监,xingzhengzongjian
+人力 | 行政 | 管理,人事|行政|后勤,经理助理|秘书,mishu
+人力 | 行政 | 管理,人事|行政|后勤,薪酬|绩效|员工关系,xinzifuli
+人力 | 行政 | 管理,人事|行政|后勤,猎头顾问,lietouguwen
+人力 | 行政 | 管理,人事|行政|后勤,后勤,houqin
+人力 | 行政 | 管理,人事|行政|后勤,培训专员|助理,peixunzhuanyuan
+人力 | 行政 | 管理,人事|行政|后勤,培训经理|主管,peixunjingli
+人力 | 行政 | 管理,人事|行政|后勤,招聘专员|助理,zhaopinzhuanyuan
+人力 | 行政 | 管理,人事|行政|后勤,招聘经理|主管,zhaopinzhuguan
+人力 | 行政 | 管理,司机,商务司机,shangwujiaochesiji
+人力 | 行政 | 管理,司机,客运司机,changtukeyuansiji
+人力 | 行政 | 管理,司机,货运司机,sonhuosiji
+人力 | 行政 | 管理,司机,出租车司机,chuzuchesiji
+人力 | 行政 | 管理,司机,班车司机,gongjiaobanchesiji
+人力 | 行政 | 管理,司机,特种车司机,tezhongchesiji
+人力 | 行政 | 管理,司机,驾校教练|陪练,jiaoxiaojiaolian
+人力 | 行政 | 管理,高级管理,CEO|总裁|总经理,zpzongcai
+人力 | 行政 | 管理,高级管理,首席运营官COO,shouxiyunying
+人力 | 行政 | 管理,高级管理,首席财务官CFO,shouxicaiwu
+人力 | 行政 | 管理,高级管理,首席技术官CTO,shouxijishu
+人力 | 行政 | 管理,高级管理,副总裁|副总经理,fuzongcai
+人力 | 行政 | 管理,高级管理,总裁助理|总经理助理,zongcaizhuli
+人力 | 行政 | 管理,高级管理,总监,zongjian
+人力 | 行政 | 管理,高级管理,分公司经理,fengongsijingli
+人力 | 行政 | 管理,高级管理,合伙人,hehuoren
+销售 | 客服 | 采购 | 淘宝,销售,销售代表,xiaoshouyuan
+销售 | 客服 | 采购 | 淘宝,销售,销售助理,xiaoshouzhuli
+销售 | 客服 | 采购 | 淘宝,销售,销售经理|主管,xiaoshoujingli
+销售 | 客服 | 采购 | 淘宝,销售,销售总监,xiaoshouzongjian
+销售 | 客服 | 采购 | 淘宝,销售,电话销售,dianhuaxiaoshou
+销售 | 客服 | 采购 | 淘宝,销售,销售支持,xiaoshougongchengshi
+销售 | 客服 | 采购 | 淘宝,销售,汽车销售,qichexiaoshou
+销售 | 客服 | 采购 | 淘宝,销售,医药代表,yiyaodaibiao
+销售 | 客服 | 采购 | 淘宝,销售,医疗器械销售,yiliaoqixie
+销售 | 客服 | 采购 | 淘宝,销售,网络销售,wangluoxiaoshouyuan
+销售 | 客服 | 采购 | 淘宝,销售,区域销售,quyuxiaoshou
+销售 | 客服 | 采购 | 淘宝,销售,渠道专员,qudaorenyuan
+销售 | 客服 | 采购 | 淘宝,销售,渠道经理|总监,qudaojingli
+销售 | 客服 | 采购 | 淘宝,销售,客户经理|主管,kehujingli
+销售 | 客服 | 采购 | 淘宝,销售,大客户经理,dakehujingli
+销售 | 客服 | 采购 | 淘宝,销售,团购业务员|经理,tuangouxiaoshou
+销售 | 客服 | 采购 | 淘宝,销售,会籍顾问,huijiguwen
+销售 | 客服 | 采购 | 淘宝,客服,客服专员|助理,kefuzhuanyuan
+销售 | 客服 | 采购 | 淘宝,客服,客服经理|主管,kefujingli
+销售 | 客服 | 采购 | 淘宝,客服,客服总监,kefuzongjian
+销售 | 客服 | 采购 | 淘宝,客服,售前|售后服务,shouhoufuwu
+销售 | 客服 | 采购 | 淘宝,客服,电话客服,kehuzixun
+销售 | 客服 | 采购 | 淘宝,客服,客户关系管理,kehuguanxi
+销售 | 客服 | 采购 | 淘宝,贸易|采购,外贸专员|助理,waimaozhuanyuan
+销售 | 客服 | 采购 | 淘宝,贸易|采购,外贸经理|主管,waimaojingli
+销售 | 客服 | 采购 | 淘宝,贸易|采购,采购员,caigouyuan
+销售 | 客服 | 采购 | 淘宝,贸易|采购,采购助理,caigouzhuli
+销售 | 客服 | 采购 | 淘宝,贸易|采购,采购经理|总监,caigouguanli
+销售 | 客服 | 采购 | 淘宝,贸易|采购,报关员,danzhengbaoguan
+销售 | 客服 | 采购 | 淘宝,贸易|采购,商务专员|经理,shangwuzhuanyuan
+销售 | 客服 | 采购 | 淘宝,贸易|采购,买手,maishou
+销售 | 客服 | 采购 | 淘宝,超市|百货|零售,店员|营业员,yingyeyuan
+销售 | 客服 | 采购 | 淘宝,超市|百货|零售,收银员,shouying
+销售 | 客服 | 采购 | 淘宝,超市|百货|零售,促销|导购员,cuxiao
+销售 | 客服 | 采购 | 淘宝,超市|百货|零售,理货员|陈列员,lihuoyuan
+销售 | 客服 | 采购 | 淘宝,超市|百货|零售,防损员|内保,fangsunyuan
+销售 | 客服 | 采购 | 淘宝,超市|百货|零售,店长|卖场经理,dianzhang
+销售 | 客服 | 采购 | 淘宝,超市|百货|零售,招商经理|主管,zhaoshangjingli
+销售 | 客服 | 采购 | 淘宝,超市|百货|零售,奢侈品业务,shechipinyewu
+销售 | 客服 | 采购 | 淘宝,超市|百货|零售,品类管理,pinleiguanli
+销售 | 客服 | 采购 | 淘宝,超市|百货|零售,食品加工|处理,shipinjiagong
+销售 | 客服 | 采购 | 淘宝,超市|百货|零售,督导,zpdudao
+销售 | 客服 | 采购 | 淘宝,淘宝职位,网店店长,zptaobaodianzhang
+销售 | 客服 | 采购 | 淘宝,淘宝职位,淘宝客服,zptaobaokefu
+销售 | 客服 | 采购 | 淘宝,淘宝职位,淘宝美工,zptaobaomeigong
+销售 | 客服 | 采购 | 淘宝,淘宝职位,店铺文案编辑,zptaobaobianji
+销售 | 客服 | 采购 | 淘宝,淘宝职位,店铺推广,zptaobaotuiguang
+销售 | 客服 | 采购 | 淘宝,淘宝职位,活动策划,zptaobaocehua
+销售 | 客服 | 采购 | 淘宝,房产中介,房产经纪人,fangdichan
+销售 | 客服 | 采购 | 淘宝,房产中介,置业顾问,zpzhiye
+销售 | 客服 | 采购 | 淘宝,房产中介,房产店长|经理,zpfangchandianzhang
+销售 | 客服 | 采购 | 淘宝,房产中介,房产店员|助理,zpfangchandianyuan
+销售 | 客服 | 采购 | 淘宝,房产中介,房产客服,zpfangchankefu
+销售 | 客服 | 采购 | 淘宝,房产中介,房产内勤,zpfangchanneiqin
+销售 | 客服 | 采购 | 淘宝,房产中介,房产评估师,zpfangchanpinggu
+销售 | 客服 | 采购 | 淘宝,房产中介,房产开发|策划,fangdichankaifa
+销售 | 客服 | 采购 | 淘宝,房产中介,其他房产职位,zpfangchanqita
+市场 | 媒介 | 广告 | 设计,市场|媒介|公关,市场专员|助理,yingxiaozhuanyuan
+市场 | 媒介 | 广告 | 设计,市场|媒介|公关,市场经理|总监,shichangzongjian
+市场 | 媒介 | 广告 | 设计,市场|媒介|公关,市场拓展,shichangzhuanyuan
+市场 | 媒介 | 广告 | 设计,市场|媒介|公关,市场调研,shichangdiaoyan
+市场 | 媒介 | 广告 | 设计,市场|媒介|公关,市场策划,qihua
+市场 | 媒介 | 广告 | 设计,市场|媒介|公关,媒介专员|助理,shichangcehuagongguanmeijie
+市场 | 媒介 | 广告 | 设计,市场|媒介|公关,媒介经理|主管,meijiejingli
+市场 | 媒介 | 广告 | 设计,市场|媒介|公关,会务会展专员|经理,huiwujingli
+市场 | 媒介 | 广告 | 设计,市场|媒介|公关,品牌专员|经理,pinpaijingli
+市场 | 媒介 | 广告 | 设计,市场|媒介|公关,公关专员|助理,gongguanzhuanyuan
+市场 | 媒介 | 广告 | 设计,市场|媒介|公关,公关经理|主管,gongguanjingli
+市场 | 媒介 | 广告 | 设计,市场|媒介|公关,企划经理|主管,qihuajingli
+市场 | 媒介 | 广告 | 设计,广告|会展|咨询,广告文案,wenan
+市场 | 媒介 | 广告 | 设计,广告|会展|咨询,创意指导|总监,chuangyizongjian
+市场 | 媒介 | 广告 | 设计,广告|会展|咨询,广告设计|制作,fengmiansj
+市场 | 媒介 | 广告 | 设计,广告|会展|咨询,广告创意,shejichuangyi
+市场 | 媒介 | 广告 | 设计,广告|会展|咨询,媒介策划|管理,zpmeijiecehua
+市场 | 媒介 | 广告 | 设计,广告|会展|咨询,会展策划|设计,huizhancehua
+市场 | 媒介 | 广告 | 设计,广告|会展|咨询,婚礼策划师,zphunlicehua
+市场 | 媒介 | 广告 | 设计,广告|会展|咨询,咨询顾问,zixunshi
+市场 | 媒介 | 广告 | 设计,广告|会展|咨询,咨询经理|主管,zixunjingli
+市场 | 媒介 | 广告 | 设计,广告|会展|咨询,客户主管|专员,zpkehuzhuguan
+市场 | 媒介 | 广告 | 设计,广告|会展|咨询,企业策划,zpqiyecehua
+市场 | 媒介 | 广告 | 设计,美术|设计|创意,美编|美术设计,meibian
+市场 | 媒介 | 广告 | 设计,美术|设计|创意,服装设计,fuzhuangsj
+市场 | 媒介 | 广告 | 设计,美术|设计|创意,家具|家居用品设计,jiajusj
+市场 | 媒介 | 广告 | 设计,美术|设计|创意,平面设计,sheji
+市场 | 媒介 | 广告 | 设计,美术|设计|创意,美术指导,meishuzhidao
+市场 | 媒介 | 广告 | 设计,美术|设计|创意,店面|陈列|展览设计,zhanshizhuanghuang
+市场 | 媒介 | 广告 | 设计,美术|设计|创意,工艺|珠宝设计,gongyisheji
+市场 | 媒介 | 广告 | 设计,美术|设计|创意,多媒体|动画设计,duomeiti
+市场 | 媒介 | 广告 | 设计,美术|设计|创意,产品|包装设计,baozhuangsheji
+市场 | 媒介 | 广告 | 设计,美术|设计|创意,装修装潢设计,shineisheji
+市场 | 媒介 | 广告 | 设计,美术|设计|创意,CAD设计|制图,shejizhitu
+生产 | 物流 | 质控 | 汽车,普工|技工,普工,pugong
+生产 | 物流 | 质控 | 汽车,普工|技工,综合维修工,weixiugongchengshi
+生产 | 物流 | 质控 | 汽车,普工|技工,制冷|水暖工,nuantonggong
+生产 | 物流 | 质控 | 汽车,普工|技工,电工,dianzi
+生产 | 物流 | 质控 | 汽车,普工|技工,木工,mugong
+生产 | 物流 | 质控 | 汽车,普工|技工,钳工,qiangong
+生产 | 物流 | 质控 | 汽车,普工|技工,切割|焊工,maohangong
+生产 | 物流 | 质控 | 汽车,普工|技工,钣金工,banjin
+生产 | 物流 | 质控 | 汽车,普工|技工,油漆工,youqigong
+生产 | 物流 | 质控 | 汽车,普工|技工,缝纫工,fengrengong
+生产 | 物流 | 质控 | 汽车,普工|技工,锅炉工,gulugong
+生产 | 物流 | 质控 | 汽车,普工|技工,车工|铣工,shukongjichuang
+生产 | 物流 | 质控 | 汽车,普工|技工,铲车|叉车工,chachegong
+生产 | 物流 | 质控 | 汽车,普工|技工,铸造|注塑|模具工,mojugong
+生产 | 物流 | 质控 | 汽车,普工|技工,电梯工,ditigong
+生产 | 物流 | 质控 | 汽车,普工|技工,操作工,zhizaogongchengshi
+生产 | 物流 | 质控 | 汽车,普工|技工,包装工,baozhuanggcs
+生产 | 物流 | 质控 | 汽车,普工|技工,手机维修,shoujiwx
+生产 | 物流 | 质控 | 汽车,普工|技工,水泥工,zpshuini
+生产 | 物流 | 质控 | 汽车,普工|技工,钢筋工,zpgangjin
+生产 | 物流 | 质控 | 汽车,普工|技工,管道工,zpguangdao
+生产 | 物流 | 质控 | 汽车,普工|技工,瓦工,zpwagong
+生产 | 物流 | 质控 | 汽车,普工|技工,组装工,zpzuzhuang
+生产 | 物流 | 质控 | 汽车,普工|技工,样衣工,zpyangyigong
+生产 | 物流 | 质控 | 汽车,普工|技工,染工,zprangong
+生产 | 物流 | 质控 | 汽车,普工|技工,纺织工,zpfangzhi
+生产 | 物流 | 质控 | 汽车,普工|技工,印花工,zpyinhua
+生产 | 物流 | 质控 | 汽车,普工|技工,压熨工,zpyayun
+生产 | 物流 | 质控 | 汽车,生产管理|研发,质量管理,zhiliangbaozhengqa
+生产 | 物流 | 质控 | 汽车,生产管理|研发,总工程师|副总工程师,zonggongchengshi
+生产 | 物流 | 质控 | 汽车,生产管理|研发,设备管理维护,gcsbguanli
+生产 | 物流 | 质控 | 汽车,生产管理|研发,工艺设计,jsgysheji
+生产 | 物流 | 质控 | 汽车,生产管理|研发,车间主任,shengchanjingli
+生产 | 物流 | 质控 | 汽车,生产管理|研发,生产计划,jihuatiaodu
+生产 | 物流 | 质控 | 汽车,生产管理|研发,化验|检验,huayan
+生产 | 物流 | 质控 | 汽车,生产管理|研发,厂长|副厂长,changzhang
+生产 | 物流 | 质控 | 汽车,生产管理|研发,生产总监,shengchanzongjian
+生产 | 物流 | 质控 | 汽车,生产管理|研发,维修工程师,weixiugong
+生产 | 物流 | 质控 | 汽车,生产管理|研发,工业工程师,gongyegcs
+生产 | 物流 | 质控 | 汽车,生产管理|研发,材料工程师,cailiaogcs
+生产 | 物流 | 质控 | 汽车,生产管理|研发,技术工程师,jishugongcheng
+生产 | 物流 | 质控 | 汽车,生产管理|研发,生产主管|组长,shengchanzhuguan
+生产 | 物流 | 质控 | 汽车,物流|仓储,物流专员|助理,maoyi
+生产 | 物流 | 质控 | 汽车,物流|仓储,物流经理|主管,wuliujingli
+生产 | 物流 | 质控 | 汽车,物流|仓储,物流总监,wuliuzongjian
+生产 | 物流 | 质控 | 汽车,物流|仓储,调度员,diaodu
+生产 | 物流 | 质控 | 汽车,物流|仓储,快递员,sudiyuan
+生产 | 物流 | 质控 | 汽车,物流|仓储,仓库管理员,cangku
+生产 | 物流 | 质控 | 汽车,物流|仓储,仓库经理|主管,cangkujingli
+生产 | 物流 | 质控 | 汽车,物流|仓储,装卸|搬运工,banyungong
+生产 | 物流 | 质控 | 汽车,物流|仓储,供应链管理,gongyinglianguanli
+生产 | 物流 | 质控 | 汽车,物流|仓储,单证员,danzhengyuan
+生产 | 物流 | 质控 | 汽车,物流|仓储,国际货运,guojihuoyun
+生产 | 物流 | 质控 | 汽车,服装|纺织|食品,服装设计师,fuzhuangsheji
+生产 | 物流 | 质控 | 汽车,服装|纺织|食品,纺织品设计师,fangzhisheji
+生产 | 物流 | 质控 | 汽车,服装|纺织|食品,服装打样|制版,fuzhuangdayang
+生产 | 物流 | 质控 | 汽车,服装|纺织|食品,生产管理,shengchanguanli
+生产 | 物流 | 质控 | 汽车,服装|纺织|食品,样衣工,yangyigong
+生产 | 物流 | 质控 | 汽车,服装|纺织|食品,食品|饮料研发|检验,shipinyanfa
+生产 | 物流 | 质控 | 汽车,服装|纺织|食品,板房|底格出格师,chugeshi
+生产 | 物流 | 质控 | 汽车,服装|纺织|食品,电脑放码员,fangmayuan
+生产 | 物流 | 质控 | 汽车,服装|纺织|食品,纸样师|车板工,zhiyangshi
+生产 | 物流 | 质控 | 汽车,质控|安防,质量管理|测试经理,zhiliangguanli
+生产 | 物流 | 质控 | 汽车,质控|安防,质量检验员|测试员,zhijianyuan
+生产 | 物流 | 质控 | 汽车,质控|安防,测试工程师,ceshigongchengshi
+生产 | 物流 | 质控 | 汽车,质控|安防,安全消防,anquanxiaofang
+生产 | 物流 | 质控 | 汽车,质控|安防,认证工程师|审核员,renzhengyuan
+生产 | 物流 | 质控 | 汽车,质控|安防,安全管理,anquanguanli
+生产 | 物流 | 质控 | 汽车,汽车制造|服务,汽车设计工程师,qichesheji
+生产 | 物流 | 质控 | 汽车,汽车制造|服务,装配工艺工程师,zhuangpeigongyi
+生产 | 物流 | 质控 | 汽车,汽车制造|服务,汽车|摩托车修理,qichewx
+生产 | 物流 | 质控 | 汽车,汽车制造|服务,汽车机械工程师,qichejixie
+生产 | 物流 | 质控 | 汽车,汽车制造|服务,汽车电子工程师,qichedianzi
+生产 | 物流 | 质控 | 汽车,汽车制造|服务,4S店管理,qcfsweixiu
+生产 | 物流 | 质控 | 汽车,汽车制造|服务,汽车检验|检测,jianyanjiance
+生产 | 物流 | 质控 | 汽车,汽车制造|服务,汽车美容,qichemeirong
+生产 | 物流 | 质控 | 汽车,汽车制造|服务,二手车评估师,qcpinggushi
+生产 | 物流 | 质控 | 汽车,汽车制造|服务,发动机|总装工程师,qczozhuang
+生产 | 物流 | 质控 | 汽车,汽车制造|服务,安全性能工程师,qcanquanxingneng
+生产 | 物流 | 质控 | 汽车,汽车制造|服务,理赔专员|顾问,qclipei
+生产 | 物流 | 质控 | 汽车,汽车制造|服务,洗车工,xicheyuan
+生产 | 物流 | 质控 | 汽车,汽车制造|服务,停车管理员,tingcheguanli
+生产 | 物流 | 质控 | 汽车,汽车制造|服务,加油站工作员,jiayougong
+生产 | 物流 | 质控 | 汽车,汽车制造|服务,轮胎工,luntaigong
+网络 | 通信 | 电子,计算机|互联网|通信,技术总监|经理,jishuzongjian
+网络 | 通信 | 电子,计算机|互联网|通信,技术支持|维护,jishuzhichi
+网络 | 通信 | 电子,计算机|互联网|通信,技术专员|助理,jszhuanyuan
+网络 | 通信 | 电子,计算机|互联网|通信,软件工程师,ruanjiangong
+网络 | 通信 | 电子,计算机|互联网|通信,程序员,chengxuyuan
+网络 | 通信 | 电子,计算机|互联网|通信,硬件工程师,yingjiangong
+网络 | 通信 | 电子,计算机|互联网|通信,质量工程师,zhilianggongcheng
+网络 | 通信 | 电子,计算机|互联网|通信,测试工程师,yingjiancs
+网络 | 通信 | 电子,计算机|互联网|通信,系统架构师,xitongjichengfenxi
+网络 | 通信 | 电子,计算机|互联网|通信,数据库管理|DBA,shujukukaifa
+网络 | 通信 | 电子,计算机|互联网|通信,游戏设计|开发,youxisheji
+网络 | 通信 | 电子,计算机|互联网|通信,网页设计|制作,wangzhanmeigong
+网络 | 通信 | 电子,计算机|互联网|通信,语音|视频|图形,cadsheji
+网络 | 通信 | 电子,计算机|互联网|通信,项目经理|主管,xiangmuzongjian
+网络 | 通信 | 电子,计算机|互联网|通信,产品经理|专员,wangzhanchanpin
+网络 | 通信 | 电子,计算机|互联网|通信,网站运营,wangzhanyunying
+网络 | 通信 | 电子,计算机|互联网|通信,网站编辑,wangzhanyingyun
+网络 | 通信 | 电子,计算机|互联网|通信,网站策划,wangzhancehua
+网络 | 通信 | 电子,计算机|互联网|通信,网络管理员,wangluogongchengshi
+网络 | 通信 | 电子,计算机|互联网|通信,网络与信息安全工程师,wangluoanquan
+网络 | 通信 | 电子,计算机|互联网|通信,实施工程师,ruanjianshishi
+网络 | 通信 | 电子,计算机|互联网|通信,通信技术工程师,tongxinwuxian
+网络 | 通信 | 电子,电子|电气,自动化工程师,zidonghua
+网络 | 通信 | 电子,电子|电气,电子|电气工程师,dianzidianqigcs
+网络 | 通信 | 电子,电子|电气,电路工程师|技术员,didianqigongchengshi
+网络 | 通信 | 电子,电子|电气,无线电工程师,wuxiandiangcs
+网络 | 通信 | 电子,电子|电气,测试|可靠性工程师,ceshigcs
+网络 | 通信 | 电子,电子|电气,产品工艺|规划工程师,gongyigcs
+网络 | 通信 | 电子,电子|电气,音频|视频工程师,yinpinshipingcs
+网络 | 通信 | 电子,电子|电气,灯光|照明设计工程师,zhaomingsheji
+网络 | 通信 | 电子,电子|电气,研发工程师,yanfagcs
+网络 | 通信 | 电子,电子|电气,电子|电器维修,dianzidianqiwx
+网络 | 通信 | 电子,机械|仪器仪表,机电工程师,jxjixiegongchengshi
+网络 | 通信 | 电子,机械|仪器仪表,机械工程师,zpjixiegongcheng
+网络 | 通信 | 电子,机械|仪器仪表,研发工程师,zpyanfa
+网络 | 通信 | 电子,机械|仪器仪表,测试|可靠性工程师,zpceshi
+网络 | 通信 | 电子,机械|仪器仪表,版图设计工程师,bantushejigcs
+网络 | 通信 | 电子,机械|仪器仪表,仪器|仪表|计量,jxyiqigongcheng
+法律 | 教育 | 翻译 | 出版,法律,律师|法律顾问,lvshizhaopin
+法律 | 教育 | 翻译 | 出版,法律,律师助理,lvshizhuli
+法律 | 教育 | 翻译 | 出版,法律,法务专员|主管,lfawurenyuan
+法律 | 教育 | 翻译 | 出版,法律,产权|专利顾问,zhuanliguwen
+法律 | 教育 | 翻译 | 出版,法律,合规管理,heguiguanli
+法律 | 教育 | 翻译 | 出版,教育培训,教师|助教,jiaoshi
+法律 | 教育 | 翻译 | 出版,教育培训,家教,jiajiaolaoshi
+法律 | 教育 | 翻译 | 出版,教育培训,幼教,youerjiaoshi
+法律 | 教育 | 翻译 | 出版,教育培训,培训师|讲师,jypeixunshi
+法律 | 教育 | 翻译 | 出版,教育培训,培训策划,peixuncehua
+法律 | 教育 | 翻译 | 出版,教育培训,培训助理,peixunzhuli
+法律 | 教育 | 翻译 | 出版,教育培训,教学|教务管理,jiaowu
+法律 | 教育 | 翻译 | 出版,教育培训,教育产品开发,jiaoyukaifa
+法律 | 教育 | 翻译 | 出版,教育培训,学术研究|科研,jykeyuanrenyuan
+法律 | 教育 | 翻译 | 出版,教育培训,招生|课程顾问,jyzhaosheng
+法律 | 教育 | 翻译 | 出版,教育培训,校长,xiaozhang
+法律 | 教育 | 翻译 | 出版,教育培训,野外拓展训练师,tuozhanshi
+法律 | 教育 | 翻译 | 出版,翻译,英语翻译,yingyufanyi
+法律 | 教育 | 翻译 | 出版,翻译,日语翻译,riyufanyi
+法律 | 教育 | 翻译 | 出版,翻译,韩语翻译,hanyu
+法律 | 教育 | 翻译 | 出版,翻译,法语翻译,fayufanyi
+法律 | 教育 | 翻译 | 出版,翻译,俄语翻译,eyufanyi
+法律 | 教育 | 翻译 | 出版,翻译,德语翻译,deyufanyi
+法律 | 教育 | 翻译 | 出版,翻译,西班牙语翻译,xibanyayu
+法律 | 教育 | 翻译 | 出版,翻译,意大利语翻译,yidaliyu
+法律 | 教育 | 翻译 | 出版,翻译,葡萄牙语翻译,putaoyayu
+法律 | 教育 | 翻译 | 出版,翻译,阿拉伯语翻译,alaboyu
+法律 | 教育 | 翻译 | 出版,翻译,小语种翻译,jyxiaoyuzhongfanyi
+法律 | 教育 | 翻译 | 出版,编辑|出版|印刷,总编|副总编|主编,cbzhubian
+法律 | 教育 | 翻译 | 出版,编辑|出版|印刷,编辑|撰稿,bianji
+法律 | 教育 | 翻译 | 出版,编辑|出版|印刷,记者|采编,jizhe
+法律 | 教育 | 翻译 | 出版,编辑|出版|印刷,出版|发行,cbchuban
+法律 | 教育 | 翻译 | 出版,编辑|出版|印刷,排版设计|制作,cbyishua
+法律 | 教育 | 翻译 | 出版,编辑|出版|印刷,印刷操作,cbyinshuacaozuo
+法律 | 教育 | 翻译 | 出版,编辑|出版|印刷,装订|烫金,zhuangdingyuan
+财会 | 金融 | 保险,财务|审计|统计,财务经理|主管,caiwujingli
+财会 | 金融 | 保险,财务|审计|统计,财务总监,caiwuzongjian
+财会 | 金融 | 保险,财务|审计|统计,会计|会计师,caiwu
+财会 | 金融 | 保险,财务|审计|统计,财务|会计助理,caiwuzhuli
+财会 | 金融 | 保险,财务|审计|统计,出纳,chuna
+财会 | 金融 | 保险,财务|审计|统计,审计专员|助理,tongjishenji
+财会 | 金融 | 保险,财务|审计|统计,审计经理|主管,shenjijingli
+财会 | 金融 | 保险,财务|审计|统计,统计员,tongjiyuan
+财会 | 金融 | 保险,财务|审计|统计,税务专员|助理,shuiwuzhuanyuan
+财会 | 金融 | 保险,财务|审计|统计,税务经理|主管,shuiwujingli
+财会 | 金融 | 保险,财务|审计|统计,财务分析员,caiwufenxi
+财会 | 金融 | 保险,财务|审计|统计,成本管理员,zpchengben
+财会 | 金融 | 保险,金融|银行|证券|投资,证券|期货|外汇经纪人,jingjiren
+财会 | 金融 | 保险,金融|银行|证券|投资,证券经理|总监,zhengquanjingli
+财会 | 金融 | 保险,金融|银行|证券|投资,证券分析|金融研究,zhengquanfenxi
+财会 | 金融 | 保险,金融|银行|证券|投资,信用卡|银行卡业务,yinhangyewu
+财会 | 金融 | 保险,金融|银行|证券|投资,银行经理|主任,yinhangjingli
+财会 | 金融 | 保险,金融|银行|证券|投资,银行会计|柜员,yinhangkuaiji
+财会 | 金融 | 保险,金融|银行|证券|投资,信贷管理|资信评估,zichanpinggu
+财会 | 金融 | 保险,金融|银行|证券|投资,资产评估,zcpinggu
+财会 | 金融 | 保险,金融|银行|证券|投资,担保|拍卖|典当,danbaopaimai
+财会 | 金融 | 保险,金融|银行|证券|投资,拍卖师,paimaishi
+财会 | 金融 | 保险,金融|银行|证券|投资,外汇|基金|国债经理人,waihuijingli
+财会 | 金融 | 保险,金融|银行|证券|投资,投资|理财顾问,jinrong
+财会 | 金融 | 保险,金融|银行|证券|投资,融资专员,rongzizhuanyuan
+财会 | 金融 | 保险,金融|银行|证券|投资,融资经理|总监,rongzijingli
+财会 | 金融 | 保险,金融|银行|证券|投资,风险管理|控制,fengxiankongzhi
+财会 | 金融 | 保险,金融|银行|证券|投资,股票交易员,caopanshou
+财会 | 金融 | 保险,保险,储备经理人,chubeijingli
+财会 | 金融 | 保险,保险,保险客户经理,baoxianjchanpin
+财会 | 金融 | 保险,保险,车险专员,baoxianlipei
+财会 | 金融 | 保险,保险,保险内勤,baoxianneiqin
+财会 | 金融 | 保险,保险,保险培训师,baoxianpeixun
+财会 | 金融 | 保险,保险,保险客服,baoxianxuqi
+财会 | 金融 | 保险,保险,保险顾问,baoxianguwen
+财会 | 金融 | 保险,保险,保险经纪人,baoxian
+财会 | 金融 | 保险,保险,保险项目经理,baoxianjingli
+财会 | 金融 | 保险,保险,保险精算师,baoxianjingsuan
+财会 | 金融 | 保险,保险,保险其他职位,qiyueguanli
+医疗 | 制药 | 环保,医院|医疗|护理,医生,yiliao
+医疗 | 制药 | 环保,医院|医疗|护理,保健医生,baojianyisheng
+医疗 | 制药 | 环保,医院|医疗|护理,心理医生,yyxinliyisheng
+医疗 | 制药 | 环保,医院|医疗|护理,护士|护理,hushi
+医疗 | 制药 | 环保,医院|医疗|护理,护理主任|护士长,hushizhang
+医疗 | 制药 | 环保,医院|医疗|护理,导医,daoyiyuan
+医疗 | 制药 | 环保,医院|医疗|护理,药剂师,yyyaokuzhuren
+医疗 | 制药 | 环保,医院|医疗|护理,理疗师,yyliliaoshi
+医疗 | 制药 | 环保,医院|医疗|护理,医药质检,yyyiyaoxuejianyan
+医疗 | 制药 | 环保,医院|医疗|护理,医疗管理,yyyiyuan
+医疗 | 制药 | 环保,医院|医疗|护理,美容整形师,yymeirongzhengxing
+医疗 | 制药 | 环保,医院|医疗|护理,验光师,yanguangshi
+医疗 | 制药 | 环保,医院|医疗|护理,营养师,yyyingyangshi
+医疗 | 制药 | 环保,医院|医疗|护理,宠物护理|兽医,chongwuyisheng
+医疗 | 制药 | 环保,制药|生物工程,医药研发|生产|注册,yiyaoyanfa
+医疗 | 制药 | 环保,制药|生物工程,临床研究|协调,linchuangyanjiu
+医疗 | 制药 | 环保,制药|生物工程,生物工程|生物制药,shengwugongcheng
+医疗 | 制药 | 环保,制药|生物工程,医疗器械研发|维修,yiliaoyanfa
+医疗 | 制药 | 环保,环保,污水处理工程师,wushuichuli
+医疗 | 制药 | 环保,环保,环境工程技术,hjgongchengjishu
+医疗 | 制药 | 环保,环保,环境管理|保护,hjguanli
+医疗 | 制药 | 环保,环保,环保技术,huanbaojishu
+医疗 | 制药 | 环保,环保,EHS管理,ehsguanli
+医疗 | 制药 | 环保,环保,环保工程师,huanbaoshi
+医疗 | 制药 | 环保,环保,环保检测,huanbaojiance
+医疗 | 制药 | 环保,环保,水质检测员,shuizhijiance
+医疗 | 制药 | 环保,环保,环境绿化,hjlvhua
+建筑 | 装修 | 物业 | 其他,建筑,工程项目管理,jianzhugongcheng
+建筑 | 装修 | 物业 | 其他,建筑,工程监理,gongchengjianli
+建筑 | 装修 | 物业 | 其他,建筑,建筑工程师|总工,jianzhugongchengshi
+建筑 | 装修 | 物业 | 其他,建筑,土木|土建工程师,jiegoutumu
+建筑 | 装修 | 物业 | 其他,建筑,造价师|预算师,gongchengzhaojia
+建筑 | 装修 | 物业 | 其他,建筑,幕墙工程师,muqiang
+建筑 | 装修 | 物业 | 其他,建筑,安防工程师,jianzhuanfang
+建筑 | 装修 | 物业 | 其他,建筑,安全管理|安全员,jzanquanguanli
+建筑 | 装修 | 物业 | 其他,建筑,道路桥梁技术,gongluqiaoliang
+建筑 | 装修 | 物业 | 其他,建筑,给排水|制冷|暖通,geipaishui
+建筑 | 装修 | 物业 | 其他,建筑,测绘|测量,cehuiceliang
+建筑 | 装修 | 物业 | 其他,建筑,园林|景观设计,fangwusj
+建筑 | 装修 | 物业 | 其他,建筑,资料员,ziliao
+建筑 | 装修 | 物业 | 其他,建筑,市政工程师,shizhenggc
+建筑 | 装修 | 物业 | 其他,建筑,综合布线|弱电,buxianruodian
+建筑 | 装修 | 物业 | 其他,物业管理,物业管理员,wuye
+建筑 | 装修 | 物业 | 其他,物业管理,物业维修,zonghewuyeweixiugong
+建筑 | 装修 | 物业 | 其他,物业管理,物业经理|主管,wuyejingli
+建筑 | 装修 | 物业 | 其他,物业管理,合同管理,jzhetong
+建筑 | 装修 | 物业 | 其他,物业管理,招商经理|主管,fczhaoshang
+建筑 | 装修 | 物业 | 其他,农|林|牧|渔业,饲料业务,siliao
+建筑 | 装修 | 物业 | 其他,农|林|牧|渔业,养殖人员,yangzhi
+建筑 | 装修 | 物业 | 其他,农|林|牧|渔业,农艺师,nongyishi
+建筑 | 装修 | 物业 | 其他,农|林|牧|渔业,畜牧师,xumushi
+建筑 | 装修 | 物业 | 其他,农|林|牧|渔业,场长,nongchangzhu
+建筑 | 装修 | 物业 | 其他,农|林|牧|渔业,养殖部主管,yangzhizhuguan
+建筑 | 装修 | 物业 | 其他,农|林|牧|渔业,动物营养|饲料研发,siliaoyanfa
+建筑 | 装修 | 物业 | 其他,其他职位,其他职位,cgqitazhiwei
