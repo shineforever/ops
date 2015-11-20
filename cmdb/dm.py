@@ -274,6 +274,7 @@ def run():
 
     if(parent_sn is None):
         values['parent_id'] = 0
+        values['admin_ip'] = commands.getstatusoutput("/etc/init.d/ipmi start;ipmitool lan  print|grep \'IP Address\' | awk -F \":\" '{print $2 }' | grep -v \"Address\" ;/etc/init.d/ipmi stop")[1].split(",")[0]
     else:
         parent_id = get_id_by_sn(parent_sn)
         values['parent_id'] = parent_id

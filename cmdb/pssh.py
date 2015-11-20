@@ -30,14 +30,17 @@ def get_host_by_env(env):
     method = 'get'
     path = 'servers'
 #    group_name = raw_input("ＡＰＰ环境：请输入分组名称")
-    group_name = sys.argv[2]
+    if env == "":
+       group_name = sys.argv[1]
+    else :
+       group_name = sys.argv[2] 
 
     if ('pre'  in env ):
        r = send_request(path, method,params={'group': group_name , 'fields':'ip' ,'page': 'false' , 'type':'pre'})
     elif ('prod' in env ):
        r = send_request(path, method,params={'group': group_name , 'fields':'ip' ,'page': 'false' , 'type':'prod'})
-    else:
-       r = send_request(path, method,params={'group': group_name , 'fields':'ip' ,'page': 'false' })
+    else :
+       r = send_request(path, method,params={'group': group_name , 'fields':'ip' ,'page': 'false' , 'type':'prod'})
 
     re = json.loads(r.content)
 
@@ -55,7 +58,6 @@ def main():
     longargs = 'help'
     opts, args = getopt.getopt(sys.argv[1:], shortargs,[longargs])
 
-
     for op , value in opts:
         if op == '-o':
             get_host_by_env('prod')
@@ -63,7 +65,10 @@ def main():
             get_host_by_env('pre')
         elif op in ('-h','--help'):
             usage()
-            sys.exit()    
-    
+            sys.exit() 
+    if ( '-o' not in sys.argv[1] or '-p' not in sys.argv[1] or '-h' not in sys.srgv[1]):
+        get_host_by_env('')
+            
+
 if __name__ == "__main__":
     main()
