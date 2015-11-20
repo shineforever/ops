@@ -24,7 +24,7 @@ def get_diskes():
     data = string.split("\n")
     objs = []
     obj = None
-
+123123213
     for line in data:
         line = line.strip()
 
