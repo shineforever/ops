@@ -1,0 +1,14 @@
+<?xml version = "1.0"?>
+<!-- feedback.xml -->
+<!-- XML document representing a forum -->
+
+<?xml:stylesheet type = "text/xsl" href = "../XML/formatting.xsl"?>
+
+<forum file = "feedback.xml">
+	<name>Feedback</name>
+	<message timestamp = "Web Jun 27 12:30:00 2004">
+		<user>python</user>
+		<title>my first forum</title>
+		<text>this is a xml forum.</text>
+	</message>
+</forum>

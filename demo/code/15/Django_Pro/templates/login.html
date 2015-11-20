@@ -1,0 +1,46 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>后台登录</title>
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	overflow:hidden;
+}
+.STYLE3 {color: #528311; font-size: 12px; }
+.STYLE4 {
+	color: #42870a;
+	font-size: 12px;
+}
+-->
+</style></head>
+
+<body>
+
+        {% if not username %}
+        <form method="GET" action="/login/">
+        
+       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+             <td  width='40%' height="30"><div align="right"><span class="STYLE3">用户名</span></div></td>
+             <td width='60%' height="30" align='left'><input type="text" name="username"  style="height:18px; width:130px; border:solid 1px #cadcb2; font-size:12px; color:#81b432;"></td>
+          </tr>
+          <tr>
+                <td height="30"><div align="right"><span class="STYLE3">密码</span></div></td>
+                <td height="30" align='left'><input type="password" name="password"  style="height:18px; width:130px; border:solid 1px #cadcb2; font-size:12px; color:#81b432;"></td>
+          </tr>
+              <tr>
+                <td height="30">&nbsp;</td>
+                <td height="30"><input type="submit" value="登录"/></td>
+              </tr>
+            </table>
+            </form>
+            {% else %}
+            欢迎您：{{username}}！您已成功登录！
+            {% endif %}
+</body>
+</html>

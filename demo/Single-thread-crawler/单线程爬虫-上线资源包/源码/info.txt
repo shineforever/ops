@@ -1,0 +1,2884 @@
+title:Spring Data JPA 入门
+content:本课程首先对 Spring Data JPA 的概念、技术架构和基本部件等进行了简单介绍，...
+classtime:4课时  57分钟
+classlevel:中级
+learnnum:2189人学习
+
+title:Django开发－基础篇
+content:本课程首先介绍Django的历史发展，然后从视图、模型、模板与数据库交互等方面讲解如何快速...
+classtime:5课时  37分钟
+classlevel:初级
+learnnum:2116人学习
+
+title:Hadoop 概述
+content:本课程介绍了 Hadoop 技术的由来，Hadoop 技术的优势，如何创建本地 Hadoo...
+classtime:3课时  27分钟
+classlevel:初级
+learnnum:2170人学习
+
+title:Photoshop 图像和画布
+content:本课程将简单介绍在 Photoshop 绘图环境中画布区域与图像大小的区别及相关设置，并对...
+classtime:5课时  37分钟
+classlevel:初级
+learnnum:2131人学习
+
+title:认识 Android Service
+content:本课将对 Service 进行详细的讲解，内容包括启动 Service、停止 Servic...
+classtime:3课时  24分钟
+classlevel:初级
+learnnum:2195人学习
+
+title:Android 中 Context 的理解及使用
+content:本课将对 Context 进行详细的讲解，内容包括 Context 的作用、Applica...
+classtime:3课时  25分钟
+classlevel:初级
+learnnum:2220人学习
+
+title:在 Android 中 Intent 的概念及应用
+content:本课将对 Intent 进行详细的讲解，内容包括隐式 Intent，显式 Intent，I...
+classtime:4课时  32分钟
+classlevel:初级
+learnnum:2304人学习
+
+title:Android 中 Activity 启动模式
+content:在 Android 中 Activity 有四种启动模式，分别为 Standard、Sin...
+classtime:3课时  18分钟
+classlevel:初级
+learnnum:2299人学习
+
+title:Spring 入门示例
+content:本节课程主要介绍一下 Spring 的基本软件需求，然后逐个进行安装和配置，接下来会实际编...
+classtime:4课时  39分钟
+classlevel:初级
+learnnum:2273人学习
+
+title:Struts2概述
+content:本课程介绍了 Struts2 框架背景、实现意义，通过使用 Filter 作为控制器的 M...
+classtime:3课时  22分钟
+classlevel:高级
+learnnum:2133人学习
+
+title:Bootstrap 进阶
+content:本套课程主要讲解 Bootstrap 阶内容，包含 Bootstrap 编译 CSS 和 ...
+classtime:4课时  20分钟
+classlevel:中级
+learnnum:2315人学习
+
+title:vi编辑器的使用
+content:本课程学习 Linux 系统中功能强大的 vi 编辑器的基本概念和使用方法，包括基础使用和...
+classtime:3课时  32分钟
+classlevel:初级
+learnnum:2164人学习
+
+title:JavaScript 设计模式之单例模式
+content:本课程介绍单例模式，单例就是保证一个类只有一个实例，实现的方法一般是先判断实例存在与否，如...
+classtime:4课时  26分钟
+classlevel:高级
+learnnum:2215人学习
+
+title:在 Activity 之间传递参数
+content:本课讲解在 Activity 之间传递参数，内容包括传递简单数据、传递复杂数据、传递值对象...
+classtime:4课时  34分钟
+classlevel:初级
+learnnum:2321人学习
+
+title:Testin 崩溃分析：探析 Android App Crash
+content:本课程主要讲解在 Android 应用/游戏 出现 Crash（崩溃）时对开发者造成的影响...
+classtime:9课时  65分钟
+classlevel:初级
+learnnum:2815人学习
+
+title:玩转 Arduino ——数据通信：串口通信
+content:本课程主要讲解 Arduino 数据通信中的串口通信方式。通过本课程的学习，学员能够操作 ...
+classtime:3课时  24分钟
+classlevel:初级
+learnnum:2294人学习
+
+title:C# 的扩展方法
+content:本套课程讲解内容为 C# 语言的扩展方法。首先通过 LINQ 来介绍扩展方法的作用，然后介...
+classtime:3课时  20分钟
+classlevel:中级
+learnnum:2233人学习
+
+title:Photoshop 的窗口和视图
+content:本课程将介绍 Photoshop 的显示工具和与显示相关的菜单命令，讲解窗口、视图菜单，以...
+classtime:4课时  27分钟
+classlevel:初级
+learnnum:2352人学习
+
+title:Activity 生命周期
+content:本课深入讲解 Activity 的生命周期，内容包括如何查看帮助文档、Activity 生...
+classtime:3课时  21分钟
+classlevel:初级
+learnnum:2437人学习
+
+title:Spring 入门介绍
+content:本课程首先对 Spring 的基本知识、版本及其优缺点进行了简单介绍，讲解了 Spring...
+classtime:3课时  49分钟
+classlevel:中级
+learnnum:2533人学习
+
+title:Unity3D动画系统：课程准备与动画系统介绍
+content:通过对动画系统的介绍以及对专题课程体系安排的概述，来帮助大家 Unity3D 的动画系统以...
+classtime:4课时  30分钟
+classlevel:初级
+learnnum:2269人学习
+
+title:ThinkPHP 控制器 
+content:通过本课程的学习，熟悉 ThinkPHP 框架的控制器，学会控制器类和其操作方法的定义并调...
+classtime:4课时  25分钟
+classlevel:中级
+learnnum:2503人学习
+
+title:WatchKit 的界面对象
+content:本课介绍 WatchKit 中的界面对象，也就是 UI 元素部分，包括界面对象的概念以及 ...
+classtime:4课时  32分钟
+classlevel:初级
+learnnum:2310人学习
+
+title:WatchKit 的 Glance 和通知界面（下）
+content:本课是 WatchKit 的概览和通知界面课程的下半部分课程，主要讲解了为通知界面添加按钮...
+classtime:4课时  27分钟
+classlevel:初级
+learnnum:2199人学习
+
+title:WatchKit 的 Glance 和通知界面（上）
+content:本课介绍 WatchKit 中 Glance 和 Notification 界面，包括两种...
+classtime:4课时  25分钟
+classlevel:初级
+learnnum:2253人学习
+
+title:Bootstrap 实例
+content:本套课程主要讲解由 Bootstrap 完成的页面，使用容器和栅格系统进行布局，同时添加 ...
+classtime:6课时  54分钟
+classlevel:初级
+learnnum:3429人学习
+
+title:JavaScript 设计模式之工厂模式
+content:本课程学习工厂模式,工厂模式定义一个用于创建对象的接口，这个接口由子类决定实例化哪一个类。...
+classtime:4课时  24分钟
+classlevel:高级
+learnnum:2611人学习
+
+title:YII 2.0 框架入门
+content:本课程描述了什么是 YII 2.0 框架、YII 2.0 框架的作用和功能，以及 YII ...
+classtime:3课时  18分钟
+classlevel:高级
+learnnum:2589人学习
+
+title:ThinkPHP 概述及配置
+content:通过本课程的学习，对 PHP 框架和 ThinkPHP 框架有基本的认识，了解 Think...
+classtime:3课时  21分钟
+classlevel:中级
+learnnum:2603人学习
+
+title:认识 Android 中的 Activity 组件
+content:本课带领大家认识 Android 中的 Activity 组件，内容包括 Activity...
+classtime:3课时  18分钟
+classlevel:初级
+learnnum:2965人学习
+
+title:PDO 项目实例——学生信息管理系统
+content:本课程通过学习前面PDO所有的知识点，搭建了一个简单的学生管理系统实例，实现学生信息的增删...
+classtime:3课时  35分钟
+classlevel:中级
+learnnum:2459人学习
+
+title:PDO 安全处理与事务处理
+content:本课程学习如何在 PDO 出现异常后对报错模式进行设置，以及报错模式的种类有那些。学习什么...
+classtime:4课时  38分钟
+classlevel:中级
+learnnum:2234人学习
+
+title:JavaScript 设计模式简介
+content:本节课主要学习设计模式基础概念和设计原则。
+classtime:4课时  18分钟
+classlevel:高级
+learnnum:2542人学习
+
+title:Ruby on Rails 开发准备
+content:本课程主要讲解 Ruby on Rails 基础知识，包括对 Rails 开发环境、Rub...
+classtime:3课时  26分钟
+classlevel:初级
+learnnum:2232人学习
+
+title:文件的压缩与打包
+content:本课程学习在 Linux 系统中如何进行文件的压缩和打包，包括文件压缩和打包的意义、作用，...
+classtime:3课时  22分钟
+classlevel:初级
+learnnum:2255人学习
+
+title:二级 C 文件
+content:本课程主要介绍了文件基本操作以及文件相关函数。主要是文件的概念，文件的打开关闭，文件的输入...
+classtime:4课时  24分钟
+classlevel:初级
+learnnum:2199人学习
+
+title:Cocos2d-JS 第一步
+content:本课程主要针对从未接触过 Cocos2d-JS 的新人讲解了有关Cocos2d发展过程、相...
+classtime:5课时  22分钟
+classlevel:初级
+learnnum:2359人学习
+
+title:科大讯飞 Android 平台新能力介绍
+content:本课程主要介绍科大讯飞 Android 平台新能力介绍，包括语音唤醒、声纹识别、人脸识别等...
+classtime:3课时  21分钟
+classlevel:初级
+learnnum:2929人学习
+
+title:单点登录（SSO）基础篇
+content:本课首先介绍SSO的体系结构与实现原理；然后以可支持同域系统整合的单点登录系统为例进行解析...
+classtime:6课时  130分钟
+classlevel:初级
+learnnum:2672人学习
+
+title:Servlet 过滤器
+content:本套课程介绍了 Servlet 的高级特性：过滤器，并通过两个过滤器实例讲解了过滤器的使用...
+classtime:6课时  47分钟
+classlevel:中级
+learnnum:2223人学习
+
+title:友盟社会化组件 Social-iOS SDK
+content:本课程讲解友盟社会化组件的基本功能和第三方平台注册事项，并且通过代码直接演示 Social...
+classtime:3课时  20分钟
+classlevel:初级
+learnnum:2444人学习
+
+title:Android UiAutomator UiWatcher API 详细介绍
+content:本课程介绍 UiAutomator 中 UiWatcher 类中 API 的使用与监听器的...
+classtime:3课时  25分钟
+classlevel:初级
+learnnum:2425人学习
+
+title:C++ 简介及环境搭建
+content:本课程讲解 C 和 C++ 的区别和联系；解析学习 C++ 不需要先学 C 的原因；阐述编...
+classtime:4课时  36分钟
+classlevel:初级
+learnnum:3871人学习
+
+title:Linux 用户和群组进阶学习
+content:本课程讲解 Linux 用户和群组的管理的知识，包括如何新建、修改删除用户和群组，以及默认...
+classtime:5课时  37分钟
+classlevel:初级
+learnnum:2302人学习
+
+title:Photoshop 软件工作界面
+content:本课程将对 Photoshop 的应用领域做一个简单的介绍，为大家讲解 Photoshop...
+classtime:4课时  23分钟
+classlevel:初级
+learnnum:2931人学习
+
+title:Android 集成开发环境搭建
+content:本课讲解如何搭建Android集成开发环境，全程使用Google官方推荐的Android ...
+classtime:3课时  25分钟
+classlevel:初级
+learnnum:3351人学习
+
+title:二级 C 结构体与共用体
+content:本课程主要介绍了结构体与共用体在二级 C 考试中的主要考点。最后是结构体和共用体部分的习题...
+classtime:4课时  19分钟
+classlevel:初级
+learnnum:2222人学习
+
+title:二级 C 作用域、预处理与存储
+content:本课程主要介绍了用户标示符的作用域，存储类，编译预处理以及动态存储。最后是二级 C 的作用...
+classtime:4课时  22分钟
+classlevel:初级
+learnnum:2117人学习
+
+title:Bootstrap 精选网站详解及制作 - Bootstrap 中文网合作课程
+content:本套课程主要讲解由 Bootstrap 完成的精选网站的详解及制作，包含对网站的分析、Lo...
+classtime:6课时  47分钟
+classlevel:初级
+learnnum:6032人学习
+
+title:Bootstrap JavaScript 插件 - Bootstrap 中文网合作课程
+content:本套课程主要了解 Bootstrap JavaScript 插件，掌握过渡效果、模态框、下...
+classtime:13课时  116分钟
+classlevel:初级
+learnnum:5085人学习
+
+title:二级 C 字符串
+content:本课程主要介绍了字符型数据，位运算以及字符串的主要考点和重点。最后是字符与字符串的习题和真...
+classtime:4课时  26分钟
+classlevel:初级
+learnnum:2407人学习
+
+title:二级 C 数组
+content:本课程主要介绍了二级 C 的数组的主要考点和重点，主要是一维数组和二维数组的概念，一级数组...
+classtime:4课时  23分钟
+classlevel:初级
+learnnum:2151人学习
+
+title:Grape 概述
+content:本课程从 Grape 基本概念入手，介绍了 Grape 的特点和功能，作为 Ruby 框架...
+classtime:4课时  29分钟
+classlevel:初级
+learnnum:2209人学习
+
+title:MySQL 入门
+content:本套课程主要讲解了数据库的发展历史以及关系数据模型和范式，并简单介绍了一下市面上常见的数据...
+classtime:6课时  45分钟
+classlevel:初级
+learnnum:2688人学习
+
+title:Go 表单
+content:本课程介绍在 Go 语言中处理表单数据。包括接收 Get 和 Post 方法提交的参数、验...
+classtime:3课时  16分钟
+classlevel:初级
+learnnum:2479人学习
+
+title:数据库基础知识
+content:本套课程主要讲解了数据库的发展历史以及关系数据模型和范式，并简单介绍了一下市面上常见的数据...
+classtime:3课时  16分钟
+classlevel:初级
+learnnum:2563人学习
+
+title:WatchKit 布局和导航
+content:本课介绍 WatchKit 中布局和导航，包括布局中涉及到的 App Icon 尺寸、屏幕...
+classtime:4课时  25分钟
+classlevel:初级
+learnnum:3187人学习
+
+title:Python RESTful API开发工具介绍及应用
+content:本课程将会给学习者介绍需要使用的开发工具，以及相关资源，并帮助学习者编写第一个可运行的程序...
+classtime:3课时  23分钟
+classlevel:初级
+learnnum:2551人学习
+
+title:代码调试与 MonoDevelop 的使用
+content:通过针对 MonoDevelop 所提供的可以在 Unity 当中可以使用的各种功能的讲解...
+classtime:5课时  40分钟
+classlevel:初级
+learnnum:2284人学习
+
+title:OneAPM 之应用性能分析工具
+content:本课学习如何集成和使用 OneAPM SDK，通过 OneAPM SDK  收集应用性能...
+classtime:4课时  34分钟
+classlevel:初级
+learnnum:2444人学习
+
+title:C# 的 LINQ
+content:本套课程讲解内容为 C# 语言的 LINQ。搜线介绍了 LINQ 的基本概念和优点，然后介...
+classtime:4课时  32分钟
+classlevel:初级
+learnnum:2416人学习
+
+title:二级 C 函数与指针
+content:本课程主要介绍了二级 C 的函数与指针部分的主要考点和重点，最后是函数和指针的习题真题解析...
+classtime:4课时  23分钟
+classlevel:初级
+learnnum:2304人学习
+
+title:二级 C 流程控制
+content:本课程主要介绍了二级 C 的流程控制部分的考点和重点，主要是顺序结构，选择结构，循环结构。...
+classtime:4课时  26分钟
+classlevel:初级
+learnnum:2110人学习
+
+title:因特网(Internet)的初步知识和应用
+content:本课程主要讲解因特网(Internet)的初步知识和应用，学习计算机网络的基本概念和因特网...
+classtime:3课时  59分钟
+classlevel:初级
+learnnum:2454人学习
+
+title:全国计算机一级考试 考试指导
+content:全国计算机等级考试的考试系统专用软件是在 Windows 平台下开发的应用软件，它提供了开...
+classtime:6课时  42分钟
+classlevel:初级
+learnnum:2438人学习
+
+title:二级 C 语言程序设计初步知识
+content:本课程主要介绍了程序设计基本概念，C 语言程序设计初步知识。最后是二级 C 考试的 C 语...
+classtime:4课时  25分钟
+classlevel:初级
+learnnum:2300人学习
+
+title:二级 C 数据库设计基础
+content:本课程主要介绍了数据库系统的基本概念，数据模型，关系代数，数据库设计与管理。最后是数据库设...
+classtime:5课时  25分钟
+classlevel:初级
+learnnum:2231人学习
+
+title:电子表格软件的功能和使用
+content:本课程讲解电子表格软件的功能和使用，内容包括电子表格的基本概念和基本功能，Excel 的基...
+classtime:8课时  69分钟
+classlevel:初级
+learnnum:2528人学习
+
+title:计算机基础知识
+content:本课程讲解《全国计算机等级考试一级 MSOffice 》的第一部分-计算机的基础知识，主要...
+classtime:5课时  59分钟
+classlevel:初级
+learnnum:2634人学习
+
+title:操作系统的功能和使用
+content:本课程主要讲解计算机操作系统的功能和使用相关知识，内容包括：计算机软、硬件系统的组成及主要...
+classtime:4课时  54分钟
+classlevel:初级
+learnnum:2379人学习
+
+title:文字处理软件的功能和使用
+content:本课程主要介绍文字处理软件的功能和使用，内容包括Word的基本概念，Word 的基本功能和...
+classtime:7课时  76分钟
+classlevel:初级
+learnnum:2418人学习
+
+title:PowerPoint 的功能和使用
+content:本课程主要讲解 PowerPoint 的功能和使用，包括中文 PowerPoint 的功能...
+classtime:6课时  53分钟
+classlevel:初级
+learnnum:2377人学习
+
+title:二级 C 程序设计与软件工程（二）
+content:本课程主要介绍了结构化设计方法，程序的测试和调试。最后是程序设计和软件工程部分的习题和真题...
+classtime:4课时  19分钟
+classlevel:初级
+learnnum:2229人学习
+
+title:二级 C 程序设计与软件工程（一）
+content:本课程主要介绍了程序设计基础，软件工程的基本概念以及软件工程中结构化分析方法。
+classtime:4课时  23分钟
+classlevel:初级
+learnnum:2211人学习
+
+title:二级 C 数据结构与算法的树、查找和排序技术
+content:本课程主要介绍了数据结构和算法中的树，二叉树，查找技术以及排序技术。最后加上了数据结构和算...
+classtime:4课时  25分钟
+classlevel:初级
+learnnum:2248人学习
+
+title:二级 C 数据结构与算法的线性数据结构
+content:本课程主要介绍了二级 C 公共基础知识部分，数据结构和算法中的线性数据结构，主要是线性表，...
+classtime:5课时  34分钟
+classlevel:初级
+learnnum:2281人学习
+
+title:二级 C 数据结构与算法基本概念
+content:本课程主要介绍了全国计算机等级考试，特别是二级 C 考试这个类别。然后介绍了二级 C 考试...
+classtime:4课时  22分钟
+classlevel:初级
+learnnum:2424人学习
+
+title:WatchKit 基础知识简介
+content:本课介绍最基础 WatchKit 框架包括 WatchKit App 和 WatchKit...
+classtime:4课时  18分钟
+classlevel:初级
+learnnum:3604人学习
+
+title:Android UiAutomator UiScrollable API 详细介绍
+content:本课程主要介绍 UiAutomator 中 UiScrollable 类中 API 的使用...
+classtime:8课时  60分钟
+classlevel:初级
+learnnum:2876人学习
+
+title:利用反射完成高级万能 DAO
+content:本课讲解了万能 DAO 的高级实现,带着大家解决当实体类属性和列名不一致的情况下，如何继续...
+classtime:5课时  93分钟
+classlevel:初级
+learnnum:2562人学习
+
+title:玩转 Arduino ——周边模块—传感器部件（2）
+content:本课程主要讲解在使用 Arduino 搭建智能小车或者机器人过程中常用的几种传感器的使用方...
+classtime:3课时  22分钟
+classlevel:初级
+learnnum:2382人学习
+
+title:Entity Framework 的 Entity
+content:本套课程讲解内容为 Entity Framework中 的 Entity 实体。首先介绍了...
+classtime:4课时  25分钟
+classlevel:初级
+learnnum:2497人学习
+
+title:其它常用功能
+content:学会使用常用的iOS系统功能
+classtime:4课时  25分钟
+classlevel:初级
+learnnum:2587人学习
+
+title:CloudStack 基础安装与配置
+content:本课程介绍 CloudStack 最小化系统的搭建，相关准备工作，包括管理节点，存储节点，...
+classtime:7课时  67分钟
+classlevel:初级
+learnnum:2701人学习
+
+title:Servlet 编程实例
+content:本套课程通过完成一个登陆实例，学习如何结合 JSP、Servlet 以及 JDBC 进行编...
+classtime:7课时  48分钟
+classlevel:中级
+learnnum:2569人学习
+
+title:Google V8 引擎的实际应用
+content:本课讲解 Google V8 引擎的实际应用，内容包括调用Mac系统的 API、调用 Wi...
+classtime:5课时  45分钟
+classlevel:初级
+learnnum:2368人学习
+
+title:苹果2015新产品发布会介绍
+content:本课根据苹果2015年3月10日的产品发布会总结而出，内容包括 AppleTV 介绍、iP...
+classtime:4课时  17分钟
+classlevel:初级
+learnnum:4014人学习
+
+title:Python 初识
+content:本课程让新手先从总体上快速认识 Python，第一节课会用十分钟学习 Python 精华，...
+classtime:6课时  46分钟
+classlevel:初级
+learnnum:2960人学习
+
+title:C# 的匿名函数
+content:本套课程讲解内容为 C# 语言的匿名函数。首先介绍了匿名函数的基本概念和 C# 委托的一个...
+classtime:3课时  15分钟
+classlevel:中级
+learnnum:2304人学习
+
+title:使用 Facebook 开源动画库 POP 实现真实衰减与弹簧动画
+content:本课程介绍 Facebook 团队开源的动画引擎 POP 动画，讲解 POP 动画与 Co...
+classtime:4课时  51分钟
+classlevel:初级
+learnnum:2415人学习
+
+title:Android 项目开发实战：空气质量监测应用开发
+content:本课讲解如何使用网络上提供的空气质量 API 开发 Android 应用，内容包括异步加载...
+classtime:3课时  34分钟
+classlevel:初级
+learnnum:3916人学习
+
+title:GDC 2015 游戏开发者大会 与 Unity 5.0 介绍
+content:2015年3月3日，Unity 官方在 GDC2015 大会上正式发布了迄今为止最强大的的...
+classtime:5课时  46分钟
+classlevel:初级
+learnnum:4031人学习
+
+title:Bootstrap 组件（下）- Bootstrap 中文网合作课程
+content:本套课程主要了解 Bootstrap 组件，使用组件可以更加快速的完成页面效果，例如警告框...
+classtime:11课时  71分钟
+classlevel:初级
+learnnum:6546人学习
+
+title:Bootstrap 组件（上）- Bootstrap 中文网合作课程
+content:本套课程主要了解 Bootstrap 组件，使用组件可以更加快速的完成页面效果，例如警告框...
+classtime:11课时  83分钟
+classlevel:初级
+learnnum:8015人学习
+
+title:Bootstrap 全局 CSS 样式 - Bootstrap 中文网合作课程
+content:本套课程主要了解 Bootstrap 的全局 CSS 样式， 包含栅格系统，排版，代码，表...
+classtime:10课时  109分钟
+classlevel:初级
+learnnum:13031人学习
+
+title:Bootstrap 起步 - Bootstrap 中文网合作课程
+content:本套课程主要了解 Bootstrap，什么是 Bootstrap 以及基本的入门使用和对浏...
+classtime:4课时  16分钟
+classlevel:初级
+learnnum:19557人学习
+
+title:用缓动函数模拟物理动画
+content:本课程先讲解关键帧动画，在理解关键帧动画原理基础之上进一步讲解缓动函数的原理以及使用方法，...
+classtime:5课时  55分钟
+classlevel:初级
+learnnum:2423人学习
+
+title:Servlet 概述
+content:本套课程主要讲解了 Servlet 的功能及使用，并讲解了 Servlet 的处理流程和常...
+classtime:3课时  20分钟
+classlevel:初级
+learnnum:2499人学习
+
+title:Entity Framework 创建数据模型
+content:本套课程讲解内容为 Entity Framework 创建数据模型。首先，通过一个 SQL...
+classtime:4课时  29分钟
+classlevel:初级
+learnnum:2365人学习
+
+title:Android UiAutomator UiCollection API 详细介绍
+content:本课学习 UiAutomator 中 UiCollection 类中 API 的使用，主要...
+classtime:3课时  27分钟
+classlevel:初级
+learnnum:2648人学习
+
+title:iOS 实战项目开发：抽奖转盘动画
+content:本课利用 QuartzCore 框架的动画知识和 UIKit 框架的图层知识讲述 iOS ...
+classtime:5课时  59分钟
+classlevel:初级
+learnnum:2708人学习
+
+title:使用 Maven 构建 Java 项目
+content:本套课程讲解了Maven的基本使用。首先通过命令行工具构建了一个简单的Maven项目，然后...
+classtime:3课时  20分钟
+classlevel:中级
+learnnum:2865人学习
+
+title:Bootstrap 滚动监听、标签页和工具提示
+content:本套课程主要了解 Bootstrap 滚动监听、标签页和工具提示， 通过添加 js 文件完...
+classtime:3课时  29分钟
+classlevel:初级
+learnnum:2940人学习
+
+title:C# 的正则表达式
+content:本套课程讲解内容为 C# 语言的正则表达式。首先介绍了正则表达式的基本概念以及一些学习的工...
+classtime:5课时  43分钟
+classlevel:中级
+learnnum:2393人学习
+
+title:RESTful API 概述
+content:本课程介绍 RESTful 的应用场景，应该如何理解 RESTful 构架、基本的 HTT...
+classtime:4课时  21分钟
+classlevel:初级
+learnnum:2671人学习
+
+title:Meteor 入门指南
+content:本套课程首先对 Meteor 框架的功能及特点进行了介绍，然后讲解了如何安装 Meteor...
+classtime:3课时  13分钟
+classlevel:初级
+learnnum:2679人学习
+
+title:Bootstrap 警告框、进度条和列表组
+content:本套课程主要了解 Bootstrap 警告框、进度条和列表组，这几个组件在网页中比较常见，...
+classtime:3课时  28分钟
+classlevel:初级
+learnnum:2885人学习
+
+title:C# 的预处理指令
+content:本套课程讲解内容为 C# 语言的预处理指令。首先介绍了预处理的基本概念以及区域预处理指令，...
+classtime:3课时  24分钟
+classlevel:初级
+learnnum:2270人学习
+
+title:Bootstrap 基本组件
+content:本套课程主要了解 Bootstrap 基本组件包含，分页与标签、徽章和巨幕以及页头与缩略图...
+classtime:3课时  25分钟
+classlevel:初级
+learnnum:3088人学习
+
+title:iOS 实战项目开发:空气质量监测应用开发
+content:本课讲解如何使用网络上提供的空气质量API开发iOS应用，内容包括API介绍、使用play...
+classtime:3课时  19分钟
+classlevel:初级
+learnnum:3864人学习
+
+title:Android 项目开发实战：新闻客户端
+content:本课程讲解如何自主开发新闻客户端。以 MySQL 数据库作为数据来源，使用 PHP 生成 ...
+classtime:5课时  58分钟
+classlevel:中级
+learnnum:4332人学习
+
+title:Entity Framework 概述和准备
+content:本套课程讲解内容为 Entity Framework 的概述。首先介绍了 Entity F...
+classtime:4课时  28分钟
+classlevel:中级
+learnnum:2359人学习
+
+title:Maven 概述及安装
+content:本套课程将介绍 Maven 的基本概念，然后讲解如何在 Mac OSX 系统上安装并配置 ...
+classtime:4课时  17分钟
+classlevel:中级
+learnnum:2580人学习
+
+title: PDO 对象认识与应用
+content:本课程学习如何在不动程序和不改动函数的情况下进下数据库切换、学习如何用 PHP 连接其它的...
+classtime:3课时  36分钟
+classlevel:中级
+learnnum:2866人学习
+
+title:Linux用户、群组和权限
+content:本课重点阐述了 Linux 安全性模型，并对用户、群组进行了介绍，并解读了文件和目录的权限...
+classtime:7课时  53分钟
+classlevel:初级
+learnnum:2747人学习
+
+title:GUI 组件的应用
+content:通过针对 Unity3D 原有 GUI 控件以及 API 的讲解，来帮助大家学会利用它们实...
+classtime:7课时  100分钟
+classlevel:初级
+learnnum:2624人学习
+
+title:Android UiAutomator UiObject API 详细介绍
+content:本课介绍 UiAutomator 中 UiObject 类中 API 的使用，包括以下基本...
+classtime:7课时  63分钟
+classlevel:初级
+learnnum:2567人学习
+
+title:C# 的反射机制
+content:本套课程讲解内容为 C# 语言的反射 Reflection。先介绍了关于 System.T...
+classtime:3课时  24分钟
+classlevel:中级
+learnnum:2439人学习
+
+title:Android UiAutomator UiSelector API 详细介绍
+content:本课学习 UiAutomator UiSelector， UI元素的搜索向来是UI自动化测...
+classtime:8课时  62分钟
+classlevel:初级
+learnnum:2561人学习
+
+title:JDBC 编程
+content:本套课程首先介绍了一下 JDBC 的基本概念，然后通过若干实例讲解了如何使用 JDBC 对...
+classtime:9课时  60分钟
+classlevel:初级
+learnnum:2518人学习
+
+title:Bootstrap 过渡效果、模态框和下拉菜单
+content:本套课程主要了解 Bootstrap 过渡效果、模态框和下拉菜单，通过对过渡效果可以有更好...
+classtime:3课时  28分钟
+classlevel:初级
+learnnum:3621人学习
+
+title:类型与变量
+content:本课学习 Go 语言有哪些基本类型，类型的零值、别名的用法和变量的声明和赋值，并进行类型转...
+classtime:3课时  23分钟
+classlevel:初级
+learnnum:2253人学习
+
+title:利用反射完成初级万能 DAO
+content:本课讲解了利用 Java 反射机制编写基础通用 DAO 的意义和实现，并详细介绍了增、删、...
+classtime:5课时  57分钟
+classlevel:中级
+learnnum:2587人学习
+
+title:C# 的 Attribute
+content:本套课程讲解内容为 C# 语言的 Attribute。先介绍了 .Net Framewor...
+classtime:3课时  20分钟
+classlevel:中级
+learnnum:2295人学习
+
+title:Cocos2d-x Box2D 物理世界初探
+content:本课程主要对 Box2D 进行初步的讲解，并在 Cocos2d-x 中创建 Box2d 物...
+classtime:5课时  27分钟
+classlevel:初级
+learnnum:2730人学习
+
+title:JSP内置对象(下)
+content:本套课程主要讲解了 JSP 内置对象 Page 对象、Exception 对象以及 Pag...
+classtime:3课时  10分钟
+classlevel:初级
+learnnum:2376人学习
+
+title:网络公告墙项目实战(二)
+content:本课程讲解简化版 BBS 真实的开始过程，主要包含用户管理、公告管理。通过学习本课程，学员...
+classtime:4课时  72分钟
+classlevel:中级
+learnnum:2346人学习
+
+title:调休系统 GUI 设计(下)
+content:本课程以实际项目为例，结合已经完成的登陆页的页面样式，继续完成剩余内容页面的设计与制作。
+classtime:4课时  68分钟
+classlevel:初级
+learnnum:2510人学习
+
+title:玩转Arduino——周边模块—传感器部件(1)
+content:本课主要讲解如何使用 Arduino 来感知周边的环境的状态；并以温度传感器、湿度传感器、...
+classtime:4课时  25分钟
+classlevel:初级
+learnnum:2500人学习
+
+title:JSP内置对象（中）
+content:本套课程主要讲解了 JSP 内置对象 Session 对象、Application 对象以...
+classtime:5课时  31分钟
+classlevel:初级
+learnnum:2202人学习
+
+title:Android UiAutomator UiDevice API 详细介绍
+content:本课学习UiAutomator UiDevice，详细说明和实例讲解所有的API，学完本课...
+classtime:9课时  64分钟
+classlevel:初级
+learnnum:2610人学习
+
+title:C# 的泛型
+content:本套课程讲解内容为 C# 语言的泛型 Generic。主要讲解了泛型在类 Class 上的...
+classtime:4课时  26分钟
+classlevel:中级
+learnnum:2278人学习
+
+title:Cocos2d-x 自定义超级富文本控件
+content:本课程主要 Cocos2d-x 中的 RichText 控件进行扩展。实现支持多行排列，解...
+classtime:4课时  30分钟
+classlevel:初级
+learnnum:2339人学习
+
+title:产品经理的职能要求
+content:本课介绍移动互联网“产品经理”是做什么的，这个岗位具体的工作职责有哪些，带领入门者从一开始...
+classtime:6课时  38分钟
+classlevel:初级
+learnnum:2552人学习
+
+title:Bootstrap媒体对象、面板和Well
+content:本套课程主要了解 Bootstrap 媒体对象、面板和 Well，通过掌握媒体对象来展示类...
+classtime:3课时  24分钟
+classlevel:初级
+learnnum:3160人学习
+
+title:Bootstrap 输入框组、导航和导航条
+content:本套课程主要了解 Bootstrap 输入框组、导航和导航条。 了解输入框组中嵌入按钮下拉...
+classtime:3课时  36分钟
+classlevel:初级
+learnnum:3617人学习
+
+title:C# 的事件
+content:本套课程讲解内容为 C# 语言的事件 Event 。首先通过事件在 WinForm 中的使...
+classtime:3课时  20分钟
+classlevel:中级
+learnnum:2419人学习
+
+title:iOS 中 CAGradientLayer 的使用
+content:本课介绍 CALayer 的子类 CAGradientLayer 的使用，并讲解 CAGr...
+classtime:4课时  52分钟
+classlevel:初级
+learnnum:2499人学习
+
+title:Bootstrap 组件之下拉菜单、按钮组、按钮式下拉菜单
+content:本套课程主要了解 Bootstrap下拉菜单、按钮组合和按钮式下拉菜单，掌握下拉菜单的创建...
+classtime:3课时  30分钟
+classlevel:初级
+learnnum:3718人学习
+
+title:Sketch 界面设计入门和实战
+content:本课介绍了 Sketch 软件的基础知识和和使用方法，以及 Sketch 的优点和弱项，通...
+classtime:7课时  59分钟
+classlevel:初级
+learnnum:3175人学习
+
+title:Go Web 开发介绍
+content:本课介绍 Go 语言的背景知识、环境配置以及 Web 开发的基础知识，同时展示一个 Go ...
+classtime:3课时  18分钟
+classlevel:初级
+learnnum:2574人学习
+
+title:Android UiAutomator 环境配置与编译运行
+content:本课介绍 Android UiAutomator 使用工具的下载安装和环境配置，如何新建 ...
+classtime:4课时  39分钟
+classlevel:初级
+learnnum:3212人学习
+
+title:Bootstrap CSS 表单、按钮和图片
+content:本套课程主要 BootStrap CSS 的表单、按钮和图片，掌握表单的创建和格式的处理，...
+classtime:3课时  35分钟
+classlevel:初级
+learnnum:3951人学习
+
+title:MongoDB 3.0 新特性预览
+content:本课讲解MongoDB 3.0 的新特性：包含 MongoDB 3.0 RC版的安装和相关...
+classtime:3课时  9分钟
+classlevel:初级
+learnnum:3132人学习
+
+title:调休系统 GUI 设计（上）
+content:本课程以实际项目为例，结合已经完成的原型线框图对该项目的图形设计制定相关的设计规范。我们将...
+classtime:3课时  67分钟
+classlevel:高级
+learnnum:2625人学习
+
+title:Egret GUI 库
+content:本套课程主要了解 EgretGUI 库，主要包含 GUI 库的介绍，按钮的使用和滑动的选择...
+classtime:3课时  37分钟
+classlevel:初级
+learnnum:2299人学习
+
+title:腾讯 Bugly : iOS Crash 跟踪方法
+content:本课讲解 iOS Crash 的现状，并通过代码演示 iOS Crash 问题的场景，详细...
+classtime:4课时  24分钟
+classlevel:初级
+learnnum:2944人学习
+
+title:C# 的委托
+content:本套课程讲解内容为 C# 语言的委托 Delegate，主要讲解了通过委托对静态方法，实例...
+classtime:3课时  20分钟
+classlevel:中级
+learnnum:2408人学习
+
+title:Java 反射机制
+content:本课讲解了 Java 的反射机制，认识反射机制中的常用对象，并学会使用。最后通过实现 Ex...
+classtime:6课时  59分钟
+classlevel:初级
+learnnum:2834人学习
+
+title:Android 常用 OAuth 登录与分享详解：百度登录
+content:本课主要是通过讲解如何使用百度 SDK 来完成百度的 OAuth 认证并且获取到用户在百度...
+classtime:4课时  75分钟
+classlevel:初级
+learnnum:2873人学习
+
+title:常用的方法函数
+content:通过针对 Monobehavior 所提供的各种常用方法的讲解，来帮助大家在脚本开发过程中...
+classtime:8课时  92分钟
+classlevel:初级
+learnnum:2361人学习
+
+title:Cocos2d-x游戏实战项目开发:记忆卡片
+content:本课程通过游戏需求的分析、结构的设计结合 Cocos2d-x 的功能来实现整个游戏并最终发...
+classtime:18课时  175分钟
+classlevel:中级
+learnnum:2631人学习
+
+title:设计模式之观察者模式
+content:本课通过讲解一个互联网气象站项目设计遇到的问题出发、分析问题，然后通过引入观察者模式来很好...
+classtime:4课时  65分钟
+classlevel:中级
+learnnum:2571人学习
+
+title:Open XML SDK 编程入门
+content:本课介绍 Open XML SDK 及相关的工具。 学习如何以编程和运行脚本工具的方式来生...
+classtime:4课时  25分钟
+classlevel:初级
+learnnum:2698人学习
+
+title:虚幻4开发环境配置
+content:本课主要介绍如何获取各平台虚幻4编辑器，以及如何用虚幻4源码编译虚幻4编辑器，并针对各平台...
+classtime:5课时  43分钟
+classlevel:初级
+learnnum:2779人学习
+
+title:并行程序设计基础知识
+content:本课简要介绍并行计算程序设计相关的基础知识，包括 CPU 与 GPU 编程上的差异。
+classtime:3课时  18分钟
+classlevel:初级
+learnnum:2679人学习
+
+title:编译和使用 Google V8 引擎
+content:本课讲解 Google V8 引擎， 内容包括在 Windows 平台下载源码、编译和运行...
+classtime:4课时  40分钟
+classlevel:高级
+learnnum:2394人学习
+
+title:iOS实战项目开发:手势密码锁
+content:本课学习 iOS 中的常用的六种手势操作。包括点击、捏合、轻扫、拖移、旋转、长按，了解手势...
+classtime:4课时  64分钟
+classlevel:初级
+learnnum:3195人学习
+
+title:Bootstrap CSS 栅格、代码和表格
+content:本套课程主要讲解 Bootstrap CSS 栅格、代码和表格，通过使用栅格系统完成页面的...
+classtime:3课时  27分钟
+classlevel:初级
+learnnum:5118人学习
+
+title:开源的人工智能项目 Torch 和 FacebookAI 工具
+content:本课讲解开源的人工智能项目 Torch，内容包括 Torch 项目的介绍，Torch 项目...
+classtime:4课时  37分钟
+classlevel:初级
+learnnum:2634人学习
+
+title:Git 远程协作
+content:本课程介绍 GitHub 与 GitHub 账户的 SSH keys 配置，在 GitHu...
+classtime:3课时  31分钟
+classlevel:初级
+learnnum:3205人学习
+
+title:JSP内置对象（上）
+content:本套课程主要讲解了 JSP 内置对象 Out 对象、Request 对象以及 Respon...
+classtime:4课时  22分钟
+classlevel:初级
+learnnum:2490人学习
+
+title:脚本开发的输入与控制
+content:通过针对 Unity 输入管理器以及 Input 等各个类所提供的功能的讲解与实践，来帮助...
+classtime:7课时  72分钟
+classlevel:初级
+learnnum:2556人学习
+
+title:调休系统原型设计
+content:本课程以实际项目为例，对项目需求进行分析整理，并针对该项目制定相关的设计规范，在设计规范的...
+classtime:5课时  58分钟
+classlevel:高级
+learnnum:2604人学习
+
+title:C# 的索引器
+content:本套课程讲解内容为 C# 语言的索引器 Indexer，主要介绍了建立一个索引器的语法，索...
+classtime:3课时  19分钟
+classlevel:中级
+learnnum:2471人学习
+
+title:Linux 文件和目录管理
+content:本课主要介绍了 Linux 文件的目录系统结构，对一些重要目录以及文件和目录的命名规则进行...
+classtime:5课时  41分钟
+classlevel:初级
+learnnum:2936人学习
+
+title:Bootstrap 简介
+content:本套课程主要了解Bootstrap，什么是Bootstrap以及基本的入门使用和全局CSS...
+classtime:3课时  27分钟
+classlevel:初级
+learnnum:6754人学习
+
+title:OpenCL 程序设计概要
+content:本课介绍 OpenCL 程序设计的背景知识与准备工作。课程首先通过一个实例介绍利用 Ope...
+classtime:3课时  14分钟
+classlevel:初级
+learnnum:3155人学习
+
+title:JSP编译指令和动作指令
+content:本套课程主要讲解了JSP编译指令和动作指令，其中编译指令包括：page 指令和 inclu...
+classtime:5课时  32分钟
+classlevel:初级
+learnnum:2671人学习
+
+title:从 MVC 到 PHP 框架
+content:本课从基本的模块化设计和分层思想来讲解 PHP 框架的作用和原理，并结合国内流行的 Yii...
+classtime:4课时  26分钟
+classlevel:中级
+learnnum:3274人学习
+
+title:玩转Arduino——周边模块:执行部件
+content:本课讲解了 Arduino 周边模块中的直流电机、舵机、步进电机等执行部件的原理以及控制方...
+classtime:5课时  35分钟
+classlevel:初级
+learnnum:2608人学习
+
+title:听云 App 移动应用监控实战：SDK 嵌码集成
+content:本课介绍如何开始使用听云 App 服务，在使用使用听云 App 前需要做好哪些准备，尤其是...
+classtime:7课时  40分钟
+classlevel:初级
+learnnum:3631人学习
+
+title:Egret 实例及屏幕适配
+content:本套课程主要了解 Egret 小实例和屏幕适配，通过小实例的讲解让学员能更好地了解 Egr...
+classtime:3课时  19分钟
+classlevel:初级
+learnnum:2197人学习
+
+title:Linux 桌面系统
+content:本课程主要介绍了 Linux 几种桌面系统，包括图形桌面系统、GNOME 桌面系统、KDE...
+classtime:3课时  22分钟
+classlevel:初级
+learnnum:2799人学习
+
+title:CocosStudio 2.0 文件格式解析
+content:本课程主要对 CocosStudio 2.0 所保存的格式进行详细的讲解，了解 Cocos...
+classtime:3课时  19分钟
+classlevel:中级
+learnnum:2401人学习
+
+title:iOS实战项目开发:绘制小黄人
+content:本课利用绘制小黄人雏形的实例讲解 Quartz 2D 的绘图知识。包括基本图形如三角形、四...
+classtime:3课时  52分钟
+classlevel:初级
+learnnum:3462人学习
+
+title:Django简要介绍
+content:本课介绍 Django 框架的基本使用，演示框架的安装、创建和运行；并简要的解释 MVC ...
+classtime:3课时  16分钟
+classlevel:初级
+learnnum:2975人学习
+
+title:CocosStudio 2.0 容器控件
+content:本课程主要对 CocosStudio 2.0 的容器控件进行介绍，并使用官方的示例进行容器...
+classtime:3课时  14分钟
+classlevel:初级
+learnnum:2445人学习
+
+title:Egret 声音和网络
+content:本套课程主要了解 Egret 的声音和网络，这两个点是非常重要的。在基本的项目中都会使用到...
+classtime:4课时  30分钟
+classlevel:初级
+learnnum:2337人学习
+
+title:Linux介绍
+content:本课主要是对 Linux 的介绍，包括 Linux 的起源、发展过程，及其优缺点。
+classtime:3课时  25分钟
+classlevel:初级
+learnnum:3255人学习
+
+title:Android 常用 OAuth 登录与分享详解：OAuth 介绍与入门
+content:本课程先从 OAuth 的定义及应用背景开始了解，然后再通过 OAuth 的四种认证模式来...
+classtime:7课时  80分钟
+classlevel:初级
+learnnum:3619人学习
+
+title:网络公告墙项目实战（上）
+content:本课程讲解了简化版 BBS 真实的开始过程。主要包含用户管理，公告管理。通过学习本课程，学...
+classtime:5课时  69分钟
+classlevel:初级
+learnnum:2760人学习
+
+title:JSP 基本语法
+content:本套课程主要讲解了 JSP 的基本语法，包括JSP程序段、JSP 声明、JSP 表达式和 ...
+classtime:3课时  16分钟
+classlevel:初级
+learnnum:2944人学习
+
+title:聚合数据 Android 项目开发实战：短信验证码
+content:本课程学习集成及使用聚合数据短信验证码 Android SDK, 通过短信验证码 Andr...
+classtime:4课时  23分钟
+classlevel:中级
+learnnum:4550人学习
+
+title:C# 的 I/O 操作
+content:本套课程讲解内容为 C# 语言的 I/O 操作，比如获取文件或则文件夹的详情，以及文件读取...
+classtime:3课时  30分钟
+classlevel:中级
+learnnum:2677人学习
+
+title:脚本开发中的 3D 数学
+content:通过对 3D 数学的基本概念以及 Vector3 类所提供的各种变量与方法的学习，来帮助大...
+classtime:6课时  60分钟
+classlevel:初级
+learnnum:2601人学习
+
+title:Android 中 Action Bar 的使用
+content:Action Bar 是一个标识应用程序和用户位置的窗口控件，并且给用户提供统一的操作和导...
+classtime:7课时  74分钟
+classlevel:初级
+learnnum:4147人学习
+
+title:iOS实战项目开发:瀑布流
+content:本课通过完成瀑布流展示图片的实例来学习 UICollectionView 控件，了解控件的...
+classtime:3课时  29分钟
+classlevel:初级
+learnnum:4329人学习
+
+title:CocosStudio 2.0 基础控件
+content:本课程主要对 CocosStudio 2.0 的整体功能进行介绍，并对基础控件的属性进行详...
+classtime:3课时  30分钟
+classlevel:初级
+learnnum:2569人学习
+
+title:Andriod 自动化测试及其框架简介
+content:本课主要分析了Android UI 自动化测试的前景，介绍了当前UI自动化测试使用的框架，...
+classtime:3课时  20分钟
+classlevel:初级
+learnnum:3778人学习
+
+title:JDBC 连接数据库及增删改查操作
+content:本课主要讲解了 Java 连接数据库工具类的实现，通过 JDBC 对数据库进行增删改查操作...
+classtime:6课时  54分钟
+classlevel:中级
+learnnum:2721人学习
+
+title:Egret 位图纹理
+content:本套课程主要了解 Egret 的创建位图，九宫格的使用，纹理的填充方式和纹理集的使用。通过...
+classtime:5课时  42分钟
+classlevel:初级
+learnnum:2226人学习
+
+title:Go 语言基本概念讲解
+content:本课讲解 Go 语言中必要的基础概念，以便学习者了解基本术语，在之后的课程中更好地进行学习...
+classtime:2课时  16分钟
+classlevel:初级
+learnnum:2579人学习
+
+title:Linux 安装
+content:本课通过 VMware 虚拟机和 rhel5.5 server 版进行实际安装讲解，让初学...
+classtime:4课时  43分钟
+classlevel:初级
+learnnum:3464人学习
+
+title:Swift 基础语法
+content:本课介绍 Swift，并通过代码讲解 Swift 的基础语法。包括常量与变量的声明、函数、...
+classtime:5课时  59分钟
+classlevel:初级
+learnnum:4341人学习
+
+title:C# 的异常处理机制
+content:本套课程讲解内容为 C# 语言的异常处理机制，包括异常处理的基本语法，还有 C# 语言中内...
+classtime:3课时  23分钟
+classlevel:中级
+learnnum:2572人学习
+
+title:微信内网页开发工具包(微信JS-SDK)
+content:本套课程主要了解微信公众平台面向开发者开放微信内网页开发工具包（微信JS-SDK），主要包...
+classtime:3课时  26分钟
+classlevel:初级
+learnnum:9843人学习
+
+title:Git 本地操作
+content:本课介绍 Git 安装与简单配置，在理解 Git 暂存区的基础上掌握 Git 基本的工作流...
+classtime:8课时  93分钟
+classlevel:初级
+learnnum:4698人学习
+
+title:在 Linux 下搭建 JSP 开发环境
+content:本套课程主要讲解了如何在 Linux 系统上搭建 JSP 的开发环境，包括 JDK 的下载...
+classtime:3课时  23分钟
+classlevel:初级
+learnnum:2554人学习
+
+title:C语言中的文件操作
+content:本课讲解在 C 语言中如何操作文件，内容包括，写出到文件，读取文件内容，格式化输出与读取文...
+classtime:3课时  20分钟
+classlevel:中级
+learnnum:4837人学习
+
+title:结构体和共同体
+content:本课讲解在 C 语言中结构体和共同体的概念及用法，内容包括结构体、结构体指针、共同体。通过...
+classtime:3课时  36分钟
+classlevel:中级
+learnnum:3526人学习
+
+title:C语言指针的用法
+content:本课讲解在 C 语言中指针的用法，内容包括指针的概念及定义，函数指针，无类型指针的概念和使...
+classtime:3课时  23分钟
+classlevel:中级
+learnnum:4177人学习
+
+title:C语言常用的预处理
+content:本课讲解在 C 语言中常用的预处理，内容包括宏常量的使用、宏函数的定义、条件编译、宏函数可...
+classtime:6课时  52分钟
+classlevel:中级
+learnnum:3813人学习
+
+title:设计模式之策略模式
+content:本课通过讲解一个模拟鸭子项目设计遇到的问题出发、分析问题，然后通过引入策略模式来很好的解决...
+classtime:4课时  34分钟
+classlevel:中级
+learnnum:2884人学习
+
+title:C语言函数
+content:本课讲解在 C 语言中如何声明和使用函数，内容包括函数讲解、函数参数讲解、函数返回值讲解、...
+classtime:4课时  28分钟
+classlevel:初级
+learnnum:4086人学习
+
+title:C语言字符串操作
+content:本课讲解在 C 语言中字符串的常用操作，内容包括字符串连接、格式化创建字符串、字符串与其它...
+classtime:5课时  38分钟
+classlevel:初级
+learnnum:3458人学习
+
+title:C语言数组
+content:本课讲解在 C 语言中使用数组，内容包括创建一维数组、二维数组、多维数组、字符数组，通过本...
+classtime:3课时  22分钟
+classlevel:初级
+learnnum:3829人学习
+
+title:C语言输入与输出
+content:本课讲解在 C 语言中的标准输入与输出功能的使用，内容包括输出字符、输出字符串、格式化输出...
+classtime:4课时  31分钟
+classlevel:初级
+learnnum:4195人学习
+
+title:苹果推送通知服务
+content:本课讲解如何配置推送证书，以及学会使用推送服务。
+classtime:3课时  20分钟
+classlevel:中级
+learnnum:3970人学习
+
+title:C语言常用运算符
+content:本课讲解在 C 语言中的常用运算符，内容包括数学运算、逻辑运算、位运算，通过本课学习将掌握...
+classtime:4课时  39分钟
+classlevel:初级
+learnnum:4241人学习
+
+title:流程控制与循环
+content:本课讲解在 C 语言中的流程控制与循环，内容包括 if..else 语句的用法、switc...
+classtime:5课时  37分钟
+classlevel:初级
+learnnum:4610人学习
+
+title:C 语言常用的基本数据类型
+content:本课讲解 C 语言中常用的数据类型，内容包括整型、实型、字符型等基本数据类型，同时说明了不...
+classtime:5课时  48分钟
+classlevel:初级
+learnnum:9519人学习
+
+title:Mac 平台下搭建 C 语言集成开发环境
+content:本课讲解在 Mac 平台搭建 C 语言集成开发环境，内容包括使用 SublimeText ...
+classtime:4课时  27分钟
+classlevel:初级
+learnnum:4093人学习
+
+title:玩转 Arduino ——周边模块: LCD 与数码管
+content:本课程讲解了 LCD1602 以及数码管的原理以及使用方法，在实例中讲解了如何使用 Ard...
+classtime:4课时  26分钟
+classlevel:初级
+learnnum:2599人学习
+
+title:在 Mac 下搭建 JSP 开发环境
+content:本套课程主要讲解了如何在 Mac OSX 系统上搭建JSP的开发环境，包括 JDK 的下载...
+classtime:3课时  20分钟
+classlevel:初级
+learnnum:2618人学习
+
+title:Egret 绘图、文本、动画和计时器
+content:本套课程主要了解 Egret 的绘图、文本、动画和计时器。通过绘图绘制图形，通过 Text...
+classtime:4课时  38分钟
+classlevel:初级
+learnnum:2443人学习
+
+title:脚本开发中的基础数学
+content:通过对 Mathf,Random 以及 Time 类所提供的各种变量与方法的实例讲解，来帮...
+classtime:6课时  62分钟
+classlevel:初级
+learnnum:2578人学习
+
+title:Face++人脸识别技术入门
+content:本课学习Face++在线API、离线API的规范和数据类型、SDK嵌入和使用的方法。
+classtime:6课时  28分钟
+classlevel:初级
+learnnum:4018人学习
+
+title:Google Wear可穿戴系统通信机制破解
+content:本课程从感性和设计层面认识Android wear，教你学会Android wear通信机...
+classtime:6课时  28分钟
+classlevel:初级
+learnnum:26418人学习
+
+title:聚合数据 iOS 项目开发实战:在线影院
+content:本课程主要学习如何调用聚合数据“影讯 API 合集”中的周边影院和影院上映影片信息接口，如...
+classtime:5课时  40分钟
+classlevel:中级
+learnnum:3587人学习
+
+title:在 Windows 下搭建 JSP 开发环境
+content:本套课程主要讲解了如何在 Windows 系统上搭建 JSP 的开发环境，包括 JDK 的...
+classtime:3课时  19分钟
+classlevel:初级
+learnnum:3008人学习
+
+title:彩虹糖粒子特效
+content:本课程讲解 Cocos2d-x 使用代码和粒子一起完成动态切割图片并喷射出彩色的粒子效果。
+classtime:3课时  27分钟
+classlevel:初级
+learnnum:3116人学习
+
+title:PHP 与 MySQL
+content:本课讲解 PHP 操作 MySQL 数据库，内容包括 PhpMyAdmin 介绍，MySQ...
+classtime:6课时  85分钟
+classlevel:初级
+learnnum:5549人学习
+
+title:iOS 中 CAShapeLayer 的使用
+content:本课讲解 CAShapeLayer 与贝塞尔曲线基本原理，使用贝塞尔曲线创建出圆形形状，并...
+classtime:4课时  45分钟
+classlevel:初级
+learnnum:2850人学习
+
+title:基于反射的通用 DAO 的展示和 MySQL 数据库的实战
+content:本课程主要介绍了通用 DAO 的强大之处，教会用户如何安装 MySQL 数据库，熟练创建数...
+classtime:6课时  50分钟
+classlevel:中级
+learnnum:2975人学习
+
+title:粒子系统初级应用
+content:本课程讲解 Cocos2d-x 的粒子系统以及使用粒子编辑器来介绍 Cocos2d-x 粒...
+classtime:4课时  17分钟
+classlevel:初级
+learnnum:2742人学习
+
+title:Android 侧滑菜单之 DrawerLayout 的使用
+content:本课讲解如何使用 Google 官方提供的 DrawerLayout 控件，同时结合 Fr...
+classtime:5课时  39分钟
+classlevel:初级
+learnnum:5739人学习
+
+title:让设计深入人心
+content:本课程将为大家介绍重复原则，以及此原则在企业品牌效应中的广泛应用，并结合实例，分享和讲解设...
+classtime:7课时  44分钟
+classlevel:初级
+learnnum:3452人学习
+
+title:Egret事件机制
+content:本套课程主要了解在 Egret 中，事件处理机制的原理，事件的执行流程，Event 类，事...
+classtime:3课时  26分钟
+classlevel:初级
+learnnum:2403人学习
+
+title:TMX 地图解析
+content:本课程讲解 Cocos2d-x 加载并解析 TMX 地图，操作里面的元素并完成简单的移动碰...
+classtime:5课时  20分钟
+classlevel:初级
+learnnum:3071人学习
+
+title:HTML5开发项目实战:地铁计价器
+content:本套课程主要了解地铁计价器的实现过程，包含布局、样式和算法及数据的整理。让学员掌握如何从零...
+classtime:4课时  69分钟
+classlevel:初级
+learnnum:8226人学习
+
+title:玩转 Arduino——周边模块: LED 显示部件
+content:本课程讲解了Arduino 周边模块中 LED 显示部件的使用。主要包含单个 LED、 L...
+classtime:3课时  28分钟
+classlevel:初级
+learnnum:2955人学习
+
+title:Asp.Net MVC的校验机制
+content:本套课程主要讲解了 Asp.Net MVC 的校验机制，它采用的是 DRY(Don’t R...
+classtime:3课时  18分钟
+classlevel:初级
+learnnum:2680人学习
+
+title:不一样的进度条
+content:本课程将为大家讲解，一个创意进度条，是如何从概念化设计，经由可实施方案的制作，作为成品呈现...
+classtime:3课时  38分钟
+classlevel:中级
+learnnum:2781人学习
+
+title:微信智能客服机器人开发 Java 版
+content:微信智能客服机器人，是基于微信公众平台开发而成，它能有效的解决人工客服效率低下的问题，做到...
+classtime:4课时  30分钟
+classlevel:初级
+learnnum:4893人学习
+
+title:进度条常见动画表现
+content:本课程将进度条的常见动画表现形式进行分类、归纳和总结，并演示如何使用 Photoshop ...
+classtime:3课时  31分钟
+classlevel:中级
+learnnum:2974人学习
+
+title:Cocos2d-x游戏实战项目开发:拼图游戏
+content:本课程通过指定纹理的区域来实现对一张图片的分割并制作成拼图游戏，所涉及到的知识点有纹理缓冲...
+classtime:3课时  26分钟
+classlevel:初级
+learnnum:3369人学习
+
+title:进度条的常见形式
+content:本课程将常见的进度条按照表现形式进行分类、归纳和总结，帮助大家对此类控件有更系统的理解。
+classtime:4课时  48分钟
+classlevel:中级
+learnnum:2821人学习
+
+title:Asp.Net MVC 的搜索功能
+content:本套课程主要讲解了 Asp.Net MVC 的搜索功能的实现，并讲解如果修改网页UI来让用...
+classtime:3课时  22分钟
+classlevel:初级
+learnnum:2470人学习
+
+title:iOS实战项目开发:通讯录
+content:本课实现模拟通讯录的登陆、添加、删除、修改的功能，涉及到第三方类库的使用，数据存储并加深理...
+classtime:5课时  62分钟
+classlevel:初级
+learnnum:3315人学习
+
+title:PHP 在服务端的应用概述
+content:本课以俯视的角度鸟瞰整个 Web 架构，给初学者一个全景视图。让大家了解客户端/服务端的概...
+classtime:5课时  35分钟
+classlevel:中级
+learnnum:3355人学习
+
+title:JSP 基本介绍
+content:本套课程主要讲解 JSP&Servlet 技术的起源和历史；在 windows 平台、Ma...
+classtime:3课时  17分钟
+classlevel:初级
+learnnum:3398人学习
+
+title:Asp.Net MVC 解析 Action 和 View
+content:本套课程主要讲解了 Asp.Net MVC 中 Controller 的几个常见的 Act...
+classtime:3课时  25分钟
+classlevel:初级
+learnnum:2467人学习
+
+title:Transform 场景物体的变换
+content:通过对 Transform 类所提供的各种变量与方法的实例讲解，来帮助大家学会实现物体在场...
+classtime:6课时  69分钟
+classlevel:初级
+learnnum:2605人学习
+
+title:Asp.Net MVC的Model、View与Controller
+content:本套课程主要对 Asp.Net MVC 添加一个 Controller，并进行一些关于 C...
+classtime:6课时  43分钟
+classlevel:初级
+learnnum:2743人学习
+
+title:Windows Workflow Foundation 简介与猜数字演示
+content:本套课程主要对 Windows Workflow Foundation 进行简单介绍，并针...
+classtime:5课时  35分钟
+classlevel:中级
+learnnum:2441人学习
+
+title:iOS实战项目开发:三级控制器
+content:本课学习三级控制器的结构，了解 UITabBarController、UINavigati...
+classtime:3课时  30分钟
+classlevel:初级
+learnnum:3382人学习
+
+title:Egret 显示容器
+content:本套课程主要了解在 Egret中， DisplayObjectContainer 封装了一...
+classtime:4课时  38分钟
+classlevel:初级
+learnnum:2396人学习
+
+title:Go 开发环境搭建
+content:本课程主要包含 Go 语言的介绍，在 Mac、Linux 和 Windows 下搭建开发环...
+classtime:5课时  29分钟
+classlevel:初级
+learnnum:3218人学习
+
+title:Asp.Net WebForm 与 MVC 简介
+content:本套课程主要对 Asp.Net WebForms 以及 MVC 进行简单的介绍和通过一个你...
+classtime:4课时  32分钟
+classlevel:初级
+learnnum:2907人学习
+
+title:玩转 Arduino——物联网嵌入式开发入门
+content:本课程将讲解物联网的基本概念及其与嵌入式开发的关系。并带你了解物联网开发领域应用最为广泛的...
+classtime:4课时  31分钟
+classlevel:初级
+learnnum:4076人学习
+
+title:Egret 显示对象
+content:本套课程主要了解 Egret 的显示对象，包含显示对象的种类，基本概念，遮罩的使用，碰撞的...
+classtime:6课时  46分钟
+classlevel:初级
+learnnum:2368人学习
+
+title:Windows 平台搭建C语言集成开发环境
+content:本课讲解在 Windows 平台搭建C语言环境，内容包括介绍 GNU 环境、在 Windo...
+classtime:5课时  55分钟
+classlevel:初级
+learnnum:10058人学习
+
+title:Linux 平台搭建C语言集成开发环境
+content:本课讲解在 Linux 平台搭建C语言的集成开发环境，内容包括使用控制台的文本编辑器编写C...
+classtime:4课时  34分钟
+classlevel:初级
+learnnum:7997人学习
+
+title:C语言介绍
+content:本课对C语言进行全面介绍，内容包括认识C语言、C语言的历史、C语言相关的常识、选择合适的软...
+classtime:4课时  29分钟
+classlevel:初级
+learnnum:18105人学习
+
+title:Egret 环境搭建
+content:本套课程主要了解 Egret，了解 Egret 的优势和优点。掌握在 Windows 环境...
+classtime:5课时  34分钟
+classlevel:初级
+learnnum:2842人学习
+
+title:TypeScript 模块
+content:通过对 JavaScirpt Module 的理解，完成 TypeScript 中提供的 ...
+classtime:3课时  24分钟
+classlevel:初级
+learnnum:2630人学习
+
+title:PHP 会话管理
+content:本课讲解 PHP 的会话管理，内容包括操作 Session 和操作 Cookie，Sess...
+classtime:3课时  17分钟
+classlevel:初级
+learnnum:3907人学习
+
+title:脚本的响应事件与组件访问
+content:本课程通过对 MonoBehavior 所提供的各种的响应事件函数以及组件的访问方法的讲解...
+classtime:5课时  59分钟
+classlevel:初级
+learnnum:2469人学习
+
+title:Egret实战开发小游戏:测专注力
+content:本套课程完成测试专注力的小游戏，主要技术点有，绘制图形、事件处理、资源加载和游戏逻辑，通过...
+classtime:3课时  37分钟
+classlevel:初级
+learnnum:2799人学习
+
+title:Android 扫描二维码实现网页登录
+content:本课讲解如何使用 ZXing 库扫描二维码，使用 PHP 生成指定二维码，以及综合 And...
+classtime:6课时  46分钟
+classlevel:初级
+learnnum:5887人学习
+
+title:Google开源库-Volley的应用
+content:通过使用 Volley 完成异步请求任务，主要完成 JSON 字符串请求，异步图片加载，V...
+classtime:4课时  27分钟
+classlevel:初级
+learnnum:4453人学习
+
+title:Photoshop 的 3D 功能再探
+content:本课程讲解文本立体结构和空间关系的设计，并结合实例为大家演示如何使用 Photoshop ...
+classtime:7课时  65分钟
+classlevel:中级
+learnnum:3671人学习
+
+title:Asp.Net 简介与准备
+content:本课程主要对 Asp.Net 进行简单的介绍和开发前的一些准备。并讲解了为何和如何成为一名...
+classtime:2课时  20分钟
+classlevel:初级
+learnnum:2960人学习
+
+title:HTML表单的创建与提交
+content:本课讲解 HTML 表单的创建、提交，以 GET 方式与 PHP 通信、以 POST 方式...
+classtime:4课时  26分钟
+classlevel:初级
+learnnum:4125人学习
+
+title:听云 App 移动应用监控：案例分享
+content:本课学习在真实环境下如何利用听云 App 对移动应用进行监控管理。听云 App 是听云平台...
+classtime:4课时  22分钟
+classlevel:初级
+learnnum:3183人学习
+
+title:脚本生命周期与脚本变量
+content:通过对 MonoBehavior 脚本生命周期以及脚本变量的讲解，来帮助大家学会 Unit...
+classtime:3课时  30分钟
+classlevel:初级
+learnnum:3049人学习
+
+title:HTML5开发项目实战:幽灵按钮
+content:本课讲解通过使用CSS3，完成一个幽灵按钮的效果，这里主要用到 CSS3 的旋转和缩放，同...
+classtime:8课时  59分钟
+classlevel:初级
+learnnum:7878人学习
+
+title:iOS实战项目开发:QQ列表展示
+content:本课利用 UITableView 和代理方法实现 QQ 列表展开收起的功能。
+classtime:4课时  31分钟
+classlevel:高级
+learnnum:4086人学习
+
+title:深入剖析讯飞语音 API Android 版
+content:本课程讲解在 Android 平台如何使用科大讯飞的语音云 API，并给出在 Unity ...
+classtime:5课时  61分钟
+classlevel:初级
+learnnum:4289人学习
+
+title:课程准备与脚本介绍
+content:通过对脚本开发专题课程体系的概述以及创建调试游戏脚本，来帮助大家对 Unity3D 脚本开...
+classtime:3课时  17分钟
+classlevel:初级
+learnnum:3372人学习
+
+title:常用库函数
+content:本课讲解如何查看 PHP 的文档以及 PHP 常用库函数的使用，内容包括时间与日期、JSO...
+classtime:5课时  47分钟
+classlevel:初级
+learnnum:4382人学习
+
+title:使用 RubyMotion3 开发 iOS 和 Android 应用
+content:本套课程主要对 Ruby 以及 RubyMotion 进行了简单的介绍，以及 RubyMo...
+classtime:4课时  26分钟
+classlevel:初级
+learnnum:4440人学习
+
+title:面向对象相关特性
+content:本课讲解在 PHP 中如何使用面向对象相关特性，内容包括定义类、理解命名空间、理解成员方法...
+classtime:3课时  28分钟
+classlevel:初级
+learnnum:4310人学习
+
+title:腾讯 Bugly : Android Crash 跟踪方法
+content:本课讲解在 Android 应用 Crash（崩溃）的行业现状，并给出解决 Android...
+classtime:8课时  93分钟
+classlevel:初级
+learnnum:6280人学习
+
+title:HTML5开发项目实战:列表切换
+content:本课通过 CSS 经典计算完成列表标签的切换效果，使用 jQuery 完成事件的处理和标签...
+classtime:3课时  24分钟
+classlevel:初级
+learnnum:6401人学习
+
+title:C#的面向对象特性之多态
+content:本课讲解 C# 语言的面向对象特性：多态。C# 的多态是一种形式，但是实现多种不同的功能，...
+classtime:2课时  15分钟
+classlevel:初级
+learnnum:3178人学习
+
+title:人体速写
+content:本课介绍人体速写的艺术表现形式，概括介绍人体的结构关系，详细讲解人体速写的表达思想和表现方...
+classtime:8课时  68分钟
+classlevel:初级
+learnnum:3957人学习
+
+title:C# 的面向对象特性之继承
+content:本套课讲解 C# 语言的面向对象特性：继承。C# 的继承是为实现创建一个新类，同时重用，扩...
+classtime:2课时  16分钟
+classlevel:初级
+learnnum:3164人学习
+
+title:iOS 中 CALayer 的使用
+content:本课程将讲解 CALayer 的基本原理，从零开始手把手教大家如何用 CALayer 完整...
+classtime:3课时  53分钟
+classlevel:初级
+learnnum:4414人学习
+
+title:iOS实战项目开发:图片自动播放
+content:本课利用 UIScrollView、UIPageControl 和定时器实现图片自动播放的...
+classtime:2课时  12分钟
+classlevel:中级
+learnnum:3513人学习
+
+title:PHP 常用功能
+content:本课程讲解 PHP 常用的功能，包括使用字符串、使用数组、包含 PHP 文件，学会本课程后...
+classtime:3课时  28分钟
+classlevel:初级
+learnnum:5051人学习
+
+title:Android Studio 1.0 (稳定版)的使用
+content:本课讲解 Android Studio 的发布、下载、安装、配置、特性和优点。让学员了解，...
+classtime:3课时  19分钟
+classlevel:初级
+learnnum:11915人学习
+
+title:HTML5开发项目实战:侧边栏固定
+content:通过对定位的使用，监听滚动事件，在滚动判断中通过 JavaScript 或者 jQuery...
+classtime:3课时  26分钟
+classlevel:初级
+learnnum:6355人学习
+
+title:PHP 语法基础
+content:本课讲解 PHP 语言的基本语法，内容包括 PHP 标记符、常量的定义、变量的定义、函数的...
+classtime:6课时  49分钟
+classlevel:初级
+learnnum:5910人学习
+
+title:C# 的面向对象特性之封装
+content:本套课程讲解内容为 C# 语言的面向对象特性：封装。C# 的封装特性是通过访问修饰符来实现...
+classtime:2课时  16分钟
+classlevel:初级
+learnnum:3240人学习
+
+title:Inspector 与游戏组件
+content:通过对 Inspector 检视窗口以及各种游戏组件的讲解，来帮助初学者对 Unity3D...
+classtime:4课时  55分钟
+classlevel:初级
+learnnum:3253人学习
+
+title:C#的集合类型
+content:本套课程讲解内容为C#语言的常用集合类型，主要是C#的数组，ArrayList, List...
+classtime:3课时  31分钟
+classlevel:初级
+learnnum:3337人学习
+
+title:聚合数据 Android 项目开发实战:周边加油站
+content:本课程学习如何集成和使用聚合数据 SDK，通过聚合数据 SDK 获取 JSON 格式数据源...
+classtime:9课时  97分钟
+classlevel:初级
+learnnum:5846人学习
+
+title:C#的逻辑语句
+content:本课讲解内容为 C# 语言的逻辑语句，主要是 C# 的条件语句和循环语句。
+classtime:2课时  28分钟
+classlevel:初级
+learnnum:3169人学习
+
+title:iOS实战项目开发:国家选择
+content:本课利用 UIPickView 为大家展示一个滚轮控件，并利用其实现选择国家的同时展示国旗...
+classtime:2课时  14分钟
+classlevel:初级
+learnnum:3336人学习
+
+title:C#的类型转换
+content:本套课程讲解内容为 C# 语言的类型转换，主要是 C# 的隐式转换，显式转换，通过方法来进...
+classtime:3课时  29分钟
+classlevel:初级
+learnnum:3267人学习
+
+title:Android项目开发实战:自定义左右菜单 
+content:通过对 View 的理解，完成左右菜单的的布局分配，并且添加滑动效果，自动滑动的事件，完成...
+classtime:5课时  43分钟
+classlevel:初级
+learnnum:6989人学习
+
+title:HTML5开发项目实战:照片墙
+content:本课讲解通过使用 CSS3，完成一个照片墙的效果，主要使用 CSS3 的移动，旋转和缩放效...
+classtime:2课时  17分钟
+classlevel:初级
+learnnum:9390人学习
+
+title:C#的引用类型
+content:本套课程讲解内容为 C# 语言的数据类型中的引用类型，主要是 C# 的内置引用类型和 cl...
+classtime:3课时  36分钟
+classlevel:初级
+learnnum:3044人学习
+
+title:iOS实战项目开发:超级猜图
+content:本课学习利用之前学过的 UIButton、UILabel、懒加载等方法来完成超级猜图的小游...
+classtime:12课时  82分钟
+classlevel:初级
+learnnum:3700人学习
+
+title:部署 PHP 代码
+content:本套课程讲解如何部署 PHP 代码，内容包括将 PHP 部署到独立主机上、将 PHP 部署...
+classtime:3课时  29分钟
+classlevel:初级
+learnnum:6250人学习
+
+title:聚合数据 iOS 项目开发实战:车辆违章查询
+content:本课程讲解在 iOS 上如何通过聚合数据 SDK 获取车辆违章信息，如何解析服务器返回的 ...
+classtime:6课时  54分钟
+classlevel:初级
+learnnum:4448人学习
+
+title:心中自有纵横——网页栅格化设计
+content:本课程绍对齐原则，并结合实例为大家演示如何借助栅格系统将此原理应用到设计当中。
+classtime:3课时  28分钟
+classlevel:初级
+learnnum:3604人学习
+
+title:PHP 开发环境搭建
+content:本套课程讲解如何在 Windows、Linux、OSX 系统下搭建 PHP 的集成开发环境...
+classtime:4课时  37分钟
+classlevel:初级
+learnnum:7950人学习
+
+title:PHP 基本介绍
+content:PHP 语法简单，开发效率高，是众多中小型甚至大型(如：Facebook)网站的首选开发语...
+classtime:3课时  13分钟
+classlevel:初级
+learnnum:8674人学习
+
+title:WatchKit 快速入门
+content:本套课程讲解如何开发 Apple WatchApp，内容包括介绍 WatchKit、下载 ...
+classtime:3课时  18分钟
+classlevel:中级
+learnnum:4381人学习
+
+title:Project与资源管理
+content:本课通过对 Project 资源管理窗口以及各种项目资源的讲解，来帮助初学者对 Unity...
+classtime:6课时  55分钟
+classlevel:初级
+learnnum:3074人学习
+
+title:iOS开发项目实战:应用管理
+content:本课利用 UIButton、UILabel 的属性和方法来完成模拟下载的动画效果。
+classtime:6课时  33分钟
+classlevel:初级
+learnnum:3512人学习
+
+title:HTML5开发项目实战:导航栏
+content:本课对导航栏进行讲解，并完成水平导航栏和垂直导航栏的制作，根据导航栏的风格不同，使用CSS...
+classtime:4课时  43分钟
+classlevel:初级
+learnnum:9432人学习
+
+title:TypeScript泛型
+content:本课通过对泛型的了解，使学员掌握在什么情况下使用泛型，掌握泛型的应用，泛型的类型和泛型类的...
+classtime:4课时  23分钟
+classlevel:初级
+learnnum:3321人学习
+
+title:C#的值类型
+content:本课讲解 C# 语言的数据类型中的值类型，主要是 C# 的内置类型和 struct，还有枚...
+classtime:2课时  16分钟
+classlevel:初级
+learnnum:4121人学习
+
+title:使用Wine在Mac OSX上运行Windows应用程序
+content:本课学习在 Mac 中通过 Wine 运行 Windows 程序。
+classtime:8课时  32分钟
+classlevel:初级
+learnnum:3245人学习
+
+title:HTML5开发项目实战：Tooltip
+content:本课通过对Tooltip的讲解，完成Tooltip提示框的效果。使用a标签及css样式完成...
+classtime:5课时  35分钟
+classlevel:初级
+learnnum:6368人学习
+
+title:Photoshop 的3D功能初探
+content:本课帮助大家了解 Photoshop 的3D功能，结合实例为大家演示如何使用 Photos...
+classtime:5课时  27分钟
+classlevel:中级
+learnnum:5320人学习
+
+title:聚合数据 Android 项目开发实战:天气
+content:本课从零开始手把手教大家如何使用聚合数据 SDK 来实现一个完整的天气 App，包括 UI...
+classtime:19课时  327分钟
+classlevel:初级
+learnnum:7878人学习
+
+title:使用Visual Studio 2015开发Android应用
+content:本课讲解2014年微软 Connect(); 在线开发者大会上发布的新功能，.Net 开源...
+classtime:4课时  14分钟
+classlevel:初级
+learnnum:13936人学习
+
+title:Scene与场景漫游
+content:本课通过对 Scene 场景编辑窗口的讲解，来帮助初学者对 Unity3D 游戏引擎有进一...
+classtime:1课时  10分钟
+classlevel:初级
+learnnum:3457人学习
+
+title:Hierarchy与场景搭建
+content:本课通过对 Hierarchy 菜单中的各种 GameObject 组件的讲解，来帮助初学...
+classtime:7课时  54分钟
+classlevel:初级
+learnnum:4095人学习
+
+title:Android 项目开发实战:记事本
+content:通过使用数据库(SQLite)完成一个记事本功能，包含文字信息，图片信息，视频信息。用到了...
+classtime:9课时  87分钟
+classlevel:初级
+learnnum:8829人学习
+
+title:C#语言简介和开发前的准备
+content:本课讲解内容为 C# 语言的简单介绍，C# 语言的开发环境 Visual Studio 的...
+classtime:3课时  18分钟
+classlevel:初级
+learnnum:5831人学习
+
+title:Android Wear 项目开发实战:图灵机器人
+content:本课程从零开始手把手教大家如何使用图灵 API实现一个完整的 Android Wear版图...
+classtime:8课时  55分钟
+classlevel:初级
+learnnum:6584人学习
+
+title:排列的艺术
+content:排版设计是UI设计的重要内容，但是并没有引起初学者的重视。本课旨在为大家显性的阐述其重要性...
+classtime:6课时  39分钟
+classlevel:初级
+learnnum:4791人学习
+
+title:TypeScript接口(Interfaces)
+content: TypeScript核心设计原则之一就是类型检查，通过使用接口(Interfaces)可...
+classtime:6课时  23分钟
+classlevel:初级
+learnnum:2731人学习
+
+title:Unity3D 菜单界面介绍
+content:本课讲解 Unity3D 游戏引擎，通过对 Unity3D 编辑器各个菜单功能的介绍，帮助...
+classtime:7课时  28分钟
+classlevel:初级
+learnnum:3658人学习
+
+title:Unity3D 窗口界面介绍
+content:本课初步讲解 Unity3D 游戏引擎，通过对 Unity3D 编辑器各个窗口的介绍，帮助...
+classtime:1课时  8分钟
+classlevel:初级
+learnnum:4225人学习
+
+title:Cocos2d-x实战项目开发:加法计算器
+content:本课学习一步一步实现一个加法计算器，所涉及到的知识有Cocos2d-x控件使用、输入文本的...
+classtime:3课时  21分钟
+classlevel:初级
+learnnum:3398人学习
+
+title:Cocos2d-x游戏实战项目开发:猜数字游戏
+content:本课学习一步一步实现一个猜数字的小游戏，所涉及到的知识有Cocos2d-x控件使用、输入文...
+classtime:4课时  26分钟
+classlevel:初级
+learnnum:3778人学习
+
+title:Cocos2d-x实战项目开发:运动的小球
+content:本课讲解逐步介绍如何控制一个小球、多个小球，以及如何处理小球遇到边界弹回的情况。
+classtime:4课时  30分钟
+classlevel:初级
+learnnum:5961人学习
+
+title:HTML5实战:图片与标签配合制作页面
+content:本课HTML基础标签和页面跳转功能的实现，使用基础标签和图片完成HTML页面的布局和页面的...
+classtime:2课时  13分钟
+classlevel:初级
+learnnum:15902人学习
+
+title:iOS实战项目:LOL英雄展示
+content:本课讲解利用 UitableView 展示LOL英雄。
+classtime:1课时  22分钟
+classlevel:初级
+learnnum:5694人学习
+
+title:iOS实战项目开发:图片浏览器
+content:本课讲解利用简单的 UILabel、UIButton、UIImageView 完成一个趣味...
+classtime:1课时  20分钟
+classlevel:初级
+learnnum:4135人学习
+
+title:iOS实战项目开发:汤姆猫小游戏
+content:本课讲解 UIImageView 的帧动画，通过点击透明的按钮指导汤姆猫做一些动作。
+classtime:1课时  25分钟
+classlevel:初级
+learnnum:5134人学习
+
+title:Android项目开发实战:画板
+content:本课讲解Android SurfaceView、画布、画笔和Path完成画板的功能，实现了...
+classtime:3课时  15分钟
+classlevel:初级
+learnnum:4333人学习
+
+title:Android项目开发实战:2D翻转
+content:本课通过Tween Animation动画完成2D翻转卡片实例效果，使用ScaleAnim...
+classtime:2课时  16分钟
+classlevel:初级
+learnnum:4650人学习
+
+title:iOS实战项目开发:加法计算器
+content:本课带领大家走进iOS开发，使用 Swift 语言通过 storyboard 用 UIBu...
+classtime:1课时  22分钟
+classlevel:初级
+learnnum:7061人学习
+
+title:Android项目开发实战:通讯录
+content:本课讲解在 Android 中如何获取手机通讯录中的电话号码和名字，并且通过适配器适配到U...
+classtime:4课时  28分钟
+classlevel:初级
+learnnum:7401人学习
+
+title:Android项目开发实战:倒计时
+content:本课讲解在 Android 如何更新主 UI，通过使用 Handler 类和线程之间的配合...
+classtime:2课时  18分钟
+classlevel:初级
+learnnum:13415人学习
+
+title:iOS8 SDK新特性系列课程
+content:本课讲解 iOS8 SDK 新特性，学习本套课程，能让开发者快速掌握 Extension、...
+classtime:10课时  89分钟
+classlevel:初级
+learnnum:3522人学习
+
+title:TypeScript函数
+content:本课讲解TypeScript函数的创建以及参数的使用。
+classtime:5课时  26分钟
+classlevel:初级
+learnnum:2461人学习
+
+title:聚合数据 iOS 项目开发实战：条码查询器
+content:本课基于聚合数据 SDK 1.x 版本进行教学，介绍聚合数据 SDK ，并通过集成 SDK...
+classtime:6课时  105分钟
+classlevel:初级
+learnnum:4102人学习
+
+title:TypeScript类(Classes)
+content:本课讲解TypeScript类（Classes），在 TypeScript 中，存在了类的...
+classtime:5课时  31分钟
+classlevel:初级
+learnnum:2602人学习
+
+title:设计从何做起
+content:本课讲解设计的本质，学习设计所需具备的基础软件知识。为初学者提供一个全面、贴心的新手指引。
+classtime:3课时  26分钟
+classlevel:初级
+learnnum:4927人学习
+
+title:HTML实战-标签切换效果 
+content:本课讲解内容为Tab标签切换效果，Tab标签切换效果的添加可以在网站中有更好的展示效果。
+classtime:3课时  26分钟
+classlevel:初级
+learnnum:5970人学习
+
+title:Cocos2d-JS v3 JSB反射机制
+content:本课学习如何使用JSB反射机制调用Java代码及Objective-C代码。
+classtime:2课时  14分钟
+classlevel:初级
+learnnum:1339人学习
+
+title:Cocos2d-JS v3对象缓冲池
+content:本课介绍缓冲池的概念、缓冲池的使用原因和如何使用缓冲池。
+
+classtime:2课时  18分钟
+classlevel:初级
+learnnum:856人学习
+
+title:Cocos2d-JS v3事件管理器
+content:本课讲解Cocos2d-JS的事件机制的使用，并学会创建Cocos2d-JS的自定义事件。
+classtime:3课时  13分钟
+classlevel:初级
+learnnum:1088人学习
+
+title:Cocos2d-JS v3对象
+content:本课介绍Cocos2d-JS对象，学会Cocos2d-JS中的类的继承。
+classtime:2课时  6分钟
+classlevel:初级
+learnnum:1287人学习
+
+title:Cocos2d-JS v3工作流
+content:本课学习搭建Cocos2d-JS的集成开发环境、标准工作流及Cocos2d-JSLite版...
+classtime:7课时  50分钟
+classlevel:初级
+learnnum:2891人学习
+
+title:Cocos2d-JS v3简单新特性概述
+content:本课介绍Cocos2d-JS v3的几个简单新特性，包括游戏对象、属性风格API、图层缓存...
+classtime:2课时  12分钟
+classlevel:初级
+learnnum:1189人学习
+
+title:Cocos2d-x v3中的lua绑定
+content:本课学习使用Lua语言开发Cocos2d-x游戏和使用工具创建lua绑定。
+classtime:3课时  19分钟
+classlevel:初级
+learnnum:1165人学习
+
+title:Cocos2d-x v3的3D功能
+content:本课讲解使用Cocos2d-x游戏引擎中新增的3D相关功能。
+classtime:3课时  18分钟
+classlevel:初级
+learnnum:1498人学习
+
+title:Cocos2d-x v3物理引擎
+content:本课学习使用Cocos2d-x v3中的内置的物理引擎。
+classtime:6课时  43分钟
+classlevel:初级
+learnnum:2724人学习
+
+title:Cocos2d-x v3新增UI控件
+content:本课学习使用UI Web View控件和UI Video Player控件。
+classtime:2课时  6分钟
+classlevel:初级
+learnnum:1188人学习
+
+title:Cocos2d-x v3游戏控制器
+content:本课讲解运行系统提供的示例程序和侦听游戏控制器事件。
+classtime:2课时  18分钟
+classlevel:初级
+learnnum:1477人学习
+
+title:Cocos2d-x v3事件机制
+content:本课介绍新版Cocos2d-x的事件机制及其使用，创建和派发自定义事件。
+classtime:8课时  33分钟
+classlevel:初级
+learnnum:2856人学习
+
+title:Cocos2d-x v3基础数据类型
+content:本课学习使用Cocos2d-x v3中的基础数据类型。
+classtime:3课时  19分钟
+classlevel:初级
+learnnum:1011人学习
+
+title:开发环境搭建及cocos命令行工具的使用
+content:本课学习配置Cocos2d-x环境，搭建集成开发环境，使用cocos命令。
+classtime:8课时  56分钟
+classlevel:初级
+learnnum:3175人学习
+
+title:Cocos2d-x v3基本新特性概述
+content:本课介绍Cocos2d-x v3的几个基本新特性。
+classtime:1课时  5分钟
+classlevel:初级
+learnnum:1053人学习
+
+title:Android 5.0新特性
+content:Android5.0在万众瞩目下终于发布，伴随而来的是最新的体验，全新的UI设计，及更加人...
+classtime:5课时  30分钟
+classlevel:初级
+learnnum:11847人学习
+
+title:HTML实战-极客学院路径图页面布局实现
+content:本课程通过对页面布局的实现，学习HTML标签的具体应用以及CSS样式的添加方式和JavaS...
+classtime:3课时  45分钟
+classlevel:初级
+learnnum:3202人学习
+
+title:科大讯飞语音服务Android项目开发实战介绍
+content:本课介绍科大讯飞语音服务，讲解通过集成语音云SDK快速搭建Android开发环境，为App...
+classtime:5课时  38分钟
+classlevel:初级
+learnnum:4462人学习
+
+title:HTML实战-极客学院播放视频页面布局
+content:本课学习HTML标签以及CSS样式在开发中的应用，通过对页面布局的实现，掌握HTML标签的...
+classtime:4课时  57分钟
+classlevel:初级
+learnnum:4545人学习
+
+title:HTML实战-极客学院G码兑换页面布局实现
+content:本课通过对页面布局的实现，掌握HTML标签的具体应用以及CSS样式的添加方式，学会HTML...
+classtime:3课时  36分钟
+classlevel:初级
+learnnum:1838人学习
+
+title:Android实例-尺子布局的UI实现
+content:本课通过对自定义View的完成来加强对AndroidUI布局的理解以及深入，完成尺子布局的...
+classtime:2课时  13分钟
+classlevel:初级
+learnnum:2178人学习
+
+title:TypeScript基本数据类型
+content:TypeScript是一个强类型编程语言，是自定义类所具有的优势，他使得对象处理的数据更容...
+classtime:3课时  23分钟
+classlevel:初级
+learnnum:1013人学习
+
+title:TypeScript环境搭建
+content:本课程介绍TypeScript在Mac和Windows下完成环境的搭建。
+classtime:3课时  19分钟
+classlevel:初级
+learnnum:1432人学习
+
+title:Createjs与flash生成js文件交互
+content:掌握了CreateJS可以更方便的完成HTML5的游戏开发，本课学习CreateJS与Fl...
+classtime:2课时  18分钟
+classlevel:初级
+learnnum:3809人学习
+
+title:CreateJS-TweenJS
+content:TweenJS是用来处理HTML5的动画调整和JavaScript属性的，掌握了Tween...
+classtime:4课时  36分钟
+classlevel:初级
+learnnum:2614人学习
+
+title:CreateJS控件
+content:掌握了CreateJS基本控件的使用，在绘制图形以及做影片剪辑时会非常的方便，可以直接通过...
+classtime:5课时  38分钟
+classlevel:初级
+learnnum:2813人学习
+
+title:CreateJS基础
+content:CreateJS库是HTML5游戏开发的引擎，掌握了CreateJS可以更方便的完成HTM...
+classtime:3课时  37分钟
+classlevel:初级
+learnnum:3386人学习
+
+title:CreateJS介绍
+content:CreateJS库是HTML5游戏开发的引擎，掌握了CreateJS可以更方便的完成HTM...
+classtime:4课时  30分钟
+classlevel:初级
+learnnum:4567人学习
+
+title:jQuery Mobile 事件
+content:本课讲解jQuery Mobile事件处理。
+classtime:1课时  11分钟
+classlevel:初级
+learnnum:3549人学习
+
+title:jQuery Mobile Widgets(2)
+content:本课讲解Widgets grid、listview、navbar、popup、select...
+classtime:5课时  43分钟
+classlevel:初级
+learnnum:3109人学习
+
+title:JavaScript语音识别库-Julius
+content:JuliusJS 是实现了语音识别的JavaScript库，本课讲解Julius库的应用。
+classtime:1课时  10分钟
+classlevel:初级
+learnnum:1618人学习
+
+title:jQuery Mobile 介绍
+content:jQuery Mobile是jQuery 在手机上和平板设备上的版本，本课程带你了解jQu...
+classtime:3课时  21分钟
+classlevel:初级
+learnnum:5184人学习
+
+title:jQuery Mobile Widgets(1)
+content:本课讲解jQuery Mobile page、button、checkboxradio、c...
+classtime:3课时  33分钟
+classlevel:初级
+learnnum:3829人学习
+
+title:Flash快速入门
+content:学会Flash后可以非常方便的创建HTML5游戏、动画，本课讲解常用的Flash工具和简单...
+classtime:10课时  42分钟
+classlevel:初级
+learnnum:3622人学习
+
+title:jQuery UI Effects
+content:效果的添加能在开发中省去大量的时间，为更快速的完成任务打下了坚实的基础。本课讲解addCl...
+classtime:3课时  31分钟
+classlevel:初级
+learnnum:1007人学习
+
+title:jQuery UI Widgets(2)
+content:在jQuery UI中控件是它的特色，掌握了控件的使用，在开发中可以省去大量的时间，提升开...
+classtime:4课时  27分钟
+classlevel:初级
+learnnum:3362人学习
+
+title:jQuery UI Widgets(1)
+content:在jQuery UI中控件是它的特色，掌握了控件的使用，在开发中可以省去大量的时间。提升开...
+classtime:4课时  16分钟
+classlevel:初级
+learnnum:3564人学习
+
+title:jQuery UI Interactions
+content:交互的掌握可以快速的完成功能的创建，学习了交互可以让你更好的掌握HTML5的新特性，本课讲...
+classtime:5课时  22分钟
+classlevel:初级
+learnnum:3750人学习
+
+title:jQuery UI下载与使用
+content:jQuery UI包含了很多小控件，能加快开发速度以及减少代码过大带来的困扰，让学员能够快...
+classtime:3课时  13分钟
+classlevel:初级
+learnnum:5461人学习
+
+title:jQuery瀑布流
+content:瀑布流效果已经成为展示类型网站的首选，所以有必要掌握其实现过程。本课讲解通过jQuery实...
+classtime:3课时  30分钟
+classlevel:初级
+learnnum:5747人学习
+
+title:iOS-Swift、Objective-C、C++混合编程
+content:本课讲解使用Swift、Objective-C、C++混合编程开发iOS应用。
+classtime:4课时  20分钟
+classlevel:初级
+learnnum:2326人学习
+
+title:iOS-Swift与Objective-C混合编程
+content:本课学习使用Swift和Objective-C混合编程开发iOS应用。
+classtime:2课时  9分钟
+classlevel:初级
+learnnum:2035人学习
+
+title:iOS-HTTP通信
+content:本课学习使用Swift语言与服务端程序以HTTP协议通信。
+classtime:5课时  39分钟
+classlevel:初级
+learnnum:3085人学习
+
+title:jQuery之元素的遍历与元素的过滤
+content:通过对jQuery的熟练掌握，能很好方便的遍历元素进行操作，而且减少代码的复杂化。学习本课...
+classtime:4课时  31分钟
+classlevel:初级
+learnnum:3995人学习
+
+title:jQuery CSS操作及jQuery的盒子模型
+content:通过使用jQuery能快速跟上越来越快的开发需求。掌握了jQuery对css的操作，能很好...
+classtime:2课时  17分钟
+classlevel:初级
+learnnum:3951人学习
+
+title:jQuery的扩展与noConflict
+content:掌握jQuery扩展库是非常有必要的，jQuery可以让学员更加快速地完成开发内容。本课讲...
+classtime:2课时  11分钟
+classlevel:初级
+learnnum:3490人学习
+
+title:jQuery AJAX之异步访问和加载片段
+content:通过使用jQuery的AJAX能够非常方便的实现异步访问，学习jQuery得AJAX可以很...
+classtime:2课时  23分钟
+classlevel:初级
+learnnum:4571人学习
+
+title:jQuery效果之隐藏与显示、淡入淡出、滑动、回调
+content:本课讲解jQuery效果的隐藏与显示、淡入淡出、滑动和回调等。
+classtime:4课时  33分钟
+classlevel:初级
+learnnum:4982人学习
+
+title:jQuery HTML之捕获、设置、元素添加、元素删除
+content:本课讲解jQuery HTML的捕获、设置、元素添加、元素删除
+classtime:4课时  38分钟
+classlevel:初级
+learnnum:4109人学习
+
+title:iOS API视频的播放和录制
+content:本课讲解使用iOS API录制视频、播放视频。
+classtime:2课时  17分钟
+classlevel:初级
+learnnum:1987人学习
+
+title:iOS音频相关API的使用
+content:学会使用iOS的音频相关API
+classtime:4课时  34分钟
+classlevel:初级
+learnnum:2011人学习
+
+title:Android实战项目开发：智能聊天机器人
+content:本课讲解异步通信、Json数据解析、布局的实现、数据的封装。
+classtime:9课时  68分钟
+classlevel:初级
+learnnum:6565人学习
+
+title:Android ViewPager引导页-Android专题
+content:本课讲解ViewPager的实现和引导页细节的实现。
+classtime:4课时  34分钟
+classlevel:初级
+learnnum:4646人学习
+
+title:Java文件选择器
+content:本课讲解JFileChooser的基本用法，使用JFileChooser弹出打开框和保存框...
+classtime:4课时  19分钟
+classlevel:初级
+learnnum:3091人学习
+
+title:Java视频播放器的制作
+content:本课讲解创建较复杂的可交互界面，通过调用VLC实现视频播放功能。
+classtime:7课时  52分钟
+classlevel:初级
+learnnum:5826人学习
+
+title:jQuery选择器和事件
+content:本课讲解jQuery的选择器和jQuery的事件。
+classtime:5课时  32分钟
+classlevel:初级
+learnnum:5234人学习
+
+title:jQuery简介及语法
+content:本课程讲解jQuery，以及可以加载jQuery库，使学员掌握jQuery的基本语法。
+classtime:3课时  12分钟
+classlevel:初级
+learnnum:6794人学习
+
+title:界面消息提示
+content:本课讲解 JoptionPane 的特点与用法，使用 JoptionPane 显示确认框、...
+classtime:5课时  35分钟
+classlevel:初级
+learnnum:2008人学习
+
+title:响应式布局基础
+content:本课讲解响应式布局的作用，并通过实例操作学会使用CSS3实现响应式布局效果。
+classtime:3课时  27分钟
+classlevel:初级
+learnnum:8489人学习
+
+title:响应式布局之Bootstrap
+content:了解Bootstrap，熟悉Bootstrap框架，学会简单使用Bootstrap
+classtime:3课时  31分钟
+classlevel:初级
+learnnum:9208人学习
+
+title:Swing菜单的使用
+content:本课讲解界面中的菜单系统与窗体菜单栏与弹出菜单
+classtime:4课时  26分钟
+classlevel:初级
+learnnum:1992人学习
+
+title:Swing界面响应与线程安全
+content:本课讲解Swing框架的单线程性质与线程安全与非安全操作，掌握使用线程安全的方式执行命令。
+classtime:4课时  27分钟
+classlevel:初级
+learnnum:1888人学习
+
+title:服务器推送事件
+content:本课学习HTML5中服务器推送事件的处理。
+classtime:2课时  23分钟
+classlevel:初级
+learnnum:5170人学习
+
+title:自定义Swing组件
+content:本课讲解 Swing 的绘图机制，让学员掌握 Java 的绘图 APi 使用和 LookA...
+classtime:6课时  83分钟
+classlevel:初级
+learnnum:1922人学习
+
+title:Swing 布局管理器
+content:本课讲解 Swing 组件在界面中的布局原理和多种布局技巧和混合布局。
+classtime:5课时  35分钟
+classlevel:初级
+learnnum:2014人学习
+
+title:NFC近场感应技术详解
+content:快速学会NFC的使用
+classtime:11课时  312分钟
+classlevel:初级
+learnnum:2286人学习
+
+title:Web储存
+content:本课讲解Web储存的新方法及 sessionStroage 与 localStroage ...
+classtime:3课时  14分钟
+classlevel:初级
+learnnum:4996人学习
+
+title:SVG
+content:本课讲解SVG，学会使用SVG制作矢量图形，引入外部SVG文件。
+classtime:3课时  13分钟
+classlevel:初级
+learnnum:5014人学习
+
+title:Swing基本组件
+content:本课讲解 WindowBuilder 的安装与使用、Swing 中各个组件以及控件的通用属...
+classtime:12课时  94分钟
+classlevel:初级
+learnnum:2677人学习
+
+title:Swing 框架的基本结构
+content:本课讲解 Swing 框架的继承关系及 Swing 的 MVC 结构与事件机制。
+classtime:3课时  19分钟
+classlevel:初级
+learnnum:2915人学习
+
+title:操作plist数据
+content:本课讲解解析 plist 格式的数据。
+classtime:3课时  11分钟
+classlevel:初级
+learnnum:2197人学习
+
+title:CoreData
+content:学会使用 CoreData 操作 SQLite 数据库
+classtime:6课时  45分钟
+classlevel:初级
+learnnum:2724人学习
+
+title:HTML5 Canvas 应用
+content:本课讲解 CreateJS、Canvas 与 CreateJS 配合实现效果。
+classtime:2课时  33分钟
+classlevel:初级
+learnnum:6065人学习
+
+title:HTML5 应用缓存与Web Workers
+content:本课讲解 HTML5 应用缓存和 Web Workers。
+classtime:2课时  23分钟
+classlevel:初级
+learnnum:4613人学习
+
+title:Java界面设计概述
+content:本课讲解 JavaSE 界面的用途及 AWT、Swing 和 SWT 三大 GUI 工具包...
+classtime:5课时  9分钟
+classlevel:初级
+learnnum:3989人学习
+
+title:Java中的Socket通信
+content:本课详细讲解 Java 中 Socket 网络通信的应用。
+classtime:6课时  53分钟
+classlevel:初级
+learnnum:3305人学习
+
+title:操作 JSON 数据
+content:本课讲解解析 JSON 格式的数据。
+classtime:3课时  12分钟
+classlevel:初级
+learnnum:2896人学习
+
+title:操作XML数据
+content:本课讲解读取 XML 格式的数据。
+classtime:4课时  39分钟
+classlevel:初级
+learnnum:2211人学习
+
+title:HTML5拖放
+content:本课学习使用HTML5新特性，完成资源拖放，放置位置。
+classtime:2课时  24分钟
+classlevel:初级
+learnnum:7382人学习
+
+title:HTML5 Canvas 标签的使用 
+content:本课讲解 Canvas 标签并且学会使用 Canvas 标签绘制图形。
+classtime:3课时  18分钟
+classlevel:初级
+learnnum:6236人学习
+
+title:Java中的HTTP通信
+content:使用 HTTP 的 Get 方式与 Post 方式进行网络通信及使用 HttpClient...
+classtime:4课时  33分钟
+classlevel:初级
+learnnum:3260人学习
+
+title:Java中的JSON操作
+content:教你如何在 Java 中对 JSON 数据进行构建与解析
+classtime:3课时  26分钟
+classlevel:初级
+learnnum:3482人学习
+
+title:Javascript瀑布流
+content:通过JS实现瀑布流效果
+classtime:3课时  47分钟
+classlevel:初级
+learnnum:9411人学习
+
+title:HTML5 音频视频
+content:本课学习使用 HTML5 新特性，完成播放视频音频。
+classtime:3课时  21分钟
+classlevel:初级
+learnnum:8708人学习
+
+title:Java中的XML操作
+content:本课讲解XML数据的基本结构并学会使用Java自带的API解析与构建XML数据。
+classtime:4课时  45分钟
+classlevel:初级
+learnnum:3463人学习
+
+title:Java中的IO操作
+content:本讲解Java中关于IO的常用操作。
+classtime:9课时  100分钟
+classlevel:初级
+learnnum:3928人学习
+
+title:iOS用户首选项数据
+content:学会存取用户首选项数据
+classtime:4课时  16分钟
+classlevel:初级
+learnnum:2243人学习
+
+title:iOS文件存取
+content:本课程讲解保存和读取文件。
+classtime:3课时  13分钟
+classlevel:初级
+learnnum:2663人学习
+
+title:Java工程结构管理
+content:随着项目的开发，用到的资源会越来越多，并且需要借助许多第三方提供的开源库，所以掌握工程资源...
+classtime:5课时  30分钟
+classlevel:初级
+learnnum:3671人学习
+
+title:Java语言简介
+content:本课介绍Java 编程语言，它是个简单、完全面向对象、分布式、解释性、健壮、安全与系统无关...
+classtime:2课时  7分钟
+classlevel:初级
+learnnum:18891人学习
+
+title:HTML5版打企鹅游戏开发项目实战教程
+content:本课讲解CreateJS以及使用Flash生成的JS文件在HTML5中的应用。
+classtime:4课时  52分钟
+classlevel:初级
+learnnum:3342人学习
+
+title:JavaScript面向对象详解
+content:本课主要讲解JavaScript的面向对象，让学员能更好的设计代码。
+classtime:3课时  25分钟
+classlevel:初级
+learnnum:7075人学习
+
+title:HTML5版冰桶挑战游戏开发项目实战教程
+content:熟悉CreateJS以及掌握使用Flash生成的JS文件在HTML5中的应用
+classtime:3课时  26分钟
+classlevel:初级
+learnnum:2588人学习
+
+title:JavaScript DOM对象控制HTML元素详解
+content:本课主要讲解JavaScript的DOM对象控制HTML元素，从而能更好的对页面进行操作。
+classtime:2课时  23分钟
+classlevel:初级
+learnnum:5919人学习
+
+title:JavaScript浏览器对象
+content:本课主要讲解JavaScript的浏览器对象，包括计时器、History、Location...
+classtime:5课时  31分钟
+classlevel:初级
+learnnum:6033人学习
+
+title:Java本地文件操作
+content:本课讲解文件和文件夹的创建、删除、移动及读取与修改文件属性。
+classtime:7课时  66分钟
+classlevel:初级
+learnnum:3545人学习
+
+title:Java开发环境搭建
+content:本课讲解Java开发环境搭建及Eclipse的下载与安装。
+classtime:7课时  41分钟
+classlevel:初级
+learnnum:16321人学习
+
+title:Python语言Web开发框架web2py
+content:学会使用web2py创建网站
+classtime:3课时  15分钟
+classlevel:初级
+learnnum:3045人学习
+
+title:Python语言基本语法
+content:本课讲解基本的Python语言语法。
+classtime:6课时  19分钟
+classlevel:初级
+learnnum:3391人学习
+
+title:Python语言集成开发环境搭建
+content:本课学习搭建Python语言集成开发环境。
+classtime:4课时  13分钟
+classlevel:初级
+learnnum:3092人学习
+
+title:Android中基于Socket的网络通信
+content:本课程讲解客户端使用Socket与服务器通信。
+classtime:5课时  49分钟
+classlevel:初级
+learnnum:6571人学习
+
+title:mongoDB使用基础
+content:学会使用MongoDB
+classtime:6课时  37分钟
+classlevel:初级
+learnnum:2501人学习
+
+title:iOS平台常用传感器
+content:本课讲解使用iOS平台的常用传感器。
+classtime:6课时  37分钟
+classlevel:初级
+learnnum:2585人学习
+
+title:JavaScript事件详解
+content:本课讲解JavaScript对事件的处理，了解几种事件的应用以及在不同浏览器中的兼容性。
+classtime:3课时  27分钟
+classlevel:初级
+learnnum:7109人学习
+
+title:JavaScript内置对象
+content:本课主要讲解JavaScript的内置对象，包括字符串、日期对象、数组对象和Math对象。
+classtime:5课时  38分钟
+classlevel:初级
+learnnum:6677人学习
+
+title:Android版本围住神经猫实战游戏开发
+content:本课讲解 SurfaceView 的绘图方法，触摸事件的处理和游戏逻辑的实现。
+classtime:8课时  106分钟
+classlevel:初级
+learnnum:13559人学习
+
+title:Android中基于HTTP的通信技术
+content:本课程讲解使用HttpClient进行Get或Post通信。
+classtime:4课时  43分钟
+classlevel:初级
+learnnum:6160人学习
+
+title:Android异步任务处理
+content:教你使用多线程。
+classtime:2课时  27分钟
+classlevel:初级
+learnnum:5972人学习
+
+title:在Android中操作JSON数据
+content:本课学习如何在Android中使用JSON数据。
+classtime:3课时  19分钟
+classlevel:初级
+learnnum:4986人学习
+
+title:在Android中操作XML数据
+content:本课讲解在Android中读取XML中的使用。
+classtime:3课时  28分钟
+classlevel:初级
+learnnum:3625人学习
+
+title:JavaScript异常处理和事件处理
+content:本课讲解JavaScript异常和事件，让学员学习到出现异常如何处理以及事件的触发
+classtime:2课时  22分钟
+classlevel:初级
+learnnum:7495人学习
+
+title:JavaScript DOM对象
+content:本课主要讲解JavaScriptDOM对象，通过对DOM对象的使用操作HTML和CSS
+classtime:4课时  25分钟
+classlevel:初级
+learnnum:7555人学习
+
+title:多点触控
+content:学会使用多点触控
+classtime:3课时  20分钟
+classlevel:初级
+learnnum:2331人学习
+
+title:屏幕适配
+content:学会使用屏幕适配
+classtime:3课时  25分钟
+classlevel:初级
+learnnum:3848人学习
+
+title:基于Android SurfaceView的游戏开发
+content:本课学习使用SurfaceView，了解SurfaceView的好处，掌握SurfaceV...
+classtime:6课时  46分钟
+classlevel:初级
+learnnum:2350人学习
+
+title:Cocos2d-x实战开发一个都不能死游戏
+content:本课学习使用Cocos2d-x3.x游戏引擎和自带物理引擎开发、发布游戏的技术。
+classtime:11课时  77分钟
+classlevel:初级
+learnnum:4078人学习
+
+title:Android实战项目中多功能时钟应用的开发
+content:本课程通过学习时钟类应用开发的核心技术，把握项目的整体流程。
+classtime:18课时  163分钟
+classlevel:初级
+learnnum:7296人学习
+
+title:Cocos2dx游戏开发项目实战-别踩白块儿游戏
+content:本课学习方块类的设计和游戏中用户交互的实现。
+classtime:11课时  75分钟
+classlevel:初级
+learnnum:17732人学习
+
+title:Cocos2dx游戏开发项目实战-Popstar游戏
+content:本课通过学习项目结构、游戏元素的创建等知识，让学员建立游戏开发的基本概念。
+
+classtime:11课时  105分钟
+classlevel:中级
+learnnum:12398人学习
+
+title:Android项目开发实战-秘密APP
+content:本课学习安卓UI设计、控件、网络通信、异步任务等知识，建立完整的项目制作概念。
+
+classtime:34课时  344分钟
+classlevel:中级
+learnnum:15713人学习
+
+title:2048游戏-Cocos2d-x游戏实战项目开发
+content:本课学习2048游戏的开发思路、游戏算法，独立开发一款属于自己的2048游戏。
+classtime:10课时  97分钟
+classlevel:中级
+learnnum:9144人学习
+
+title:Android项目开发实战-2048游戏
+content:本课程学习创建2048游戏项目，掌握2048游戏的开发思路、游戏算法，独立开发一款属于自己...
+classtime:12课时  76分钟
+classlevel:中级
+learnnum:40415人学习
+
+title:Android项目开发实战-微信SDK的集成与使用实战开发
+content:本课程将学习使用微信SDK，通过在应用中集成微信SDK，轻松的将信息分享到朋友圈和好友。
+classtime:7课时  45分钟
+classlevel:初级
+learnnum:7356人学习
+
+title:Cocos2d-x游戏实战项目开发-Flappy Bird游戏
+content:本课程将全面剖析FLappy Bird，教你一小时完成开发。
+classtime:7课时  70分钟
+classlevel:初级
+learnnum:50144人学习
+
+title:HTML5实战:回到顶部功能实现
+content:本课讲解网站中回到顶部按钮的实现过程，目前网页的内容展示的越来越多，回到顶部的功能基本存在...
+classtime:2课时  17分钟
+classlevel:初级
+learnnum:4992人学习
+
+title:HTML5开发前准备
+content:本套课程介绍 HTML5 以及开发前需要准备的环境和继承开发环境的搭建，包含集成开发环境的...
+classtime:2课时  12分钟
+classlevel:初级
+learnnum:59421人学习
+
+title:JavaScript函数
+content:本课主要讲解JavaScript函数，让学员掌握函数的应用以及变量的作用域
+classtime:6课时  29分钟
+classlevel:初级
+learnnum:8723人学习
+
+title:JavaScript基础教程
+content:本课讲解JavaScript基础知识，让学员了解到什么是JavaScript，并且了解它的...
+classtime:3课时  25分钟
+classlevel:初级
+learnnum:13064人学习
+
+title:JavaScript语法详解
+content:本课讲解JavaScript语法，让学员掌握运算符、控制语句和循环语句可以让你对js有一个...
+classtime:7课时  41分钟
+classlevel:初级
+learnnum:9262人学习
+
+title:应用间数据传递
+content:本课讲解认识ContentProvider，使用SQLite存储简单的数据和应用间通过Co...
+classtime:1课时  20分钟
+classlevel:初级
+learnnum:3068人学习
+
+title:使用SQLite数据库存储数据
+content:本课讲解使用代码读写SQLite数据库和通过界面操作数据库。
+classtime:2课时  52分钟
+classlevel:初级
+learnnum:4534人学习
+
+title:HTML与CSS简单页面效果实例
+content:本课讲解使用HTML和CSS，制作一些初级的页面效果。
+classtime:1课时  25分钟
+classlevel:初级
+learnnum:9173人学习
+
+title:CSS动画—页面特效
+content:本课讲解2D、3D以及过渡的动画效果，并且了解多列的设计。
+classtime:5课时  39分钟
+classlevel:初级
+learnnum:11125人学习
+
+title:Android系统权限与用户安全
+content:本课主要讲解安卓系统权限机制和常见应用威胁的处理。
+classtime:1课时  20分钟
+classlevel:初级
+learnnum:2669人学习
+
+title:iOS自定义控件实例
+content:本课程讲解自定义控件的用法。
+classtime:3课时  26分钟
+classlevel:初级
+learnnum:2705人学习
+
+title:iOS的动画效果及实现方法
+content:本课主要讲解iOS视图切换动画效果和iOS视频动画效果。
+
+classtime:3课时  17分钟
+classlevel:初级
+learnnum:2867人学习
+
+title:CSS选择器
+content:本课讲解CSS选择器，让学员了解选择器的详细使用。
+classtime:2课时  27分钟
+classlevel:初级
+learnnum:8145人学习
+
+title:CSS常用操作
+content:本课讲解CSSS中常用的一些操作，比如对齐、分类、图片操作等。
+classtime:4课时  35分钟
+classlevel:初级
+learnnum:8652人学习
+
+title:HTML5实战开发看你有多色游戏
+content:本课讲解CreateJS的应用以及看你有多色UI设计与事件处理。
+classtime:3课时  22分钟
+classlevel:初级
+learnnum:7421人学习
+
+title:Java异常处理
+content:本课讲解异常的处理、异常的概念、出现异常之后如何快速处理掉。
+classtime:5课时  21分钟
+classlevel:初级
+learnnum:6376人学习
+
+title:Java多线程编程
+content:本课讲解Java多线程的编程，让学员掌握线程的创建，使用以及了解多线程的生命周期。
+classtime:7课时  37分钟
+classlevel:初级
+learnnum:4055人学习
+
