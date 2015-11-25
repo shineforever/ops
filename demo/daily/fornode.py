@@ -42,7 +42,7 @@ class fornode:
 
         print "Begin....."
         host = get_host_by_app(app)
-    
+
     if len(host) > 1:
         host = get_host_by_app(app)
         for ip in host:

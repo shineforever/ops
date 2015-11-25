@@ -1,9 +1,264 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea349f1-2605-4f27-9de6-eaef9af06391" name="Default" comment="" />
+    <list default="true" id="fea349f1-2605-4f27-9de6-eaef9af06391" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/0.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/02461211.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/02461228.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/116.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/120.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/20070109094748972.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/B24.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/Fwdw_icons_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/Fwdw_icons_06.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/Fwdw_icons_11.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/Fwdw_icons_29.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/Fwdw_icons_30.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/Handset.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/MSN2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/Runbutton.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/black/ask.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/bluebar/ask.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/dmm-green/ask.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/qq/ask.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/simple/ask.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/simple_gray/ask.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/vista/ask.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/back.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/skin/whyGreen/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/寮€鍙戝寘/skin/whyGreen/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/black/btn_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/bluebar/btn_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/dmm-green/btn_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/qq/btn_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/vista/btn_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/qq/content_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/cursor_f01.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/d.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/skin/datePicker.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/寮€鍙戝寘/skin/datePicker.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/direct.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/direct_blue.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/down_list.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/e.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/email.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/black/err.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/bluebar/err.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/dmm-green/err.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/qq/err.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/simple/err.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/simple_gray/err.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/vista/err.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/h3-1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/h3-2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/h3-bg1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/h3-bg2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/hi.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/i_delete.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/i_prefs.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/black/ico.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/bluebar/ico.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/dmm-green/ico.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/qq/ico.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/simple/ico.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/vista/ico.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/skin/default/img.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/skin/whyGreen/img.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/寮€鍙戝寘/skin/default/img.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/寮€鍙戝寘/skin/whyGreen/img.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/black/info.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/bluebar/info.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/dmm-green/info.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/qq/info.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/simple/info.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/simple_gray/info.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/vista/info.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/key.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/lanmu-img1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/left_nav_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/list_title.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/list_title_onclick.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/manage_r2_c1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/manage_r2_c13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/manage_r2_c14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/manage_r2_c18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/manage_r3_c11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/manage_r5_c1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/manage_r6_c2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/manage_r7_c2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/manage_r9_c1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/nav_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/onebit_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/onebit_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/onebit_12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/onebit_16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/onebit_18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/pic03.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyauto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/return.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/black/right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/bluebar/right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/dmm-green/right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/qq/right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/simple/right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/simple_gray/right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/vista/right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/slide.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/status_circle_black.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/status_circle_green.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/status_diamond_red.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/switch_left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/switch_right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/system_info.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/dmm-green/titleIco.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/black/title_bg_center.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/bluebar/title_bg_center.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/dmm-green/title_bg_center.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/qq/title_bg_center.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/vista/title_bg_center.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/black/title_bg_left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/bluebar/title_bg_left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/dmm-green/title_bg_left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/qq/title_bg_left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/vista/title_bg_left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/black/title_bg_right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/bluebar/title_bg_right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/dmm-green/title_bg_right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/qq/title_bg_right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/vista/title_bg_right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/up_list.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/dmm-green/win_b.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/qq/win_b.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/vista/win_b.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/dmm-green/win_l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/qq/win_l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/vista/win_l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/dmm-green/win_lb.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/qq/win_lb.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/vista/win_lb.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/dmm-green/win_r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/qq/win_r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/vista/win_r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/dmm-green/win_rb.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/qq/win_rb.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/vista/win_rb.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opsapi/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/ansible/Mid_1001.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/func/Mid_1001.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/saltstack/Mid_1001.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/ansible/Mid_1002.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/func/Mid_1002.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/saltstack/Mid_1002.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/ansible/Mid_1003.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/func/Mid_1003.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/saltstack/Mid_1003.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/ansible/Mid_1004.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/func/Mid_1004.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/saltstack/Mid_1004.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/ansible/Mid_1005.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/func/Mid_1005.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/saltstack/Mid_1005.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/ansible/Mid_1006.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/func/Mid_1006.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/saltstack/Mid_1006.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/ansible/Mid_1007.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/func/Mid_1007.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/saltstack/Mid_1007.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/My97DatePicker.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/OMserver.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/ansible/Public_lib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/func/Public_lib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/saltstack/Public_lib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/skin/WdatePicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/寮€鍙戝寘/skin/WdatePicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/WdatePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/autoadmin/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/demo/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/logs/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/omaudit/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/public/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/ansible/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/func/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/saltstack/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/shell/autoreload.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/bash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/css/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/skin/default/datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/skin/whyGreen/datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/寮€鍙戝寘/skin/default/datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/寮€鍙戝寘/skin/whyGreen/datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/django_wsgi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/寮€鍙戝寘/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/libraries.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/templates/autoadmin/main.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opsapi/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/autoadmin/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/demo/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/omaudit/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/public/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/templates/autoadmin/module_add.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opsapi/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/nav.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/nav_main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/templates/autoadmin/omaudit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/logs/omsys.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opsapi/.idea/opsapi.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opsapi/opsapi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/prototype.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/寮€鍙戝寘/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/shell/reload.set" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/softkeyboard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmdb/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/autoadmin/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/demo/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/omaudit/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/public/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/autoadmin/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/demo/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/omaudit/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opsapi/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/autoadmin/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/demo/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/omaudit/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/public/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmdb/vipspider.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opsapi/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/css/skin/black/ymPrompt.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/css/skin/bluebar/ymPrompt.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/css/skin/dmm-green/ymPrompt.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/css/skin/qq/ymPrompt.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/css/skin/simple/ymPrompt.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/css/skin/simple_gray/ymPrompt.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/css/skin/vista/ymPrompt.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/ymPrompt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/寮€鍙戝寘/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/lang/zh-tw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/寮€鍙戝寘/lang/zh-tw.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmdb/auth_ldap.py" afterPath="$PROJECT_DIR$/cmdb/auth_ldap.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmdb/dm.py" afterPath="$PROJECT_DIR$/cmdb/dm.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/daily/fornode.py" afterPath="$PROJECT_DIR$/demo/daily/fornode.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ops.iml" afterPath="$PROJECT_DIR$/.idea/ops.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmdb/pssh.py" afterPath="$PROJECT_DIR$/cmdb/pssh.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="ops.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,6 +267,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ops$xpath_regular.coverage" NAME="xpath_regular Coverage Results" MODIFIED="1448622200353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/XPath-and-multithreading -crawler/XPath与多线程爬虫-上线资源包/源码" />
+    <SUITE FILE_PATH="coverage/ops$getvip.coverage" NAME="getvip Coverage Results" MODIFIED="1448717491437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cmdb" />
+    <SUITE FILE_PATH="coverage/ops$tiebaspider.coverage" NAME="tiebaspider Coverage Results" MODIFIED="1448621568610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/XPath-and-multithreading -crawler/XPath与多线程爬虫-上线资源包/源码" />
+    <SUITE FILE_PATH="coverage/ops$pssh.coverage" NAME="pssh Coverage Results" MODIFIED="1448710174371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cmdb" />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -19,16 +280,80 @@
   <component name="FavoritesManager">
     <favorites_list name="ops" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="vipspider.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cmdb/vipspider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6791444">
+              <caret line="97" column="30" selection-start-line="97" selection-start-column="30" selection-end-line="97" selection-end-column="30" />
+              <folding>
+                <element signature="e#20#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cmdb/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.333333">
+              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dm.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cmdb/dm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.5555556">
+              <caret line="255" column="20" selection-start-line="255" selection-start-column="20" selection-end-line="255" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Html5" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/demo/daily/fornode.py" />
+        <option value="$PROJECT_DIR$/cmdb/test.html" />
+        <option value="$PROJECT_DIR$/demo/XPath-and-multithreading -crawler/XPath与多线程爬虫-上线资源包/源码/xpath_regular.py" />
+        <option value="$PROJECT_DIR$/cmdb/getvip.py" />
+        <option value="$PROJECT_DIR$/cmdb/pssh.py" />
+        <option value="$PROJECT_DIR$/cmdb/dm.py" />
+        <option value="$PROJECT_DIR$/cmdb/vipspider.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
   </component>
   <component name="NamedScopeManager">
     <order />
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="2" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="735" />
+    <option name="height" value="689" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -53,20 +378,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="ops">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -101,14 +413,369 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="External Dependencies">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="/">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Users">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="koudai233">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Library">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Python">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="2.7">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lib">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="python">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="site-packages">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ops">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.getvip">
+    <configuration default="false" name="pssh" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cmdb" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ops" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cmdb/pssh.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="getvip" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cmdb" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ops" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cmdb/vipspider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="tiebaspider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo/XPath-and-multithreading -crawler/XPath与多线程爬虫-上线资源包/源码" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ops" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/XPath-and-multithreading -crawler/XPath与多线程爬虫-上线资源包/源码/tiebaspider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="xpath_regular" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo/XPath-and-multithreading -crawler/XPath与多线程爬虫-上线资源包/源码" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ops" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/XPath-and-multithreading -crawler/XPath与多线程爬虫-上线资源包/源码/xpath_regular.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ops" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ops" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ops" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ops" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ops" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ops" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ops" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ops" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ops" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Python.pssh" />
+      <item index="1" class="java.lang.String" itemvalue="Python.getvip" />
+      <item index="2" class="java.lang.String" itemvalue="Python.tiebaspider" />
+      <item index="3" class="java.lang.String" itemvalue="Python.xpath_regular" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.getvip" />
+        <item index="1" class="java.lang.String" itemvalue="Python.pssh" />
+        <item index="2" class="java.lang.String" itemvalue="Python.xpath_regular" />
+        <item index="3" class="java.lang.String" itemvalue="Python.tiebaspider" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="fea349f1-2605-4f27-9de6-eaef9af06391" name="Default" comment="" />
@@ -119,34 +786,281 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="735" extended-state="0" />
+    <frame x="2" y="23" width="1280" height="689" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24296875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3516129" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39760637" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="9" />
+    </breakpoint-manager>
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cmdb/vipspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+          <folding>
+            <element signature="e#20#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmdb/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/Single-thread-crawler/单线程爬虫-上线资源包/源码/jikexueyuan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="65" selection-start-line="36" selection-start-column="65" selection-end-line="36" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/Single-thread-crawler/单线程爬虫-上线资源包/源码/needheader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/Single-thread-crawler/单线程爬虫-上线资源包/源码/tieba.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmdb/pssh.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="64" column="34" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
+          <folding>
+            <element signature="e#84#99#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/omserver/logs/omsys.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18478261">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/daily/fornode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.83136094">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmdb/relaylogin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1777" column="0" selection-start-line="1777" selection-start-column="0" selection-end-line="1777" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/The-basic-regular-expressions/基本的正则表达式-上线资源包/源码/source.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/The-basic-regular-expressions/基本的正则表达式-上线资源包/源码/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/The-basic-regular-expressions/基本的正则表达式-上线资源包/源码/usere.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.76829267">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/XPath-and-multithreading -crawler/XPath与多线程爬虫-上线资源包/源码/content.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/XPath-and-multithreading -crawler/XPath与多线程爬虫-上线资源包/源码/python-dis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8414634">
+          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/XPath-and-multithreading -crawler/XPath与多线程爬虫-上线资源包/源码/test-special2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/XPath-and-multithreading -crawler/XPath与多线程爬虫-上线资源包/源码/test_regular.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/XPath-and-multithreading -crawler/XPath与多线程爬虫-上线资源包/源码/xpath_special.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/XPath-and-multithreading -crawler/XPath与多线程爬虫-上线资源包/源码/tiebaspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2682927">
+          <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+          <folding>
+            <element signature="e#19#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/Single-thread-crawler/单线程爬虫-上线资源包/源码/jikexueyuan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2195122">
+          <caret line="36" column="65" selection-start-line="36" selection-start-column="65" selection-end-line="36" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/Single-thread-crawler/单线程爬虫-上线资源包/源码/needheader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4390244">
+          <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/XPath-and-multithreading -crawler/XPath与多线程爬虫-上线资源包/源码/xpath_regular.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/Single-thread-crawler/单线程爬虫-上线资源包/源码/tieba.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14319809">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmdb/pssh.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.87967914">
+          <caret line="73" column="26" selection-start-line="73" selection-start-column="26" selection-end-line="73" selection-end-column="26" />
+          <folding>
+            <element signature="e#84#99#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmdb/dm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.5555556">
+          <caret line="255" column="20" selection-start-line="255" selection-start-column="20" selection-end-line="255" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmdb/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.333333">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmdb/vipspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6791444">
+          <caret line="97" column="30" selection-start-line="97" selection-start-column="30" selection-end-line="97" selection-end-column="30" />
+          <folding>
+            <element signature="e#20#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

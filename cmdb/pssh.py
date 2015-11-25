@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # -*- coding: utf-8 -*-
 # author: albert.zhang
 # date: 2015-11-02
@@ -41,9 +42,9 @@ def get_host_by_env(env):
        r = send_request(path, method,params={'group': group_name , 'fields':'ip' ,'page': 'false' , 'type':'prod'})
     else :
        r = send_request(path, method,params={'group': group_name , 'fields':'ip' ,'page': 'false' , 'type':'prod'})
-
+   
     re = json.loads(r.content)
-
+    
     for r in re:
 
        print r['ip'],
