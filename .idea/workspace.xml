@@ -2,258 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fea349f1-2605-4f27-9de6-eaef9af06391" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/0.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/02461211.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/02461228.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/116.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/120.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/20070109094748972.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/B24.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/Fwdw_icons_01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/Fwdw_icons_06.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/Fwdw_icons_11.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/Fwdw_icons_29.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/Fwdw_icons_30.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/Handset.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/MSN2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/Runbutton.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/black/ask.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/bluebar/ask.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/dmm-green/ask.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/qq/ask.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/simple/ask.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/simple_gray/ask.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/vista/ask.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/back.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/skin/whyGreen/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/寮€鍙戝寘/skin/whyGreen/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/black/btn_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/bluebar/btn_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/dmm-green/btn_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/qq/btn_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/vista/btn_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/qq/content_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/cursor_f01.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/d.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/skin/datePicker.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/寮€鍙戝寘/skin/datePicker.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/direct.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/direct_blue.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/down_list.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/e.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/email.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/black/err.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/bluebar/err.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/dmm-green/err.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/qq/err.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/simple/err.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/simple_gray/err.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/vista/err.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/h3-1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/h3-2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/h3-bg1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/h3-bg2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/hi.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/i_delete.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/i_prefs.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/black/ico.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/bluebar/ico.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/dmm-green/ico.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/qq/ico.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/simple/ico.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/vista/ico.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/skin/default/img.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/skin/whyGreen/img.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/寮€鍙戝寘/skin/default/img.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/寮€鍙戝寘/skin/whyGreen/img.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/black/info.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/bluebar/info.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/dmm-green/info.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/qq/info.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/simple/info.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/simple_gray/info.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/vista/info.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/key.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/lanmu-img1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/left_nav_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/list_title.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/list_title_onclick.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/manage_r2_c1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/manage_r2_c13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/manage_r2_c14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/manage_r2_c18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/manage_r3_c11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/manage_r5_c1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/manage_r6_c2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/manage_r7_c2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/manage_r9_c1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/nav_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/onebit_08.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/onebit_09.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/onebit_12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/onebit_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/onebit_18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/pic03.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyauto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/refresh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/return.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/black/right.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/bluebar/right.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/dmm-green/right.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/qq/right.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/simple/right.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/simple_gray/right.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/vista/right.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/slide.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/status_circle_black.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/status_circle_green.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/status_diamond_red.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/switch_left.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/switch_right.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/system_info.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/dmm-green/titleIco.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/black/title_bg_center.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/bluebar/title_bg_center.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/dmm-green/title_bg_center.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/qq/title_bg_center.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/vista/title_bg_center.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/black/title_bg_left.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/bluebar/title_bg_left.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/dmm-green/title_bg_left.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/qq/title_bg_left.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/vista/title_bg_left.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/black/title_bg_right.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/bluebar/title_bg_right.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/dmm-green/title_bg_right.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/qq/title_bg_right.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/vista/title_bg_right.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/up_list.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/dmm-green/win_b.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/qq/win_b.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/vista/win_b.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/dmm-green/win_l.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/qq/win_l.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/vista/win_l.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/dmm-green/win_lb.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/qq/win_lb.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/vista/win_lb.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/dmm-green/win_r.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/qq/win_r.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/vista/win_r.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/dmm-green/win_rb.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/qq/win_rb.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/images/vista/win_rb.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opsapi/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/ansible/Mid_1001.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/func/Mid_1001.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/saltstack/Mid_1001.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/ansible/Mid_1002.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/func/Mid_1002.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/saltstack/Mid_1002.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/ansible/Mid_1003.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/func/Mid_1003.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/saltstack/Mid_1003.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/ansible/Mid_1004.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/func/Mid_1004.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/saltstack/Mid_1004.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/ansible/Mid_1005.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/func/Mid_1005.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/saltstack/Mid_1005.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/ansible/Mid_1006.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/func/Mid_1006.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/saltstack/Mid_1006.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/ansible/Mid_1007.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/func/Mid_1007.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/saltstack/Mid_1007.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/My97DatePicker.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/OMserver.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/ansible/Public_lib.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/func/Public_lib.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/saltstack/Public_lib.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/skin/WdatePicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/寮€鍙戝寘/skin/WdatePicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/WdatePicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/autoadmin/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/demo/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/logs/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/omaudit/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/public/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/ansible/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/func/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/modules/saltstack/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/shell/autoreload.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/bash.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/calendar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/css/common.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/config.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/skin/default/datepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/skin/whyGreen/datepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/寮€鍙戝寘/skin/default/datepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/寮€鍙戝寘/skin/whyGreen/datepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/django_wsgi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/lang/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/寮€鍙戝寘/lang/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/libraries.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/templates/autoadmin/main.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/manage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opsapi/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/autoadmin/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/demo/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/omaudit/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/public/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/templates/autoadmin/module_add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opsapi/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/nav.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/nav_main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/templates/autoadmin/omaudit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omserver/logs/omsys.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opsapi/.idea/opsapi.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opsapi/opsapi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/prototype.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/寮€鍙戝寘/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/shell/reload.set" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/softkeyboard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmdb/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/autoadmin/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/demo/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/omaudit/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/public/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/autoadmin/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/demo/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/omaudit/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opsapi/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/autoadmin/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/demo/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/omaudit/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/public/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmdb/vipspider.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opsapi/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/css/skin/black/ymPrompt.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/css/skin/bluebar/ymPrompt.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/css/skin/dmm-green/ymPrompt.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/css/skin/qq/ymPrompt.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/css/skin/simple/ymPrompt.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/css/skin/simple_gray/ymPrompt.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/css/skin/vista/ymPrompt.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/ymPrompt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/lang/zh-cn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/寮€鍙戝寘/lang/zh-cn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/lang/zh-tw.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OMserverweb/static/js/My97DatePicker/寮€鍙戝寘/lang/zh-tw.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmdb/auth_ldap.py" afterPath="$PROJECT_DIR$/cmdb/auth_ldap.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmdb/dm.py" afterPath="$PROJECT_DIR$/cmdb/dm.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/daily/fornode.py" afterPath="$PROJECT_DIR$/demo/daily/fornode.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ops.iml" afterPath="$PROJECT_DIR$/.idea/ops.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmdb/pssh.py" afterPath="$PROJECT_DIR$/cmdb/pssh.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ops.iws" />
@@ -282,14 +30,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="vipspider.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="vipspider.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cmdb/vipspider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6791444">
-              <caret line="97" column="30" selection-start-line="97" selection-start-column="30" selection-end-line="97" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="95" column="22" selection-start-line="95" selection-start-column="22" selection-end-line="95" selection-end-column="22" />
               <folding>
                 <element signature="e#20#35#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="auth_ldap.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cmdb/auth_ldap.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.9197861">
+              <caret line="89" column="0" selection-start-line="13" selection-start-column="6" selection-end-line="89" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -327,6 +85,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="albert" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -482,7 +245,7 @@
     <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -783,22 +546,30 @@
       <option name="number" value="Default" />
       <updated>1440581993183</updated>
     </task>
+    <task id="LOCAL-00001" summary="update spider">
+      <created>1448717739871</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1448717739871</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="23" width="1280" height="689" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24296875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3516129" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24296875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39760637" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -820,6 +591,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update spider" />
+    <option name="LAST_COMMIT_MESSAGE" value="update spider" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1054,11 +829,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cmdb/vipspider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6791444">
-          <caret line="97" column="30" selection-start-line="97" selection-start-column="30" selection-end-line="97" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="95" column="22" selection-start-line="95" selection-start-column="22" selection-end-line="95" selection-end-column="22" />
           <folding>
             <element signature="e#20#35#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmdb/auth_ldap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9197861">
+          <caret line="89" column="0" selection-start-line="13" selection-start-column="6" selection-end-line="89" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
