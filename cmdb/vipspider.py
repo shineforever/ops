@@ -2,7 +2,61 @@
 import requests
 import re,sys,os
 import json
+
 from lxml import etree
+
+
+def get_vips_by_ip(ip):
+    
+    s = spider()
+    s.getsource(ip)
+
+    vips = s.getinfo_vip()
+    vipnames = s.getinfo_vipname()
+    ports = s.getinfo_port()
+
+    index = 0
+
+    values = []
+
+    for vip in vips:
+        value = {}
+        value['vip'] = vip
+        value['domain'] = vipnames[index]
+        value['port'] = ports[index]
+        values.append(value)
+        index = index+1
+
+    return values
+
+def update_server(server):
+
+    ip = server['ip']
+    groups = server['groups']
+
+    vips = get_vips_by_ip(ip)
+    for vip in vips:
+        for group in server['groups']:
+            update_vip(group, vip)
+
+def update_vip(group, vip):
+
+    params = {}
+    params['vip'] = vip['vip']
+    params['value'] = vip['domain']
+    params['group_id'] = group['id']
+
+    r = send_request('group/domains', 'get', params=params)
+
+    results = json.loads(r.content)
+
+
+    if (len(results)):
+        send_request('group/domains/' + str(results[0]['id']), 'put', json=params)
+    else:
+        send_request('group/domains', 'post', json=params)
+
+    return
 
 def send_request(path, method,params={},json={}):
     url = 'http://api.o.vdian.net/' + path
@@ -15,52 +69,48 @@ def send_request(path, method,params={},json={}):
 
     return getattr(requests, method)(url, params=params, headers=headers, json=json)
 
-def getlist_ip():
+def get_servers():
     method = 'get'
     path = 'servers'
 
-    r = send_request('servers', 'get',params={'fields':'ip','page': 'false' })
+    r = send_request(path, method,params={'page': 'false' })
 
-    re = json.loads(r.content)
-    values = []
-    for r in re:
-        values.append(r['ip'])
+    return json.loads(r.content)
 
-    return values
 
 class spider(object):
-    def __init__(self):
-        print u'开始爬取内容........'
 
-    def getsource(self,url,ip):
+    def getsource(self,ip):
+        url = 'http://10.2.1.211/netscaler.php'
         html = requests.post(url,data={'input_vip_name':ip})
-        return html.text
 
-    def getinfo_vip(self,html):
+        self.html = html.text
 
-        selector = etree.HTML(html)
+    def getinfo_vip(self):
+
+        selector = etree.HTML(self.html)
         content = selector.xpath('//td[@width="140"]/text()')
 
         return content
 
-    def getinfo_vipname(self,html):
+    def getinfo_vipname(self):
 
-        selector = etree.HTML(html)
+        selector = etree.HTML(self.html)
         content = selector.xpath('//td[@width="300"]/text()')
 
         return content
 
-    def getinfo_port(self,html):
+    def getinfo_port(self):
 
-        selector = etree.HTML(html)
+        selector = etree.HTML(self.html)
         content = selector.xpath('//td[@width="80"]/text()')
 
         return content
 
-    def getinfo_protocol(self,html):
+    def getinfo_protocol(self):
 
         values = []
-        selector = etree.HTML(html)
+        selector = etree.HTML(self.html)
         content = selector.xpath('//td[@width="80"]/text()')
 
         # for i in content:
@@ -69,36 +119,7 @@ class spider(object):
         return content
 
 if __name__ == '__main__':
-
-    vip = []
-    port = []
-    vipname = []
-    protocol = []
-    url = 'http://10.2.1.211/netscaler.php'
-    # iplist = ['10.2.8.120','10.2.8.75']
-    vdianspider = spider()
-#    print getlist_ip()
-    for ip in getlist_ip():
-        html = vdianspider.getsource(url,ip)
-        vip = vdianspider.getinfo_vip(html)
-
-        for v in vip:
-            if (v != vip[0]) :
-                print 'vip地址:'+v,
-
-        vipname = vdianspider.getinfo_vipname(html)
-
-        for vip in vipname:
-            if (vip != vipname[0]) :
-                print  'vip名称:' + vip,
-
-        port = vdianspider.getinfo_port(html)
-        for p in port:
-            if (str(p).isdigit()) :
-                print '端口:'+p,
-        print "\n"
-        #
-        # protocol = vdianspider.getinfo_protocol(html)
-        # for pro in protocol:
-        #     if ( str(i).isalpha()):
-        #         print pro,
+    servers = get_servers()
+    print '开始爬虫........'
+    for server in servers:
+        update_server(server)
