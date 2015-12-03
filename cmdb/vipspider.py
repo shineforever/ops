@@ -2,9 +2,8 @@
 import requests
 import re,sys,os
 import json
-
+from multiprocessing.dummy import Pool as ThreadPool
 from lxml import etree
-
 
 def get_vips_by_ip(ip):
     
@@ -42,19 +41,27 @@ def update_server(server):
 def update_vip(group, vip):
 
     params = {}
-    params['vip'] = vip['vip']
-    params['value'] = vip['domain']
+    params_name = {}
+    params['value'] = vip['vip']
+    # params['value'] = vip['domain']
     params['group_id'] = group['id']
+    params['port'] = vip['port']
 
-    r = send_request('group/domains', 'get', params=params)
+    params_name['value'] = vip['domain']
+    params_name['group_id'] = group['id']
+
+
+    r = send_request('group/vips', 'get', params=params)
 
     results = json.loads(r.content)
+    print results
 
-
-    if (len(results)):
-        send_request('group/domains/' + str(results[0]['id']), 'put', json=params)
+    if (len(results) > 0):
+        send_request('group/vips/' + str(results[0]['id']), 'put', json=params)
+        send_request('group/domains' + str(results[0]['id']), 'put', json=params_name)
     else:
-        send_request('group/domains', 'post', json=params)
+        send_request('group/vips', 'post', json=params)
+        send_request('group/domains', 'post', json=params_name)
 
     return
 
@@ -91,21 +98,35 @@ class spider(object):
         selector = etree.HTML(self.html)
         content = selector.xpath('//td[@width="140"]/text()')
 
-        return content
+        vip = []
+        for c in content:
+            if (c != content[0]):
+                vip.append(c)
+
+        return vip
 
     def getinfo_vipname(self):
 
         selector = etree.HTML(self.html)
         content = selector.xpath('//td[@width="300"]/text()')
 
-        return content
+        vipname = []
+        for c in content:
+            if (c != content[0]):
+                vipname.append(c)
+
+        return vipname
 
     def getinfo_port(self):
 
         selector = etree.HTML(self.html)
         content = selector.xpath('//td[@width="80"]/text()')
+        port = []
+        for c in content:
+            if ( str(c).isdigit()):
+                port.append(c)
 
-        return content
+        return port
 
     def getinfo_protocol(self):
 
@@ -119,7 +140,12 @@ class spider(object):
         return content
 
 if __name__ == '__main__':
+    page = []
     servers = get_servers()
     print '开始爬虫........'
     for server in servers:
-        update_server(server)
+        pool = ThreadPool(8)
+        results = pool.map(update_server(server), page)
+        pool.close()
+        pool.join()
+
