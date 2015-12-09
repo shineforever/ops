@@ -30,4 +30,5 @@ def get_tracert(domain):
 if __name__ == '__main__':
     print '访问%s 经过的路由如下：\n' % sys.argv[1]
     for x in get_tracert(sys.argv[1]):
+        print x
         print get_ip(x)
