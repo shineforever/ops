@@ -24,11 +24,11 @@ def get_tracert(domain):
     for x in data:
         if x != []:
             c = list(set(x))
-            ip_list.append(''.join(c))
+            for i in c:
+                ip_list.append(''.join(i))
     return ip_list
 
 if __name__ == '__main__':
     print '访问%s 经过的路由如下：\n' % sys.argv[1]
     for x in get_tracert(sys.argv[1]):
-        print x
         print get_ip(x)
