@@ -1,8 +1,11 @@
+#!/usr/bin/python
+#-*- coding: utf-8 -*-
 import sys
 import re
 
 def get_upstream():
     file_object = open('hosts.conf')
+    # file_object = open('/usr/local/webserver/nginx/conf/hosts.conf')
     try:
         ng_conf = file_object.read()
     finally:
@@ -14,7 +17,7 @@ def get_upstream():
     xs = []
     for line in data:
         line = line.strip()
-        if ('d_platform' in line):
+        if (sys.argv[1] in line):
             if (obj is not None):
                 objs.append(obj)
                 obj is None
@@ -42,5 +45,7 @@ def get_upstream():
 
     return xs
 
-for i in  get_upstream():
-    print i['ip'] + ":" + i['port']
+print sys.argv[1]
+
+for r in  get_upstream():
+    print r['ip'] + ":" + r['port']
