@@ -35,11 +35,6 @@ def get_upstream():
 
         xs.append(x)
 
-        # for ip in kv[0].split(' ')[1]:
-        #     obj['server'] = ip
-        #
-        #     for port in kv[1].split(' ')[0]:
-        #         obj['port'] = port
 
     if (obj is not None):
         objs.append(obj)
@@ -47,4 +42,5 @@ def get_upstream():
 
     return xs
 
-print get_upstream()
+for i in  get_upstream():
+    print i['ip'] + ":" + i['port']
