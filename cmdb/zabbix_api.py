@@ -62,7 +62,9 @@ class zabbixtools:
                     "auth": self.authID,
                     "id": 1
                 })
+
         res = self.get_data(data)['result']
+
         if (res != 0) and (len(res) != 0):
             #for host in res:
             host = res[0]
@@ -107,6 +109,7 @@ class zabbixtools:
                     "id": 1,
                     })
         res = self.get_data(data)
+
         if 'result' in res.keys():
             res = res['result']
             if (res !=0) or (len(res) != 0):
@@ -186,8 +189,9 @@ class zabbixtools:
 def main():
     test = zabbixtools()
     #test.template_get()
-    test.hostgroup_get()
-    test.host_get()
+    #test.hostgroup_get()
+    test.host_get('idc01-app-hz-06')
+
     #test.host_del()
     #test.host_create()
 if __name__ == "__main__":
