@@ -71,7 +71,7 @@ def get_cpues():
     # with open('cpues', 'r') as file:
     #   string = file.read()
     print string
-    data = string.split("\n")
+    data = string.split("\n")sellapi{
     objs = []
     obj = None
 

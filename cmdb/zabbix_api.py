@@ -189,7 +189,7 @@ class zabbixtools:
 def main():
     test = zabbixtools()
     #test.template_get()
-    #test.hostgroup_get()
+    test.hostgroup_get()
     test.host_get('idc01-app-hz-06')
 
     #test.host_del()
