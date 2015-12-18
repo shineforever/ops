@@ -100,16 +100,107 @@ sorted_list = []
 #
 # print insert_list
 
-arr_list=[5000,4333,3,4,888,12,3,14,3,21]
-init_count=len(arr_list)
-for i in range(0,init_count):
-    init_index=i
-    for j in range(i+1,init_count):
-        if arr_list[init_index]>arr_list[j]:
-            init_index=j
-    temp=arr_list[i]
-    arr_list[i]=arr_list[init_index]
-    arr_list[init_index]=temp
+# arr_list=[5000,4333,3,4,888,12,3,14,3,21]
+# init_count=len(arr_list)
+# for i in range(0,init_count):
+#     init_index=i
+#     for j in range(i+1,init_count):
+#         if arr_list[init_index]>arr_list[j]:
+#             init_index=j
+#     temp=arr_list[i]
+#     arr_list[i]=arr_list[init_index]
+#     arr_list[init_index]=temp
+#
+# print(arr_list)
+#
+# init_tuple = ('a','b','c','a')
+# print init_tuple[0]
+# print init_tuple[1]
 
-print(arr_list)
+d = {'name':'pc','age':'12'}
+#
+# print d['name'],d['age']
+#
+# if 'name' not in d:
+#     print 'has no name'
+# elif 'name' in d:
+#     print 'has name'
+#
+#     print d.get('age')
+#
+# y = d.copy()
+# print y
+# y['age'] =31
+# print y
+# # y.clear()
+# # print y
+#
+#
+# for key in d:
+#     print key
+#     print d[key]
 
+# new_dict = {}
+# for key in d:
+#     new_dict[key] = d[key]
+#
+# print new_dict
+
+#
+# read_me = '''
+# first of all , i want make it clear that
+# '''
+#
+# mydic1={}
+# for i in range(len(read_me)):
+#
+#     num = read_me.count(read_me[i])
+#
+#     mydic1[read_me[i]]=num
+# print mydic1
+#
+#
+# print {}.fromkeys(['name','age'],12)
+# print {}.fromkeys(['name','age'])
+#
+# dict = {'name':'albert','age':'31'}
+#
+# print dict.items()
+
+
+# init_dict = {'name':'pc','age':20}
+# print init_dict.items()
+# for (k,v) in init_dict.items():
+#     print 'key is %s value is %s' % (k,v)
+#
+# print init_dict.pop('name')
+# print init_dict
+#
+#
+# print '|'.join(['hello','world'])[1:3]
+#
+# print '|'.join(['hello','world']).find('r')
+#
+# print 'dello  '.capitalize()
+#
+# str = 'hello WORLd'
+# print str[0].upper() + str[1:].lower()
+#
+# print str.count('l')
+#
+# print str.replace('ll','dd')
+#
+# str = '    hello*123*world     '
+#
+# print str.split('*')
+#
+#
+# print str.strip()
+#
+# a=list('hello')
+# a.reverse()
+# res = ''
+#
+# for i in list('hello'):
+#     res = i + res
+# print res
