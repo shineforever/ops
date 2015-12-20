@@ -1,4 +1,5 @@
 from  flask import Flask,request,render_template
+import util
 app = Flask(__name__)
 
 @app.route('/delete',methods=['GET'])
@@ -51,6 +52,26 @@ def dr():
     return '<table border="1">' + table_str + '</table>'
 
 
+util.updata_data()
+print util.file_data
+
+@app.route('/data')
+def data():
+    return util.get_table_html()
+
 if __name__ == '__main__':
     app.run(host='0.0.0.0',port=5000,debug=True)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
