@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 #-*- coding: UTF-8 -*-
-=======
-#-*- coding: UTF-8 -*- 
->>>>>>> origin/master
-import sys,ldap 
+import sys,ldap
 import ldap
 
 LDAP_HOST = 'ldap://10.2.1.200:389'
@@ -89,11 +85,11 @@ class LDAPTool:
             return False
 
 l = LDAPTool()
-<<<<<<< HEAD
+
 print l.ldap_get_vaild('zhanglongbao',PASSWORD)
-print l.ldap_search_dn('zhanglongbao')
+print l.ldap_search_dn('liuqir')
 print l.ldap_update_pass('zhanglongbao',PASSWORD,'zlydvd120')
 print l.ldap_get_user('zhanglongbao')
-=======
+
 print l.ldap_search_dn('*zhanglongbao*')
->>>>>>> origin/master
+
