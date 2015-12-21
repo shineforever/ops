@@ -164,7 +164,7 @@ class JsonRpc(object):
 				"result": response.data,
 				"id": json.id
 			}
-			self.response = formatResp
+			self.response = json.dumps(formatResp)
 
 		return  response
 
