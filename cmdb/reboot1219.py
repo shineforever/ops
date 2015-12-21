@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import os
-import idc
-import
+#import idc
+import json
 
 class AutoLoad(object):
 
@@ -121,42 +121,41 @@ class JsonRpc(object):
 		return True
 
 	def validate(self):
-	# 验证jsonrpc, 验证版本
+
 		if VERSON != '2.0':
 			response.errorCode = '-104'
-			response.errorMessage = "目前只支持2.0 "
+			response.errorMessage = "目前只支持2.0"
 			jsonError()
-			return false
+			return False
+
 		if method not in at.idc_methodlist:
+			response.errorCode = '-105'
+			response.errorMessage = "函数不支持"
+			jsonError()
+			return False
 
+		if len(params) <= 0:
+			response.errorCode = '-106'
+			response.errorMessage = "请传递参数"
+			jsonError()
+			return False
 
-
-	验证method, (idc.get)
-	    false,  return false
-		调用jsonError()
-	验证params, 是否传
-	    false   return false
-		调用jsonError()
-	return True
+		return True
 	    
 	def jsonError(self, id, errno, data=None):
 
-       	# 处理json错误
-
-		_error = True
 		format_error = {
 			'jsonrpc': VERSION,
 			'error' : data,
 			'id': id,
 			'errno': errno,
 		}
-	self.response = format_error
+		self.response = json.dumps(format_error)
 
-    def processResult(self, response):
-        """
-            处理执行后返回的结果
-        """
-		if response.errorCode 不为 0 :
+	def processResult(self, response):
+
+		VERSION = '2.0'
+		if response.errorCode != 0 :
 			errno = response.errorCode
 			jsonError()
 		else:
@@ -167,9 +166,10 @@ class JsonRpc(object):
 			}
 			self.response = formatResp
 
-    def isError(self):
-        """
-            返回是否有错误
-        """
+		return  response
+
+	def isError(self):
+		if len(self.response) <= 0:
+			return False
 
 
