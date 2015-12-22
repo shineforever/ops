@@ -53,8 +53,8 @@
       <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/opsapi/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.8370536">
+              <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
               <folding>
                 <element signature="e#0#48#0" expanded="true" />
               </folding>
@@ -719,14 +719,20 @@
       <option name="project" value="LOCAL" />
       <updated>1450800814202</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="commit flask">
+      <created>1450800865704</created>
+      <option name="number" value="00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1450800865704</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="233" y="88" width="990" height="568" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27953586" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27953586" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5031056" sideWeight="0.50690496" order="12" side_tool="true" content_ui="tabs" />
@@ -764,7 +770,8 @@
     <MESSAGE value="new pyscript dns route" />
     <MESSAGE value="flask  lianxi" />
     <MESSAGE value="commit jsonrpc" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit jsonrpc" />
+    <MESSAGE value="commit flask" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit flask" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1152,8 +1159,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/opsapi/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.8370536">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
           <folding>
             <element signature="e#0#48#0" expanded="true" />
           </folding>
