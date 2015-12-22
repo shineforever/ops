@@ -21,7 +21,7 @@ r = requests.post(url, headers=headers, json=json.dumps(data))
 print r.status_code
 print r.content
 
-import os
+import os,sys
 import imp
 # 获取目录
 file_path = os.getcwd()
@@ -29,4 +29,7 @@ print file_path
 file_name = 'vipspider'
 a = imp.find_module(file_name, [file_path])
 print a
+b = os.listdir(file_path)
+print b
+
 mod_all = imp.load_module(file_name, a[0], a[1], a[2])

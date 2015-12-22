@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import os
+import os,sys
 #import idc
 import json
 
@@ -32,7 +32,7 @@ class AutoLoad(object):
 	def _load_module(self):
 
 		ret = False
-		for filename in (ls self.moduledir):
+		for filename in (os.listdir(self.moduledir)):
 			if "py" in filename.split['.'][1]:
 				module_name = filename.split['.'][0]
 		if module_name == self.module_name:
