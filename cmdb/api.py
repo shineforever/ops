@@ -2,6 +2,7 @@
 import os,sys
 #import idc
 import json
+import imp
 
 class AutoLoad(object):
 
@@ -55,6 +56,11 @@ class Response(object):
 		self.errorMessage = None
 
 class JsonRpc(object):
+
+	def __init__(self,jsonData):
+		jsonData = jsonData
+		jsonrpc = "2.0"
+
 
 	def execute(self):
 
