@@ -9,6 +9,8 @@ data = {
         "jsonrpc": "2.0",
         "method":"idc.get",
         "id":1,
+# 获取目录
+file_path = os.getcwd(
         "auth":None,
         "params":{
                 'output':['id','name','idc_name','address','user_interface'],
@@ -22,9 +24,7 @@ print r.status_code
 print r.content
 
 import os,sys
-import imp
-# 获取目录
-file_path = os.getcwd()
+import imp)
 print file_path
 file_name = 'vipspider'
 a = imp.find_module(file_name, [file_path])
