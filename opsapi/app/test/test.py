@@ -6,7 +6,7 @@ headers = {"Content-type": "application/json"}
 
 data = {
     "jsonrpc": 2.0,
-    "method": "idc.init",
+    "method": "idc.create",
     "id": 1,
     "auth": 'null',
     "params": {'name':'wd'},

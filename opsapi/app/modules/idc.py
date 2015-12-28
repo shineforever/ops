@@ -1,13 +1,6 @@
-from flask import Flask
-from flask.ext.sqlalchemy import SQLAlchemy
-from config import config
+from app.models import Server
+from app import db
 
-app = Flask(__name__)
-app.config.from_object(config['production'])
-db = SQLAlchemy(app)
-
-print app.config
-print db.session.query_property()
 
 
 def init(**params):
@@ -17,8 +10,13 @@ def get(**params):
     print 'hello %s' %params.get('name')
     return 'hello %s' %params.get('name')
 
-def create():
-    print 'add data'
+
+def create(**params):
+
+    server = Server(ip='10.2.100.2',cabinet_id='223',sn='DDASS')
+    db.session.add(server)
+    db.session.commit()
+    return 'add data'
 
 def update():
     print 'update data'
