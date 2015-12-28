@@ -15,7 +15,7 @@ class config:
 class DevelopmentConfig(config):
     DEBUG = True
     SQLALCHEMY_ECHO = True
-    SQLALCHEMY_DATABASE_URI = "mysql://root:123456@127.0.0.1/reboot"
+    SQLALCHEMY_DATABASE_URI = "mysql://root:23985111@localhost/cmdb"
     SQLALCHEMY_POOL_SIZE = 0
     SQLALCHEMY_ZABBIX_API_URL = "http://42.62.73.236/zabbix/api_jsonrpc.php"
     SQLALCHEMY_ZABBIX_API_USER = "Admin"
@@ -31,14 +31,3 @@ config = {
     'development': DevelopmentConfig,
     'production': ProductionConfig
 }
-
-
-# import logging
-# import logging.config
-#
-# logging.config.fileConfig("logger.conf")
-# logger = logging.getLogger("example01")
-#
-# logger.debug('This is debug message')
-# logger.info('This is info message')
-# logger.warning('This is warning message')

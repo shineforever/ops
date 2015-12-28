@@ -1,5 +1,7 @@
 from  flask import Flask,request,render_template
-import util
+
+from app.test import util
+
 app = Flask(__name__)
 
 @app.route('/delete',methods=['GET'])
