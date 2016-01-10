@@ -15,9 +15,9 @@ class config:
 class DevelopmentConfig(config):
     DEBUG = True
     SQLALCHEMY_ECHO = True
-    SQLALCHEMY_DATABASE_URI = "mysql://root:23985111@localhost/cmdb"
+    SQLALCHEMY_DATABASE_URI = "mysql://root:23985111@localhost/test"
     SQLALCHEMY_POOL_SIZE = 0
-    SQLALCHEMY_ZABBIX_API_URL = "http://42.62.73.236/zabbix/api_jsonrpc.php"
+    SQLALCHEMY_ZABBIX_API_URL = "http://127.0.0.1/zabbix/api_jsonrpc.php"
     SQLALCHEMY_ZABBIX_API_USER = "Admin"
     SQLALCHEMY_ZABBIX_API_PASS = "zabbix"
     SQLALCHEMY_ZABBIX_API_HEADERS = {'Content-Type': 'application/json-rpc'}

@@ -1,4 +1,5 @@
-#coding:utf-8
+#!/usr/bin/env python
+#_*_coding:utf-8_*_
 import os
 import imp
 __auth__='albert'
@@ -31,12 +32,12 @@ class AutoLoad():
     def getCallMethod(self):
         if hasattr(self.module,self.method):
             return getattr(self.module,self.method)
-        return None
+        else:
+            return None
 
     def _load_module(self):
         ret = False
         dirlist = os.listdir(self.moduleDir)
-
 
         for fn in dirlist:
             if fn.endswith('.py'):
@@ -51,9 +52,8 @@ class AutoLoad():
                     finally:
                         fp.close()
                         break
-                # else:
-                #     print "has no find"
-
+                else:
+                    print "module has no find"
         return ret
 
 class Response():
@@ -103,6 +103,7 @@ class JsonRpc(object):
             response.errorMessage = "指定的模块不存在"
             return response
 
+
         if not autoload.isValidMethod(func):
             response.errorCode = 107
             response.errorMessage = "{} 下没有{}该方法".format(module_name,func)
@@ -134,7 +135,7 @@ class JsonRpc(object):
             return False
         if module == "reboot":
             return False
-        return True
+        return False
 
     def validate(self):
         if not self.jsonData.get('jsonrpc',None):
@@ -152,6 +153,7 @@ class JsonRpc(object):
 
         print self.jsonData.get("method")
         print isinstance(self.jsonData.get("params"),dict)
+
 
         if self.jsonData.get("params",None) is None:
             self.jsonError(self.jsonData.get('id',0), 106, "params 没有传")
@@ -182,7 +184,6 @@ class JsonRpc(object):
 107, {} 下没有{}该方法
 108, 该操作需要提供token
 109,{}.{} 不能被调用
-
 """
 
 if __name__ == "__main__":
@@ -194,12 +195,10 @@ if __name__ == "__main__":
     data = {
             "jsonrpc": 2.0,
             "auth": 'null',
-            "method": 'idc.get',
+            "method": 'idc.init',
             "params": {'name':'wd'},
-            "id":2,
+            "id": 2
     }
     jrpc = JsonRpc(data)
     ret = jrpc.execute()
     print ret
-
-

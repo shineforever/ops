@@ -5,6 +5,7 @@ from flask import request
 import json
 from . import main
 from app.core.base import JsonRpc
+import logging
 
 @main.route('/', methods=['GET','POST'])
 def index():
@@ -12,6 +13,7 @@ def index():
 
 @main.route("/api",methods=["GET","POST"])
 def api():
+    # logging.DEBUG("API 被调用")
     allowed_contents = {
         'application/json-rpc':"json-rpc",
         'application/json':"json-rpc",
