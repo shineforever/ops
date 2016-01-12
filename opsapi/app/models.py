@@ -95,7 +95,7 @@ class Cabinet(db.Model):
     def __repr__(self):
         return '<name %r>' % self.name
 
-class Manufacturers(db.Model):
+class Manufacturer(db.Model):
     """
     服务器制造商信息表,表字段如下,
     id , 制造商名称
