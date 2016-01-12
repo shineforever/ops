@@ -3,6 +3,7 @@
 from flask import Flask
 from flask.ext.sqlalchemy import SQLAlchemy
 from config import config
+import logging
 db = SQLAlchemy()
 
 def create_app(config_name):
@@ -14,3 +15,13 @@ def create_app(config_name):
     from .main import main as main_blugprint
     app.register_blueprint(main_blugprint)
     return app
+
+
+logger = logging.getLogger('mylogger')
+logger.setLevel(logging.DEBUG)
+
+ch = logging.StreamHandler()
+ch.setLevel(logging.DEBUG)
+logger.addHandler(ch)
+formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+ch.setFormatter(formatter)

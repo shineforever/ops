@@ -1,16 +1,16 @@
 #_*_coding:utf-8_*_
-from app.models import db, Idc
+from app.models import db, Supplier
 from app.utils import check_field_exists,process_result
 import inspect
 
 def create(**params):
     # 1. 获取参数信息
-    check_field_exists(Idc, params)
+    check_field_exists(Supplier, params)
 
-    print inspect.getmembers(Idc,predicate=inspect.ismethod(id))
+    print inspect.getmembers(Supplier,predicate=inspect.ismethod(id))
 
     # 传参的个数需要验证
-    obj = Idc(**params)
+    obj = Supplier(**params)
 
     # 插入到数据库
     db.session.add(obj)
@@ -26,10 +26,10 @@ def get(**params):
         raise Exception("output必须为列表")
 
     for field in output:
-        if not hasattr(Idc,field):
+        if not hasattr(Supplier,field):
             raise Exception("{}这个输出字段不存在".format(field))
 
-    data = db.session.query(Idc).order_by(order_by).limit(limit).all()
+    data = db.session.query(Supplier).order_by(order_by).limit(limit).all()
     db.session.close()
 
     ret = process_result(data, output)
@@ -43,13 +43,13 @@ def update(**params):
         raise Exception("没有需要的no data")
 
     for field in data.keys():
-        if not hasattr(Idc,field):
+        if not hasattr(Supplier,field):
             raise Exception("需要更新的{}这个字段不存在 no{}")
 
     if not where:
         raise Exception("需要提供where条件 no where")
 
-    if where.get('id',None) is None :
+    if where.get('id', None) is None :
         raise Exception("需要提供id 作为条件 no con")
 
     try:
@@ -59,7 +59,7 @@ def update(**params):
     except ValueError:
         raise Exception("条件id的值必须为int  ")
 
-    ret = db.session.query(Idc).filter_by(**where).update(data)
+    ret = db.session.query(Supplier).filter_by(**where).update(data)
     db.session.commit()
 
     return ret

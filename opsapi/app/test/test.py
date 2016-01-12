@@ -38,13 +38,27 @@ data3 = {
 
 data2 = {
     "jsonrpc": 2.0,
-    "method": "idc.get",
+    "method": "status.get",
     "id": 1,
     "auth": None,
     "params": {}
 }
 
-r = requests.post(url, headers=headers, json=json.dumps(data2))
+data4 = {
+    "jsonrpc": 2.0,
+    "method": "product.create",
+    "id": 1,
+    "auth": None,
+    "params": {
+               "service_name": '搜索产品',
+               "pid": '1',
+               "module_letter": 'search',
+               "dev_interface": 'albert.dev',
+               "op_interface": 'albert.op'
+               }
+
+}
+r = requests.post(url, headers=headers, json=json.dumps(data4))
 
 print r.status_code
 print r.content

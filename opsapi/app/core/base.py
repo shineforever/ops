@@ -2,6 +2,7 @@
 #_*_coding:utf-8_*_
 import os
 import imp
+from app import logger
 __auth__='albert'
 
 """
@@ -67,6 +68,7 @@ class JsonRpc(object):
         self.VERSION = "2.0"
         self._error = True
         self.jsonData = jsonData
+        logger.debug(jsonData)
         self._response = {}
 
     def execute(self):
