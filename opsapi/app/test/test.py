@@ -46,15 +46,23 @@ data2 = {
 
 data4 = {
     "jsonrpc": 2.0,
-    "method": "product.create",
+    "method": "switch.create",
     "id": 1,
     "auth": None,
     "params": {
-               "service_name": '搜索产品',
-               "pid": '1',
-               "module_letter": 'search',
-               "dev_interface": 'albert.dev',
-               "op_interface": 'albert.op'
+               "switch_name": '1',
+               "switch_type": 'cisco 2960',
+               "manager_ip": '172.16.1.12',
+               "category": '网络设备',
+               "idc_id": '1',
+               "cabinet_id": '1',
+               "status": '1',
+               "expire": '2088-1-1',
+               "remark": 'q1 采购的',
+               "manufacturers": '1',
+               "last_op_time": '2016-1-13',
+               "last_op_people": '1',
+               "switch_port_nums": '1'
                }
 
 }

@@ -17,11 +17,9 @@ class Getinfo_host:
         return cpu
 
     def get_mem_info(self):
-        o = []
-        mem = psutil.virtual_memory().total
-        for i in mem:
-            o.append(i)
-        return o
+        mem = psutil.virtual_memory().total/1024/1024/1024
+
+        return mem
 
     # print "虚拟内存: %dG" % (psutil.swap_memory().total/1024/1024/1024)
     def get_disk_info(self):

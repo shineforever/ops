@@ -166,7 +166,7 @@ class Product(db.Model):
     def __repr__(self):
         return '<dev_interface %r>' % self.dev_interface
 
-class power(db.Model):
+class Power(db.Model):
     """
     电源功率信处表,表字段如下,
     id, 功率值
@@ -193,7 +193,50 @@ class IpInfo(db.Model):
         return 'device %r>' % self.device
 
 class Server(db.Model):
-
+    """
+    服务器信息表,表字段如下,
+    供应商 supplier
+    制造商 manufacturers
+    出厂日期 manumanufacturers
+    服务器类型 server_type
+    st/sn号   st
+    自定义资产号 aassets_no
+    所属idc   idc_id
+    所在机柜   cabinet_id
+    机柜内位置  cabinet_pos
+    机器到保日期 expire
+    有无ups电源  ups
+    合作商   parter
+    合作方式 parter_type
+    机器上架日期  server_up_time
+    操作系统类型  os_type
+    操作系统版本  os_version
+    主机名 hostname
+    内网ip   inner_ip
+    mac地址  mac_address
+    ip信息 ip_info
+    cpu型号 server_cpu
+    硬盘信息 server_disk
+    内存信息  server_mem
+    Raid raid
+    RAID卡型号  raid_card_type
+    远程管理卡类型  remote_card
+    远程管理卡ip remote_cardip
+    服务器状态  status
+    备注   remark
+    最后操作时间   last_op_time
+    最后操作人   last_op_people
+    邮件列表   monitor_mail_group
+    主服务/业务线  service_id
+    从服务/产品线  server_purpose
+    故障处理人   trouble_resolve
+    运维接口人   op_interface_other
+    开发人接口   dev_interface
+    上次检测时间  check_update_time
+    是否是虚拟机  vm_status
+    电源功率    power
+    宿主机      host
+    """
     __tablename__       = "server"
     id                  = db.Column(db.Integer,autoincrement=True,primary_key=True)
     supplier            = db.Column(db.Integer,index=True)
