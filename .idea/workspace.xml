@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea349f1-2605-4f27-9de6-eaef9af06391" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opsapi/app/modules/ipinfo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opsapi/app/modules/power.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opsapi/app/modules/server.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opsapi/app/modules/switch.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsapi/app/utils/collection_host.py" afterPath="$PROJECT_DIR$/opsapi/app/utils/collection_host.py" />
+    <list default="true" id="fea349f1-2605-4f27-9de6-eaef9af06391" name="Default" comment="update module">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opsapi/app/templates/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opsapi/app/templates/500.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsapi/app/utils/__init__.py" afterPath="$PROJECT_DIR$/opsapi/app/utils/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsapi/app/modules/cabinet.py" afterPath="$PROJECT_DIR$/opsapi/app/modules/cabinet.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsapi/app/modules/depart.py" afterPath="$PROJECT_DIR$/opsapi/app/modules/depart.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsapi/app/modules/idc.py" afterPath="$PROJECT_DIR$/opsapi/app/modules/idc.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsapi/app/modules/ipinfo.py" afterPath="$PROJECT_DIR$/opsapi/app/modules/ipinfo.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsapi/app/modules/manufacturer.py" afterPath="$PROJECT_DIR$/opsapi/app/modules/manufacturer.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsapi/app/models.py" afterPath="$PROJECT_DIR$/opsapi/app/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsapi/app/modules/power.py" afterPath="$PROJECT_DIR$/opsapi/app/modules/power.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsapi/app/modules/product.py" afterPath="$PROJECT_DIR$/opsapi/app/modules/product.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsapi/app/modules/raid.py" afterPath="$PROJECT_DIR$/opsapi/app/modules/raid.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsapi/app/modules/raidtype.py" afterPath="$PROJECT_DIR$/opsapi/app/modules/raidtype.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsapi/app/modules/server.py" afterPath="$PROJECT_DIR$/opsapi/app/modules/server.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsapi/app/modules/servertype.py" afterPath="$PROJECT_DIR$/opsapi/app/modules/servertype.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsapi/app/modules/status.py" afterPath="$PROJECT_DIR$/opsapi/app/modules/status.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsapi/app/modules/supplier.py" afterPath="$PROJECT_DIR$/opsapi/app/modules/supplier.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsapi/app/modules/switch.py" afterPath="$PROJECT_DIR$/opsapi/app/modules/switch.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsapi/app/test/test.py" afterPath="$PROJECT_DIR$/opsapi/app/test/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsapi/app/modules/user.py" afterPath="$PROJECT_DIR$/opsapi/app/modules/user.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsapi/app/main/views.py" afterPath="$PROJECT_DIR$/opsapi/app/main/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsapi/.idea/workspace.xml" afterPath="$PROJECT_DIR$/opsapi/.idea/workspace.xml" />
     </list>
@@ -64,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/opsapi/app/models.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="97" column="18" selection-start-line="97" selection-start-column="18" selection-end-line="97" selection-end-column="18" />
+              <caret line="97" column="17" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -84,7 +98,7 @@
         <entry file="file://$PROJECT_DIR$/cmdb/pssh.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="17" />
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -104,7 +118,7 @@
         <entry file="file://$PROJECT_DIR$/opsapi/app/modules/manufacturer.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="61" column="39" selection-start-line="61" selection-start-column="39" selection-end-line="61" selection-end-column="39" />
+              <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
               <folding>
                 <element signature="e#20#59#0" expanded="true" />
               </folding>
@@ -184,7 +198,7 @@
     <option name="x" value="1" />
     <option name="y" value="23" />
     <option name="width" value="1279" />
-    <option name="height" value="732" />
+    <option name="height" value="734" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -209,6 +223,41 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ops" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ops" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ops" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ops" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ops" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -269,41 +318,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ops" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ops" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ops" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ops" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ops" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -803,14 +817,20 @@
       <option name="project" value="LOCAL" />
       <updated>1452614448864</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="update module">
+      <created>1452685240210</created>
+      <option name="number" value="00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1452685240210</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="23" width="1279" height="732" extended-state="0" />
+    <frame x="1" y="23" width="1279" height="734" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2384802" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24252222" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5031056" sideWeight="0.50690496" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1186,7 +1206,7 @@
         <state vertical-scroll-proportion="0.6708229">
           <caret line="44" column="14" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
           <folding>
-            <element signature="e#19#37#0" expanded="true" />
+            <element signature="e#19#37#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1202,7 +1222,7 @@
     <entry file="file://$PROJECT_DIR$/opsapi/app/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="97" column="18" selection-start-line="97" selection-start-column="18" selection-end-line="97" selection-end-column="18" />
+          <caret line="97" column="17" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -1210,7 +1230,7 @@
     <entry file="file://$PROJECT_DIR$/opsapi/app/modules/manufacturer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="61" column="39" selection-start-line="61" selection-start-column="39" selection-end-line="61" selection-end-column="39" />
+          <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
           <folding>
             <element signature="e#20#59#0" expanded="true" />
           </folding>
@@ -1230,7 +1250,7 @@
         <state vertical-scroll-proportion="6.009772">
           <caret line="246" column="0" selection-start-line="246" selection-start-column="0" selection-end-line="246" selection-end-column="0" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1246,7 +1266,7 @@
     <entry file="file://$PROJECT_DIR$/cmdb/pssh.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="17" />
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>

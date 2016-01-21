@@ -22,13 +22,6 @@ def get(**params):
     limit = params.get('limit',10)
     order_by = params.get('order_by','id desc')
 
-    if not isinstance(output, list):
-        raise Exception("output必须为列表")
-
-    for field in output:
-        if not hasattr(Server,field):
-            raise Exception("{}这个输出字段不存在".format(field))
-
     data = db.session.query(Server).order_by(order_by).limit(limit).all()
     db.session.close()
 

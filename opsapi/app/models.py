@@ -49,6 +49,7 @@ class Depart(db.Model):
     id                  = db.Column(db.Integer,autoincrement=True,primary_key=True)
     department_name     = db.Column(db.String(50))
     superior            = db.Column(db.Integer,default=0)
+    path                = db.Column(db.String(50),default='')
 
     def __repr__(self):
         return '<department_name % r>' % self.department_name
@@ -69,15 +70,25 @@ class Idc(db.Model):
     """
     __tablename__       = "idc"
     id                  = db.Column(db.Integer,autoincrement=True,primary_key=True)
-    name                = db.Column(db.String(10),nullable=False)
+    print  "aa"
+    name                = db.Column(db.String(10),index=True,nullable=False,unique=True)
+    print "bb"
     idc_name            = db.Column(db.String(30),nullable=False)
+    print "cc"
     address             = db.Column(db.String(255),nullable=False)
+    print "adress"
     phone               = db.Column(db.String(15),nullable=False)
+    print "cc"
     email               = db.Column(db.String(30),nullable=False)
+    print "cc"
     user_interface      = db.Column(db.String(50),nullable=False)
+    print "cc"
     user_phone          = db.Column(db.String(20),nullable=False)
+    print "cc"
     rel_cabinet_num     = db.Column(db.Integer,nullable=False)
+    print "cc"
     pact_cabinet_num    = db.Column(db.Integer,nullable=False)
+    print "cc"
     def getmember(self):
         return inspect.getmembers((self,inspect.ismethod()))
 
@@ -89,9 +100,9 @@ class Cabinet(db.Model):
     """
     __tablename__       = "cabinet"
     id                  = db.Column(db.Integer,autoincrement=True,primary_key=True)
-    name                = db.Column(db.String(30),nullable=False)
-    idc_id              = db.Column(db.Integer,index=True,nullable=False)
-    power               = db.Column(db.String(20))
+    name                = db.Column(db.String(50),nullable=False,default='')
+    idc_id              = db.Column(db.String(50),index=True,nullable=False,default=0)
+    power               = db.Column(db.String(50),default='')
     def __repr__(self):
         return '<name %r>' % self.name
 
@@ -173,7 +184,7 @@ class Power(db.Model):
     """
     __tablename__       = "power"
     id                  = db.Column(db.Integer,autoincrement=True,primary_key=True)
-    server_power        = db.Column(db.String(20),nullable=False)
+    server_power        = db.Column(db.String(50),nullable=False)
     def __repr__(self):
         return '<server_power %r>' % self.server_power
 

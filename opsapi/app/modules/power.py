@@ -1,6 +1,6 @@
 #_*_coding:utf-8_*_
 from app.models import db, Power
-from app.utils import check_field_exists,process_result
+from app.utils import check_field_exists,process_result,check_order_by,check_limit,check_output_field,check_update_params
 import inspect
 
 def create(**params):
@@ -14,7 +14,12 @@ def create(**params):
 
     # 插入到数据库
     db.session.add(obj)
-    db.session.commit()
+
+    try:
+        db.session.commit()
+    except Exception,e:
+        print e.message.split()[1]
+        raise Exception(e.message.split(") ")[1])
     return obj.id
 
 def get(**params):
@@ -22,13 +27,9 @@ def get(**params):
     limit = params.get('limit',10)
     order_by = params.get('order_by','id desc')
 
-    if not isinstance(output, list):
-        raise Exception("output必须为列表")
-
-    for field in output:
-        if not hasattr(Power,field):
-            raise Exception("{}这个输出字段不存在".format(field))
-
+    check_output_field(Power,output)
+    check_order_by(Power,order_by)
+    check_limit(limit)
     data = db.session.query(Power).order_by(order_by).limit(limit).all()
     db.session.close()
 
@@ -39,27 +40,12 @@ def update(**params):
     data = params.get('data',{})
     where = params.get('where',{})
 
-    if not data:
-        raise Exception("没有需要的no data")
-
-    for field in data.keys():
-        if not hasattr(Power,field):
-            raise Exception("需要更新的{}这个字段不存在 no{}")
-
-    if not where:
-        raise Exception("需要提供where条件 no where")
-
-    if where.get('id', None) is None :
-        raise Exception("需要提供id 作为条件 no con")
-
-    try:
-        id = int(where['id'])
-        if id <= 0:
-            raise Exception("条件id的值不能为负数  id")
-    except ValueError:
-        raise Exception("条件id的值必须为int  ")
-
+    check_update_params(Power,data,where)
     ret = db.session.query(Power).filter_by(**where).update(data)
-    db.session.commit()
+    try:
+        db.session.commit()
+    except Exception,e:
+        print e.message.split()[1]
+        raise Exception(e.message.split(") ")[1])
 
     return ret

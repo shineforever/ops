@@ -1,20 +1,24 @@
 #_*_coding:utf-8_*_
-from app.models import db, Servertype
-from app.utils import check_field_exists,process_result
+from app.models import db, Servertype, Manufacturer
+from app.utils import *
 import inspect
 
 def create(**params):
     # 1. 获取参数信息
     check_field_exists(Servertype, params)
-
-    print inspect.getmembers(Servertype,predicate=inspect.ismethod(id))
+    check_value_exists(Manufacturer,"id", params.get("manufacturers_id",None))
 
     # 传参的个数需要验证
     obj = Servertype(**params)
 
     # 插入到数据库
     db.session.add(obj)
-    db.session.commit()
+
+    try:
+        db.session.commit()
+    except Exception,e:
+        print e.message.split()[1]
+        raise Exception(e.message.split(") ")[1])
     return obj.id
 
 def get(**params):
@@ -22,12 +26,9 @@ def get(**params):
     limit = params.get('limit',10)
     order_by = params.get('order_by','id desc')
 
-    if not isinstance(output, list):
-        raise Exception("output必须为列表")
-
-    for field in output:
-        if not hasattr(Servertype,field):
-            raise Exception("{}这个输出字段不存在".format(field))
+    check_output_field(Servertype,output)
+    check_order_by(Servertype,order_by)
+    check_limit(limit)
 
     data = db.session.query(Servertype).order_by(order_by).limit(limit).all()
     db.session.close()
@@ -39,27 +40,16 @@ def update(**params):
     data = params.get('data',{})
     where = params.get('where',{})
 
-    if not data:
-        raise Exception("没有需要的no data")
+    check_update_params(Servertype,data,where)
 
-    for field in data.keys():
-        if not hasattr(Servertype,field):
-            raise Exception("需要更新的{}这个字段不存在 no{}")
-
-    if not where:
-        raise Exception("需要提供where条件 no where")
-
-    if where.get('id', None) is None :
-        raise Exception("需要提供id 作为条件 no con")
-
-    try:
-        id = int(where['id'])
-        if id <= 0:
-            raise Exception("条件id的值不能为负数  id")
-    except ValueError:
-        raise Exception("条件id的值必须为int  ")
+    if "manufacturers_id" in data:
+        check_value_exists(Supplier, "id", params.get("manufacturers_id",None))
 
     ret = db.session.query(Servertype).filter_by(**where).update(data)
-    db.session.commit()
+    try:
+        db.session.commit()
+    except Exception,e:
+        print e.message.split()[1]
+        raise Exception(e.message.split(") ")[1])
 
     return ret

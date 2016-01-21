@@ -7,11 +7,11 @@ headers = {"Content-type": "application/json"}
 
 data = {
     "jsonrpc": 2.0,
-    "method": "idc.update",
+    "method": "power.update",
     "id": 1,
     "auth": None,
     "params": {
-        "data":{"name":"albert"},
+        "data":{"power":"160"},
         "where":{"id":1}
     }
 
@@ -23,7 +23,7 @@ data3 = {
     "id": 1,
     "auth": None,
     "params": {
-               "name": 'wd',
+               "name": 'zhang',
                "idc_name": "杭州拱墅",
                "address": "杭州拱墅",
                "phone": "18667156110",
@@ -38,10 +38,10 @@ data3 = {
 
 data2 = {
     "jsonrpc": 2.0,
-    "method": "status.get",
+    "method": "idc.get",
     "id": 1,
     "auth": None,
-    "params": {}
+    "params": {"output": ["id", "name"]}
 }
 
 data4 = {
@@ -66,7 +66,20 @@ data4 = {
                }
 
 }
-r = requests.post(url, headers=headers, json=json.dumps(data4))
+
+data5 = {
+    "jsonrpc": 2.0,
+    "method": "cabinet.create",
+    "id": 2,
+    "auth": None,
+    "params": {
+         "name": "albert221",
+         "idc_id": "1",
+         "power": '1000',
+
+    }
+}
+r = requests.post(url, headers=headers, json=json.dumps(data2))
 
 print r.status_code
-print r.content
+print json.loads(r.content)

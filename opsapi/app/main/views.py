@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding:utf-8
 from __future__ import unicode_literals
-from flask import request
+from flask import request, render_template
 import json
 from . import main
 from app.core.base import JsonRpc
@@ -9,7 +9,7 @@ from app import logger
 
 @main.route('/', methods=['GET','POST'])
 def index():
-    return 'index'
+    return render_template("dashboard.html")
 
 @main.route("/api",methods=["GET","POST"])
 def api():
