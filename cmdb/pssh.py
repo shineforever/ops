@@ -46,7 +46,7 @@ def get_host_by_env(env):
     re = json.loads(r.content)
     
     for r in re:
-    le
+
        print r['ip'],
 #        sys.stdout.write(r['ip']+" ")
 #        sys.stdout.flush()
