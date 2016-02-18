@@ -2,10 +2,10 @@
 # -*- coding: utf-8 -*-
 import json
 import urllib2
-import sys
+import sys,requests
 class zabbixtools:
     def __init__(self):
-        self.url = "http://monitor.vdian.net//zabbix/api_jsonrpc.php"
+        self.url = "http://192.168.1.103/api_jsonrpc.php"
         self.header = {"Content-Type": "application/json"}
         self.authID = self.user_login()
     def user_login(self):
@@ -14,17 +14,18 @@ class zabbixtools:
                     "jsonrpc": "2.0",
                     "method": "user.login",
                     "params": {
-                        "user": "zhanglongbao",
-                        "password": "albert@23985111"
+                        "user": "admin",
+                        "password": "zabbix"
                         },
                     "id": 0
                     })
         request = urllib2.Request(self.url,data)
-        for key in self.header:
-            request.add_header(key,self.header[key])
+        r = requests.post(self.url, headers=self.header, data=json.dumps(data))
+        # for key in self.header:
+        #     request.add_header(key,self.header[key])
         try:
             result = urllib2.urlopen(request)
-        except URLError as e:
+        except Exception as e:
             print "Auth Failed, Please Check Your Name And Password:",e.code
         else:
             response = json.loads(result.read())
@@ -37,7 +38,7 @@ class zabbixtools:
             request.add_header(key,self.header[key])
         try:
             result = urllib2.urlopen(request)
-        except URLError as e:
+        except Exception as e:
             if hasattr(e, 'reason'):
                 print 'We failed to reach a server.'
                 print 'Reason: ', e.reason

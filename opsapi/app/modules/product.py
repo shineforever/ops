@@ -6,8 +6,10 @@ import inspect
 def create(**params):
     # 1. 获取参数信息
     check_field_exists(Product, params)
-    if params.get("pid",0) != 0:
-        check_value_exists(Product, "id", params.get("pid",None))
+    pid = params.get("pid")[0] if isinstance(params.get('pid'),list) else params.get('pid')
+
+    if int(pid) != 0:
+        check_value_exists(Product, "id", pid)
 
     # 传参的个数需要验证
     obj = Product(**params)

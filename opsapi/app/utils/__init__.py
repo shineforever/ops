@@ -42,7 +42,6 @@ def process_result(data, output):
 
 def check_order_by(obj,order_by=''):
     """
-
     :param obj:
     :param order_by:
     :return:
@@ -74,24 +73,32 @@ def check_output_field(obj,output=[]):
 
 def check_update_params(obj,data,where):
     if not data:
-        raise Exception("没有需要的no data")
+        raise Exception("no data")
 
     for field in data.keys():
         if not hasattr(obj,field):
-            raise Exception("需要更新的{}这个字段不存在 no{}")
+            raise Exception("需要更新的{}字段不存在".format(field))
 
     if not where:
-        raise Exception("需要提供where条件 no where")
+        raise Exception("需要提供where条件 no where".format(where))
 
-    if where.get('id',None) is None :
-        raise Exception("需要提供id 作为条件 no con")
+    if where.get('id', None) is None:
+        if where.get('uuid',None) is None:
+            raise Exception("need update condition")
+
+    # try:
+    #     id = int(where['id'])
+    #     if id <= 0:
+    #         raise Exception("条件id的值不能为负数  id")
+    # except ValueError:
+    #     raise Exception("条件id的值必须为int  ")
 
     try:
-        id = int(where['id'])
-        if id <= 0:
-            raise Exception("条件id的值不能为负数  id")
-    except ValueError:
-        raise Exception("条件id的值必须为int  ")
+        id = where['id'] if where.has_key('id') else where.get('uuid', 0)
+        if int(id) <= 0:
+            raise Exception("条件id的值不能为负数")
+    except Exception,e:
+        raise Exception("条件错误{}".format(e.message))
 
 def check_value_exists(obj,name,value):
     from app.models import db

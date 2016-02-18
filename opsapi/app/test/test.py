@@ -11,7 +11,7 @@ data = {
     "id": 1,
     "auth": None,
     "params": {
-        "data":{"power":"160"},
+        "data":{"server_power":"320"},
         "where":{"id":1}
     }
 
@@ -79,7 +79,7 @@ data5 = {
 
     }
 }
-r = requests.post(url, headers=headers, json=json.dumps(data2))
+r = requests.post(url, headers=headers, json=json.dumps(data))
 
 print r.status_code
 print json.loads(r.content)
