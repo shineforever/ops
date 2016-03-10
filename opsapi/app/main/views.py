@@ -32,9 +32,12 @@ def api():
         'application/json':"json-rpc",
     }
     if allowed_contents.get(request.content_type,None):
+        print "11"
         jsonData = json.loads(request.get_json())
         jsonrpc = JsonRpc(jsonData)
         ret = jsonrpc.execute()
         return json.dumps(ret,cls=CjsonEncoder)
     else:
         return "404", 404
+
+

@@ -5,7 +5,7 @@ import inspect
 
 def create(**params):
     # 1. 获取参数信息
-    check_field_exists(Product, params)
+    # check_field_exists(Product, params)
     pid = params.get("pid")[0] if isinstance(params.get('pid'),list) else params.get('pid')
 
     if int(pid) != 0:

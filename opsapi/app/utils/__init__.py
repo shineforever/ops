@@ -1,5 +1,6 @@
+#!/usr/bin/env python
 # coding:utf-8
-__author__ = 'albert233'
+
 from app import logger
 
 def check_field_exists(obj,data,field_none=[]):
@@ -29,7 +30,7 @@ def process_result(data, output):
             tmp = {}
             for f in output:
                 tmp[f] = getattr(obj,f)
-                ret.append(tmp)
+            ret.append(tmp)
         else:
             tmp = obj.__dict__
             for p in black:

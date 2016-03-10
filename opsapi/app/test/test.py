@@ -14,12 +14,11 @@ data = {
         "data":{"server_power":"320"},
         "where":{"id":1}
     }
-
 }
 
 data3 = {
     "jsonrpc": 2.0,
-    "method": "idc.create",
+    "method": "manufacturer.create",
     "id": 1,
     "auth": None,
     "params": {
@@ -38,10 +37,10 @@ data3 = {
 
 data2 = {
     "jsonrpc": 2.0,
-    "method": "idc.get",
+    "method": "product.get",
     "id": 1,
     "auth": None,
-    "params": {"output": ["id", "name"]}
+    "params": {}
 }
 
 data4 = {
@@ -69,17 +68,22 @@ data4 = {
 
 data5 = {
     "jsonrpc": 2.0,
-    "method": "cabinet.create",
-    "id": 2,
+    "method": "product.create",
+    "id": 1,
     "auth": None,
     "params": {
-         "name": "albert221",
-         "idc_id": "1",
-         "power": '1000',
+         "service_name": "交易中心",
+         "pid": "0",
+         "module_letter": '1000',
+         "dev_interface": '358377264@qq.com',
+         "op_interface": '358377264@qq.com'
 
     }
 }
-r = requests.post(url, headers=headers, json=json.dumps(data))
+
+r = requests.post(url, headers=headers, json=json.dumps(data5))
+
 
 print r.status_code
 print json.loads(r.content)
+

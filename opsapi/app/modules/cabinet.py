@@ -1,13 +1,12 @@
-#_*_coding:utf-8_*_
+# coding:utf-8
 from app.models import db, Cabinet,Idc,Power
-from app.utils import check_field_exists,process_result,check_order_by,check_limit,check_output_field,\
-    check_update_params,check_value_exists
+from app.utils import *
 import inspect
 
 def create(**params):
     # 1. 获取参数信息
     check_field_exists(Cabinet, params)
-    check_value_exists(Idc,"id",params.get("idc_id",None))
+    check_value_exists(Idc,"name",params.get("idc_id",None))
     check_value_exists(Power,"server_power",params.get("power",None))
 
     print inspect.getmembers(Cabinet,predicate=inspect.ismethod(id))

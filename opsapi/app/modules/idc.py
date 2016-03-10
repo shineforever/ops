@@ -1,4 +1,4 @@
-#_*_coding:utf-8_*_
+# coding:utf-8
 from app.models import db, Idc
 from app.utils import check_field_exists,process_result,check_order_by,check_limit,check_output_field,check_update_params
 import inspect
@@ -34,6 +34,8 @@ def get(**params):
     db.session.close()
 
     ret = process_result(data, output)
+
+
     return ret
 
 def update(**params):

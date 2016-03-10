@@ -102,7 +102,7 @@ class JsonRpc(object):
 
         if not autoload.isValidModule():
             response.errorCode = 106
-            response.errorMessage = "指定的模块不存在"
+            response.errorMessage = "指定的模块不存在".format("指定的模块不存在")
             return response
 
 
@@ -115,7 +115,7 @@ class JsonRpc(object):
         if flag:
             if auth is None:
                 response.errorCode = 108
-                response.errorMessage = "该操作需要提供token"
+                response.errorMessage = "该操作需要提供token".format()
                 return response
             else:
                 pass

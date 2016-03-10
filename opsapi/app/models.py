@@ -70,25 +70,16 @@ class Idc(db.Model):
     """
     __tablename__       = "idc"
     id                  = db.Column(db.Integer,autoincrement=True,primary_key=True)
-    print  "aa"
     name                = db.Column(db.String(10),index=True,nullable=False,unique=True)
-    print "bb"
     idc_name            = db.Column(db.String(30),nullable=False)
-    print "cc"
     address             = db.Column(db.String(255),nullable=False)
-    print "adress"
     phone               = db.Column(db.String(15),nullable=False)
-    print "cc"
     email               = db.Column(db.String(30),nullable=False)
-    print "cc"
     user_interface      = db.Column(db.String(50),nullable=False)
-    print "cc"
     user_phone          = db.Column(db.String(20),nullable=False)
-    print "cc"
     rel_cabinet_num     = db.Column(db.Integer,nullable=False)
-    print "cc"
     pact_cabinet_num    = db.Column(db.Integer,nullable=False)
-    print "cc"
+
     def getmember(self):
         return inspect.getmembers((self,inspect.ismethod()))
 
@@ -265,7 +256,7 @@ class Server(db.Model):
     parter              = db.Column(db.String(50))
     parter_type         = db.Column(db.String(50))
     server_up_time      = db.Column(db.Date)
-    os                 = db.Column(db.String(50),nullable=False)
+    os                 = db.Column(db.String(50))
     # os_version          = db.Column(db.String(10))
     hostname            = db.Column(db.String(32),index=True,nullable=False)
     inner_ip            = db.Column(db.String(32),index=True,nullable=False)
@@ -289,8 +280,9 @@ class Server(db.Model):
     op_interface_other  = db.Column(db.Integer)
     dev_interface       = db.Column(db.Integer)
     check_update_time   = db.Column(db.DateTime)
-    vm_status           = db.Column(db.Integer,index=True,nullable=False)
+    vm_status           = db.Column(db.Integer,index=True)
     power               = db.Column(db.Integer,index=True,default='0')
+    host                = db.Column(db.Integer)
 
 
 class Switch(db.Model):
@@ -324,10 +316,27 @@ class Switch(db.Model):
     manufacturers       = db.Column(db.Integer)
     last_op_time        = db.Column(db.DateTime)
     last_op_people      = db.Column(db.Integer)
-    switch_port_nums    = db.Column(db.Integer)
+    switch_port_nums    = db.Column(db.Integer,default=0)
 
+class ZbHost(db.Model):
+    __tablename__ = 'zbhost'
+    id            = db.Column(db.Integer,primary_key=True)
+    cmdb_hostid   = db.Column(db.Integer,index=True,unique=True)
+    hostid        = db.Column(db.Integer,index=True,unique=True)
+    host          = db.Column(db.String(50))
+    ip            = db.Column(db.String(32))
 
+class GraphiteKeys(db.Model):
+    __tablename__ = 'graphite_keys'
+    id            = db.Column(db.Integer, primary_key=True)
+    name          = db.Column(db.String(200),unique=True)
+    type          = db.Column(db.String(20))
+    title         = db.Column(db.String(50))
+    status        = db.Column(db.Integer,index=True,default=0)
 
-
+class GraphiteGroupKey(db.Model):
+    __tablename__ ='graphite_group_key'
+    id            = db.Column(db.Integer,primary_key=True)
+    service_id    = db.Column(db.Integer, index=True)
 
 

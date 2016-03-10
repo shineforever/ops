@@ -27,12 +27,15 @@ def get(**params):
     output = params.get('output',[])
     limit = params.get('limit',10)
     order_by = params.get('order_by','id desc')
+    where = {}
+    if params.get('where') and isinstance(params['where'],dict):
+        where = params['where']
 
     check_output_field(Server, output)
     check_order_by(Server, order_by)
     check_limit(limit)
 
-    data = db.session.query(Server).order_by(order_by).limit(limit).all()
+    data = db.session.query(Server).filter_by(**where).order_by(order_by).limit(limit).all()
     db.session.close()
 
     ret = process_result(data, output)

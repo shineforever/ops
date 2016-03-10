@@ -2,8 +2,8 @@
 #-*- coding: utf-8 -*-
 #****************************************************************#
 # ScriptName: forssh.py
-# Create Date: 2015-11-23 13:47
-# Modify Date: 2015-11-23 13:47
+# Create Date: 2016-02-20 13:47
+# Modify Date: 2016-02-20 13:47
 #***************************************************************#
 import paramiko
 import threading
@@ -35,8 +35,8 @@ class fornode:
     if __name__=='__main__':
 #    cmd = ['uptime']
         cmd = [sys.argv[2]]
-        username = "www"
-        passwd = ""
+        username = "root"
+        passwd = "aJ3powei@FNcloud"
         threads = []
         app=sys.argv[1]
 
