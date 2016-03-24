@@ -26,8 +26,8 @@ def send_mail(msg):
         "from": "jdb_tech@163.com",
      #   "to":  'hebin@jiedaibao.com',
         "hostname": "smtp.163.com",
-        "username": "jdb_tech",
-        "password": "zlydvd120",
+        "username": "jxx",
+        "password": "xxx",
         "mailsubject": "Alter mail: DataReporter Exception :" + msg,
         "mailtext": msg,
         "mailencoding": "utf-8"
@@ -131,10 +131,10 @@ def write_txt(filename):
         shut_jvm()
 
 def upload_txt(filename):
-    hostname = '100.1xx.xxx'
+    hostname = '100.12xx.xxx.xx'
     port = 22
     ftp_name = 'upload'
-    password = 'xxxx'
+    password = 'jxxx'
 
     localpath = "/home/ops/" + filename
     remotepath = "/upload/" + filename

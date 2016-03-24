@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea349f1-2605-4f27-9de6-eaef9af06391" name="Default" comment="update module">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opsapi/app/test/test_opsmanager.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsapi/.idea/misc.xml" afterPath="$PROJECT_DIR$/opsapi/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsapi/app/models.py" afterPath="$PROJECT_DIR$/opsapi/app/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsapi/.idea/opsapi.iml" afterPath="$PROJECT_DIR$/opsapi/.idea/opsapi.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsapi/app/test/test.py" afterPath="$PROJECT_DIR$/opsapi/app/test/test.py" />
+    <list default="true" id="fea349f1-2605-4f27-9de6-eaef9af06391" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opsapi/.idea/workspace.xml" afterPath="$PROJECT_DIR$/opsapi/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmdb/yh_export.py" afterPath="$PROJECT_DIR$/cmdb/yh_export.py" />
     </list>
     <ignored path="ops.iws" />
@@ -75,11 +69,11 @@
       <file leaf-file-name="yh_export.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cmdb/yh_export.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.43686005">
-              <caret line="136" column="20" selection-start-line="136" selection-start-column="20" selection-end-line="136" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.1010274">
+              <caret line="133" column="31" selection-start-line="133" selection-start-column="31" selection-end-line="133" selection-end-column="31" />
               <folding>
                 <element signature="e#38#54#0" expanded="true" />
-                <marker date="1458795184000" expanded="true" signature="2039:2473" placeholder="SELECT T.REG..URMTPINF..." />
+                <marker date="1458795224000" expanded="true" signature="2028:2462" placeholder="SELECT T.REG..URMTPINF..." />
               </folding>
             </state>
           </provider>
@@ -796,7 +790,13 @@
       <option name="project" value="LOCAL" />
       <updated>1457584758026</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="update module">
+      <created>1458795189475</created>
+      <option name="number" value="00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1458795189475</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -805,6 +805,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18901454" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296875" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5031056" sideWeight="0.50690496" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -814,7 +815,6 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30062306" sideWeight="0.4951673" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296875" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1229,11 +1229,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cmdb/yh_export.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43686005">
-          <caret line="136" column="20" selection-start-line="136" selection-start-column="20" selection-end-line="136" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.1010274">
+          <caret line="133" column="31" selection-start-line="133" selection-start-column="31" selection-end-line="133" selection-end-column="31" />
           <folding>
             <element signature="e#38#54#0" expanded="true" />
-            <marker date="1458795184000" expanded="true" signature="2039:2473" placeholder="SELECT T.REG..URMTPINF..." />
+            <marker date="1458795224000" expanded="true" signature="2028:2462" placeholder="SELECT T.REG..URMTPINF..." />
           </folding>
         </state>
       </provider>
