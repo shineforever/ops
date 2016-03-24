@@ -88,7 +88,6 @@ l = LDAPTool()
 
 print l.ldap_get_vaild('zhanglongbao',PASSWORD)
 print l.ldap_search_dn('liuqir')
-print l.ldap_update_pass('zhanglongbao',PASSWORD,'zlydvd120')
 print l.ldap_get_user('zhanglongbao')
 
 print l.ldap_search_dn('*zhanglongbao*')

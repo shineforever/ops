@@ -71,7 +71,7 @@ def dcode(mw):
     return s
 
 def dbconn():
-        dbconn = 'tempuser1/ymiU1iaGD4R2fWC8@100.115.3.1/dbm01dg2'
+        dbconn = 'tempuser1/ymiU1iaGD4R2fWC8@1m01dg2'
        # sql = 'select * from mbl_test'
         sql = """
         SELECT T.REG_MBL, 
