@@ -3,7 +3,7 @@ import sys,ldap
 import ldap
 
 LDAP_HOST = 'ldap://10.2.1.200:389'
-USER = 'cn=zhanglongbao,dc=koudai,dc=com'
+USER = 'cn=xxxxx'
 PASSWORD = 'albert@23985111'
 BASE_DN = 'ou=People,dc=koudai,dc=com'
 class LDAPTool: 
