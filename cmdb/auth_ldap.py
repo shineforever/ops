@@ -3,9 +3,9 @@ import sys,ldap
 import ldap
 
 LDAP_HOST = 'ldap://10.2.1.200:389'
-USER = 'cn=zhanglongbao,dc=koudai,dc=com'
-PASSWORD = 'asdasd'
-BASE_DN = 'ou=People,dc=koudai,dc=com'
+USER = 'cn=z,dc=ko,dc=com'
+PASSWORD = 'a'
+BASE_DN = ''
 class LDAPTool: 
       
     def __init__(self,ldap_host=None,base_dn=None,user=None,password=None): 
