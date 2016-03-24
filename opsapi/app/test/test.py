@@ -81,8 +81,7 @@ data5 = {
     }
 }
 
-r = requests.post(url, headers=headers, json=json.dumps(data5))
-
+r = requests.post(url, headers=headers, json=json.dumps(data2))
 
 print r.status_code
 print json.loads(r.content)

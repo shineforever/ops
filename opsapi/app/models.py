@@ -338,5 +338,6 @@ class GraphiteGroupKey(db.Model):
     __tablename__ ='graphite_group_key'
     id            = db.Column(db.Integer,primary_key=True)
     service_id    = db.Column(db.Integer, index=True)
+    key_id        = db.Column(db.Integer)
 
 

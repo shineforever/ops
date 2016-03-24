@@ -131,10 +131,10 @@ def write_txt(filename):
         shut_jvm()
 
 def upload_txt(filename):
-    hostname = '100.126.1.221'
+    hostname = '100.1xx.xxx'
     port = 22
     ftp_name = 'upload'
-    password = 'jdbsftpupload'
+    password = 'xxxx'
 
     localpath = "/home/ops/" + filename
     remotepath = "/upload/" + filename
